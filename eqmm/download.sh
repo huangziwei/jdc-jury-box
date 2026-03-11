@@ -179,6 +179,26 @@ converted=0
 skipped=0
 errors=0
 
+# Issues not available on archive.org — download from alternate sources
+declare -A ALT_URLS
+ALT_URLS["1969-09"]="https://s3.us-west-1.wasabisys.com/luminist/PU/EQMM_1969_09.pdf"
+
+if [[ "$DOWNLOAD" == true ]]; then
+    for ym in "${!ALT_URLS[@]}"; do
+        pdffile="${OUTDIR}/EQMM_${ym}.pdf"
+        if [[ -f "$pdffile" ]] || [[ -d "${OUTDIR}/EQMM_${ym}" ]]; then
+            echo "[ALT] $ym — already exists, skipping"
+        else
+            echo "[ALT] $ym — downloading from alternate source..."
+            curl -sL -o "$pdffile" "${ALT_URLS[$ym]}" || {
+                echo "  ERROR: download failed for $ym"
+                ((errors++)) || true
+            }
+        fi
+        ((found++)) || true
+    done
+fi
+
 for year in $(seq 1969 1976); do
     decade=$(decade_for_year "$year")
     year_url="${BASE_URL}/${decade}/${year}/"
