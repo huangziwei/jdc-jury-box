@@ -12,12 +12,12 @@
 #   ./download_carr_eqmm.sh --download  # actually download
 #
 # Requirements: curl, grep, sed, unzip, img2pdf (for CBZ/CBR→PDF conversion)
-# Downloads go into: ./eqmm_carr_columns/
+# Downloads go into: current directory
 
 set -euo pipefail
 
 BASE_URL="https://archive.org/download/detective-mystery-pulp-magazine-scans/Detective-Mystery%20Pulp%20Torrent/Ellery%20Queen%27s%20Mystery%20Magazine%20-%20US"
-OUTDIR="./eqmm_carr_columns"
+OUTDIR="."
 DOWNLOAD=false
 
 if [[ "${1:-}" == "--download" ]]; then
@@ -82,40 +82,26 @@ cbz_to_pdf() {
     local ext_lower
     ext_lower=$(echo "${infile##*.}" | tr '[:upper:]' '[:lower:]')
 
-    # Extract images
+    # Extract images (try multiple tools as fallback).
+    # Note: 7z may exit non-zero for partially corrupt archives but still
+    # extract usable files, so we don't rely on exit codes alone.
     if [[ "$ext_lower" == "cbz" ]]; then
-        unzip -q -j "$infile" -d "$tmpdir" 2>/dev/null || {
-            echo "         ERROR: failed to unzip $infile"
-            rm -rf "$tmpdir"
-            return 1
-        }
+        unzip -q -j "$infile" -d "$tmpdir" 2>/dev/null \
+            || 7z x -o"$tmpdir" "$infile" >/dev/null 2>&1 \
+            || true
     elif [[ "$ext_lower" == "cbr" ]]; then
         if command -v unrar >/dev/null 2>&1; then
-            unrar x -inul "$infile" "$tmpdir/" 2>/dev/null || {
-                echo "         ERROR: failed to unrar $infile"
-                rm -rf "$tmpdir"
-                return 1
-            }
-        elif command -v 7z >/dev/null 2>&1; then
-            7z x -o"$tmpdir" "$infile" >/dev/null 2>&1 || {
-                echo "         ERROR: failed to extract $infile (tried 7z)"
-                rm -rf "$tmpdir"
-                return 1
-            }
-        else
-            echo "         ERROR: need unrar or 7z to extract .cbr files"
-            rm -rf "$tmpdir"
-            return 1
+            unrar x -inul "$infile" "$tmpdir/" 2>/dev/null || true
         fi
-    else
-        echo "         ERROR: unsupported format .$ext_lower"
-        rm -rf "$tmpdir"
-        return 1
+        # Try 7z as fallback (or primary if unrar not installed)
+        if [[ -z "$(find "$tmpdir" -type f -size +0 2>/dev/null | head -1)" ]]; then
+            7z x -o"$tmpdir" "$infile" >/dev/null 2>&1 || true
+        fi
     fi
 
-    # Collect image files sorted by name (find images in subdirs too)
+    # Collect non-empty image files sorted by name (find images in subdirs too)
     local images
-    images=$(find "$tmpdir" -type f \( -iname '*.jpg' -o -iname '*.jpeg' -o -iname '*.png' -o -iname '*.gif' -o -iname '*.webp' -o -iname '*.tif' -o -iname '*.tiff' \) | sort)
+    images=$(find "$tmpdir" -type f -size +0 \( -iname '*.jpg' -o -iname '*.jpeg' -o -iname '*.png' -o -iname '*.gif' -o -iname '*.webp' -o -iname '*.tif' -o -iname '*.tiff' \) | sort)
 
     if [[ -z "$images" ]]; then
         echo "         ERROR: no images found in archive"
