@@ -10,18 +10,28 @@
 #   chmod +x download_carr_eqmm.sh
 #   ./download_carr_eqmm.sh            # dry run (list files only)
 #   ./download_carr_eqmm.sh --download  # actually download
+#   ./download_carr_eqmm.sh --convert   # convert local CBZ/CBR files to PDF only
 #
 # Requirements: curl, grep, sed, unzip, img2pdf (for CBZ/CBR→PDF conversion)
 # Downloads go into: current directory
 
 set -euo pipefail
 
+# Install unar if needed (required for CBR extraction)
+if ! command -v unar >/dev/null 2>&1; then
+    echo "unar not found — installing via Homebrew..."
+    brew install unar
+fi
+
 BASE_URL="https://archive.org/download/detective-mystery-pulp-magazine-scans/Detective-Mystery%20Pulp%20Torrent/Ellery%20Queen%27s%20Mystery%20Magazine%20-%20US"
 OUTDIR="."
 DOWNLOAD=false
+CONVERT_ONLY=false
 
 if [[ "${1:-}" == "--download" ]]; then
     DOWNLOAD=true
+elif [[ "${1:-}" == "--convert" ]]; then
+    CONVERT_ONLY=true
 fi
 
 # Months Carr's column appeared (for filtering).
@@ -51,7 +61,9 @@ echo "Looking for EQMM issues: Jan 1969 – Nov 1976"
 echo "Expected columns: ~91 (with 4 known gaps)"
 echo ""
 
-if [[ "$DOWNLOAD" == true ]]; then
+if [[ "$CONVERT_ONLY" == true ]]; then
+    echo "CONVERT mode — converting local CBZ/CBR files to PDF"
+elif [[ "$DOWNLOAD" == true ]]; then
     mkdir -p "$OUTDIR"
     echo "Download mode ON — files go to $OUTDIR/"
 else
@@ -83,21 +95,22 @@ cbz_to_pdf() {
     ext_lower=$(echo "${infile##*.}" | tr '[:upper:]' '[:lower:]')
 
     # Extract images (try multiple tools as fallback).
-    # Note: 7z may exit non-zero for partially corrupt archives but still
-    # extract usable files, so we don't rely on exit codes alone.
     if [[ "$ext_lower" == "cbz" ]]; then
         unzip -q -j "$infile" -d "$tmpdir" 2>/dev/null \
-            || 7z x -o"$tmpdir" "$infile" >/dev/null 2>&1 \
+            || bsdtar xf "$infile" -C "$tmpdir" 2>/dev/null \
             || true
     elif [[ "$ext_lower" == "cbr" ]]; then
-        if command -v unrar >/dev/null 2>&1; then
-            unrar x -inul "$infile" "$tmpdir/" 2>/dev/null || true
-        fi
-        # Try 7z as fallback (or primary if unrar not installed)
-        if [[ -z "$(find "$tmpdir" -type f -size +0 2>/dev/null | head -1)" ]]; then
+        if command -v unar >/dev/null 2>&1; then
+            unar -q -o "$tmpdir" "$infile" 2>/dev/null || true
+        elif command -v bsdtar >/dev/null 2>&1; then
+            bsdtar xf "$infile" -C "$tmpdir" 2>/dev/null || true
+        else
             7z x -o"$tmpdir" "$infile" >/dev/null 2>&1 || true
         fi
     fi
+
+    # Fix permissions (some archives have files with no read access)
+    chmod -R u+r "$tmpdir"
 
     # Collect non-empty image files sorted by name (find images in subdirs too)
     local images
@@ -129,6 +142,37 @@ decade_for_year() {
         echo "1970-1979"
     fi
 }
+
+# --convert mode: convert local CBZ/CBR files to PDF, then exit.
+if [[ "$CONVERT_ONLY" == true ]]; then
+    converted=0
+    errors=0
+    skipped=0
+    for f in "${OUTDIR}"/EQMM_*.cbr "${OUTDIR}"/EQMM_*.cbz; do
+        [[ -f "$f" ]] || continue
+        pdf="${f%.*}.pdf"
+        if [[ -f "$pdf" ]]; then
+            ((skipped++)) || true
+            continue
+        fi
+        echo "Converting $(basename "$f") ..."
+        if cbz_to_pdf "$f" "$pdf"; then
+            ((converted++)) || true
+            echo "  OK: $(basename "$pdf")"
+            rm -f "$f"
+        else
+            ((errors++)) || true
+        fi
+    done
+    echo ""
+    echo "=========================================="
+    echo " Conversion Summary"
+    echo "=========================================="
+    echo "  Converted:  $converted"
+    echo "  Skipped:    $skipped (PDF already exists)"
+    echo "  Errors:     $errors"
+    exit 0
+fi
 
 found=0
 converted=0
