@@ -1,5 +1,7 @@
 *.pdf
 *.cbz
 *.cbr
+*.png
+*.txt
 
 .DS_Store
