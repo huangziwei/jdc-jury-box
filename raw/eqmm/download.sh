@@ -23,6 +23,13 @@ if ! command -v unar >/dev/null 2>&1; then
     brew install unar
 fi
 
+# Install img2pdf if needed (required for CBZ/CBR→PDF conversion)
+if ! command -v img2pdf >/dev/null 2>&1; then
+    echo "img2pdf not found — installing via pip..."
+    pip3 install --break-system-packages img2pdf 2>/dev/null \
+        || pip3 install img2pdf
+fi
+
 BASE_URL="https://archive.org/download/detective-mystery-pulp-magazine-scans/Detective-Mystery%20Pulp%20Torrent/Ellery%20Queen%27s%20Mystery%20Magazine%20-%20US"
 OUTDIR="."
 DOWNLOAD=false
@@ -151,7 +158,8 @@ if [[ "$CONVERT_ONLY" == true ]]; then
     for f in "${OUTDIR}"/EQMM_*.cbr "${OUTDIR}"/EQMM_*.cbz; do
         [[ -f "$f" ]] || continue
         pdf="${f%.*}.pdf"
-        if [[ -f "$pdf" ]]; then
+        original_pdf="${f%.*}.original.pdf"
+        if [[ -f "$pdf" ]] || [[ -f "$original_pdf" ]]; then
             ((skipped++)) || true
             continue
         fi
