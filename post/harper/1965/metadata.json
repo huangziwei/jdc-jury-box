@@ -1,0 +1,17 @@
+{
+  "title": "Murder-fancier Recommends",
+  "author": "John Dickson Carr",
+  "source": "Harper's Magazine",
+  "date": "1965",
+  "file": "article.md",
+  "books_reviewed": [
+    { "title": "Rim of the Pit", "author": "Hake Talbot" },
+    { "title": "Midnight Plus One", "author": "Gavin Lyall" },
+    { "title": "The Turret Room", "author": "Charlotte Armstrong" },
+    { "title": "The Diamond Bubble", "author": "Robert L. Fish" },
+    { "title": "Homicide Blonde", "author": "Maurice Procter" },
+    { "title": "Trusted Like the Fox", "author": "Sara Woods" },
+    { "title": "For Kicks", "author": "Dick Francis" },
+    { "title": "The Quiller Memorandum", "author": "Adam Hall" }
+  ]
+}

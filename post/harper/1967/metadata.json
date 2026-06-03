@@ -1,0 +1,19 @@
+{
+  "title": "Murder Fancier Recommends",
+  "author": "John Dickson Carr",
+  "source": "Harper's Magazine",
+  "date": "1967",
+  "file": "article.md",
+  "books_reviewed": [
+    { "title": "Face to Face", "author": "Ellery Queen" },
+    { "title": "Death Shall Overcome", "author": "Emma Lathen" },
+    { "title": "To Hell for Half-a-Crown", "author": "James Cross" },
+    { "title": "The Traces of Merrilee", "author": "Herbert Brean" },
+    { "title": "The King of the Rainy Country", "author": "Nicolas Freeling" },
+    { "title": "The Legacy Lenders", "author": "Harold Q. Masur" },
+    { "title": "A Thrill a Minute with Jack Albany", "author": "John Godey" },
+    { "title": "A Very Private Intrigue", "author": "Leo Rosten" },
+    { "title": "The Cold War Swap", "author": "Ross Thomas" },
+    { "title": "The 9th Directive", "author": "Adam Hall" }
+  ]
+}

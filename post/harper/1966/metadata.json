@@ -1,0 +1,19 @@
+{
+  "title": "Murder Fancier Recommends",
+  "author": "John Dickson Carr",
+  "source": "Harper's Magazine",
+  "date": "1966",
+  "file": "article.md",
+  "books_reviewed": [
+    { "title": "The Fourth Side of the Triangle", "author": "Ellery Queen" },
+    { "title": "The Paper Dolls", "author": "L. P. Davies" },
+    { "title": "Weep for Willow Green", "author": "Paul Kruger" },
+    { "title": "House on Greenapple Road", "author": "Harold R. Daniels" },
+    { "title": "Black Money", "author": "Ross Macdonald" },
+    { "title": "Dover Three", "author": "Joyce Porter" },
+    { "title": "The Busy Body", "author": "Donald E. Westlake" },
+    { "title": "The Windy Side of the Law", "author": "Sara Woods" },
+    { "title": "Understrike", "author": "John Gardner" },
+    { "title": "The Billion Dollar Brain", "author": "Len Deighton" }
+  ]
+}

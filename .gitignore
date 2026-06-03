@@ -1,9 +1,7 @@
 *.pdf
 *.cbz
 *.cbr
-*.png
-*.txt
-*.md
-*.json
+
+/raw/
 
 .DS_Store
