@@ -1,0 +1,16 @@
+{
+  "title": "The Jury Box",
+  "author": "John Dickson Carr",
+  "source": "Ellery Queen's Mystery Magazine",
+  "date": "1970-08",
+  "toc_label": "August 1970",
+  "pages": "65–67",
+  "citation": "Ellery Queen's Mystery Magazine (August 1970): 65–67.",
+  "file": "article.md",
+  "books_reviewed": [
+    { "title": "The Last Woman in His Life", "author": "Ellery Queen", "publisher": "World" },
+    { "title": "Many Deadly Returns", "author": "Patricia Moyes", "publisher": "Holt, Rinehart & Winston" },
+    { "title": "The Case of Mary Fielding", "author": "Margaret Erskine", "publisher": "Crime Club" },
+    { "title": "Sunday the Rabbi Stayed Home", "author": "Harry Kemelman", "publisher": "Fawcett" }
+  ]
+}

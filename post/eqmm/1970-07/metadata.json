@@ -1,0 +1,16 @@
+{
+  "title": "The Jury Box",
+  "author": "John Dickson Carr",
+  "source": "Ellery Queen's Mystery Magazine",
+  "date": "1970-07",
+  "toc_label": "July 1970",
+  "pages": "111–113",
+  "citation": "Ellery Queen's Mystery Magazine (July 1970): 111–113.",
+  "file": "article.md",
+  "books_reviewed": [
+    { "title": "Death on the Nile", "author": "Agatha Christie", "publisher": "Dodd, Mead & Co." },
+    { "title": "The Women of Peasenhall", "author": "R. J. White", "publisher": "Harper & Row" },
+    { "title": "Queen's Pawn", "author": "Victor Canning", "publisher": "Morrow" },
+    { "title": "The Lost Fraulein", "author": "Richard Meade", "publisher": "Random House" }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "title": "The Jury Box",
+  "author": "John Dickson Carr",
+  "source": "Ellery Queen's Mystery Magazine",
+  "date": "1970-05",
+  "toc_label": "May 1970",
+  "pages": "93–95",
+  "citation": "Ellery Queen's Mystery Magazine (May 1970): 93–95.",
+  "file": "article.md",
+  "books_reviewed": [
+    { "title": "Death at the Chase", "author": "Michael Innes", "publisher": "Dodd, Mead" },
+    { "title": "The Pushbutton Butterfly", "author": "Kin Platt", "publisher": "Random House" },
+    { "title": "Assignment—White Rajah", "author": "Edward S. Aarons", "publisher": "Fawcett" },
+    { "title": "The Red House Mystery", "author": "A.A. Milne", "publisher": "Avon" }
+  ]
+}

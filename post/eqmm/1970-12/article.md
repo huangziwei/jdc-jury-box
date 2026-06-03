@@ -1,0 +1,35 @@
+## The Jury Box
+
+by John Dickson Carr
+
+This month let's reverse our usual practice. Instead of ending with those choice items to which I would draw your attention, let me begin with them. Let me do this even before I settle down to sum up for the year. And two current books very much deserve your notice.
+
+**The Rivals of Sherlock Holmes**, edited by Hugh Greene (Pantheon, $6.95), offers thirteen exploits from the case-books of sleuths who flourished in British magazines during the greatest days of the great Sherlock, 1891 to 1914.
+
+With the possible exception of Austin Freeman's Dr. Thorndyke, nobody here can so much as challenge the sage of Baker Street. Still, if prejudice may be expressed, I myself am drawn less by character than by ingenious plots with ingenious clues on display. These qualities we are given in plenty. Perhaps the best tales of this baker's dozen are two by Baroness Orczy: "The Mysterious Death on the Underground Railway," featuring the old man in the corner, and "The Woman in the Big Hat," featuring Lady Molly of Scotland Yard.
+
+Emmuska, Baroness Orczy, a Hungarian noblewoman by birth, was taken to England at the age of eight. Best known as the author of *The Scarlet Pimpernel*, she also wrote first-class short detective stories. I met her once at the Detection Club: a small, vivacious old lady with white hair and flashing dark eyes. Though she had lived in her adopted country since 1873, she still spoke English with a slight foreign accent.
+
+To name her first, let me repeat, may be the prejudice of one who sets ingenious fair play above all. But her sleuths walk in fine company here. John Thorndyke unmasks the misdirection of "The Moabite Cypher." Among others we have Arthur Morrison's Martin Hewitt; we have blind Max Carrados; we have Carnacki the ghost-finder, whose adventures in the occult or the pseudo-occult still constitute a criminous feast. And this book is hereby offered as proof.
+
+In Whit Masterson's **The Death of Me Yet** (Dodd, Mead, $4.50) you will find mystery-adventure-espionage of immense sweep and power. At first glance you may wonder how any of these elements could touch the life of Paul Towers, prosperous, happily married, ordinary-seeming young owner-publisher of a weekly newspaper in southern California, or why there should be several determined attempts on his life.
+
+Neither the emotional pattern nor the background pattern has been quite what it seemed. When the eventual grisly pattern does take shape, forcing Paul towards death in his horned and devilish double life, the reader is not so much carried away as swept away with a roar. Tension mounts through excitement after excitement to a well-plotted surprise finale that should blow your ears off. Of its kind, be assured, **The Death of Me Yet** is as strong as anything we have seen so far.
+
+With that satisfactory reflection I can glance back over 1970: Anyone indulgent enough to follow this column will have observed that there has been much less griping than usual. Perhaps your correspondent was in a better temper; certainly there has been much less to gripe about. Every month produced at least one new title which could be recommended without reserve.
+
+Since I mentioned espionage a moment ago, note that we have had a vintage year for cloak and dagger. High praise to *The Smile on the Face of the Tiger*, by Douglas Hurd and Andrew Osmond; *The Innocent Bystanders*, by James Munro; *The Amazing Mrs. Pollifax*, by Dorothy Gilman, the last-named being that *rara avis* of sensationalism, a spy story by a woman. To these add *Assignment—White Rajah* and *Assignment—Star Stealers*, paperback but new, in Edward S. Aarons's series about C.I.A. Agent Sam Durell, as well as the Chinese caper of *The Dragon's Eye*, by Scott C. S. Stone.
+
+In the realm of mystery-adventure with fair play, you were assured of satisfaction with Oliver Bleeck's *The Brass Go-Between*; John Farris's *The Captors*; Alistair MacLean's *Puppet on a Chain*; Richard Meade's *The Lost Fraulein*; Victor Canning's *Queen's Pawn*; Kin Platt's *The Pushbutton Butterfly*; J. J. Marric's *Gideon's River*; Stanley Ellin's *The Bind*; Lou Cameron's *The Amphorae Pirates*; and, no less effective for being farcical, Donald E. Westlake's *Somebody Owes Me Money*.
+
+Classic detection? A great deal of it, from old hands and newcomers alike. Try *Murder To Go*, by Emma Lathen; *The Last Woman in His Life*, by Ellery Queen; *Many Deadly Returns*, by Patricia Moyes; *Death at the Chase*, by Michael Innes; *The Stately Home Murder*, by Catherine Aird; *Enquiry*, by Dick Francis; *The Best Man To Die*, by Ruth Rendell; *Finish Me Off*, by Hillary Waugh; *In the Death of a Man*, by Lesley Egan; *The Women of Peasenhall*, by R. J. White; *Deadly Pattern*, by Douglas Clark; *Wobble to Death*, by Peter Lovesey; *Archer At Large*, the three-volume omnibus by Ross Macdonald; *Death on the Nile*, a hardcover reprint by Agatha Christie. To this category belong the stories in *The Allingham Case-Book*, by Margery Allingham, as well as the best tales in *Merchants of Menace*, twenty-fourth anthology from the Mystery Writers of America, edited by Hillary Waugh.
+
+Paperback reprints of various sorts have gladdened this old heart more than once. Judiciously chosen items included one account of a real-life murder society, Arthur H. Lewis's *Lament for the Molly Maguires*, one account of real-life espionage agents in *The Spies*, edited by Robert G. Deisdorfer, a good modern detective novel, Harry Kemelman's *Sunday the Rabbi Stayed Home*, in addition to two detective classics from the nineteen twenties, A. A. Milne's *The Red House Mystery* and Philip MacDonald's *The Rasp*, together with a notable collection of spy stories from about the same period, *Ashenden*, by W. Somerset Maugham.
+
+Long live the paperback, and more power to its editors! In addition to gladdening my heart as a reader, they have also saved my face as a critic.
+
+As regards reconstruction of real-life cases, imaginative probing into some mystery long past, there has been nothing new except *Mischief in the Mountains*, subtitled by its editors 'Strange Tales of Vermont and Vermonters.' Though this work received due praise, it lacked something as a rogues' calendar. In '69 we had both a history of the Pinkertons and a biography of Houdini. Possibly things even better are reserved for '71. Shall we learn the truth about the Bravo poisoning, or whose hand slew the Bordens at high noon that August day?
+
+Stop; this won't do. Having boasted of little griping through the year, I must not end it with a gripe. Besides, such notions can backfire. When the late Ed Radin published his vindication of the more famous Borden sister, a group of us met for lunch as the Friends of Lizzie Borden. And not a man among us could have said whether we were celebrating Lizzie's innocence or congratulating her for having gotten away with murder.
+
+Never mind. Serenely I await the new year.

@@ -1,0 +1,16 @@
+{
+  "title": "Best Mysteries of the Month",
+  "author": "John Dickson Carr",
+  "source": "Ellery Queen's Mystery Magazine",
+  "date": "1970-02",
+  "toc_label": "February 1970",
+  "pages": "129–130",
+  "citation": "Ellery Queen's Mystery Magazine (February 1970): 129–130.",
+  "file": "article.md",
+  "books_reviewed": [
+    { "title": "Puppet on a Chain", "author": "Alistair MacLean", "publisher": "Doubleday" },
+    { "title": "The Dragon's Eye", "author": "Scott C. S. Stone", "publisher": "Fawcett" },
+    { "title": "Lament for the Molly Maguires", "author": "Arthur H. Lewis", "publisher": "Pocket Books" },
+    { "title": "The Spies", "author": "Robert G. Deisdorfer", "publisher": "Fawcett" }
+  ]
+}

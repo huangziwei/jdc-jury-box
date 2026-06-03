@@ -1,0 +1,16 @@
+{
+  "title": "The Jury Box",
+  "author": "John Dickson Carr",
+  "source": "Ellery Queen's Mystery Magazine",
+  "date": "1970-09",
+  "toc_label": "September 1970",
+  "pages": "98–100",
+  "citation": "Ellery Queen's Mystery Magazine (September 1970): 98–100.",
+  "file": "article.md",
+  "books_reviewed": [
+    { "title": "The Best Man to Die", "author": "Ruth Rendell", "publisher": "Crime Club" },
+    { "title": "Finish Me Off", "author": "Hillary Waugh", "publisher": "Doubleday" },
+    { "title": "Enquiry", "author": "Dick Francis", "publisher": "Harper & Row" },
+    { "title": "The Bind", "author": "Stanley Ellin", "publisher": "Random House" }
+  ]
+}

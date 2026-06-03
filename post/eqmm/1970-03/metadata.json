@@ -1,0 +1,16 @@
+{
+  "title": "Best Mysteries of the Month",
+  "author": "John Dickson Carr",
+  "source": "Ellery Queen's Mystery Magazine",
+  "date": "1970-03",
+  "toc_label": "March 1970",
+  "pages": "114–115",
+  "citation": "Ellery Queen's Mystery Magazine (March 1970): 114–115.",
+  "file": "article.md",
+  "books_reviewed": [
+    { "title": "Merchants of Menace", "author": "Hillary Waugh", "publisher": "Doubleday" },
+    { "title": "Somebody Owes Me Money", "author": "Donald E. Westlake", "publisher": "Random House" },
+    { "title": "Gideon's Power", "author": "J.J. Marric", "publisher": "Harper & Row" },
+    { "title": "Ashenden", "author": "W. Somerset Maugham", "publisher": "Avon" }
+  ]
+}

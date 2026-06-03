@@ -1,0 +1,15 @@
+{
+  "title": "The Jury Box",
+  "author": "John Dickson Carr",
+  "source": "Ellery Queen's Mystery Magazine",
+  "date": "1970-10",
+  "toc_label": "October 1970",
+  "pages": "75–77",
+  "citation": "Ellery Queen's Mystery Magazine (October 1970): 75–77.",
+  "file": "article.md",
+  "books_reviewed": [
+    { "title": "Archer At Large", "author": "Ross Macdonald", "publisher": "Knopf" },
+    { "title": "The Amphorae Pirates", "author": "Lou Cameron", "publisher": "Random House" },
+    { "title": "Mischief in the Mountains", "author": "Walter R. Hard, Jr., and Janet C. Greene", "publisher": "Vermont Life Magazine" }
+  ]
+}

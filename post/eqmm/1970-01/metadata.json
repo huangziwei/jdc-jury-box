@@ -1,0 +1,16 @@
+{
+  "title": "Best Mysteries of the Month",
+  "author": "John Dickson Carr",
+  "source": "Ellery Queen's Mystery Magazine",
+  "date": "1970-01",
+  "toc_label": "January 1970",
+  "pages": "117–118",
+  "citation": "Ellery Queen's Mystery Magazine (January 1970): 117–118.",
+  "file": "article.md",
+  "books_reviewed": [
+    { "title": "The Brass Go-Between", "author": "Oliver Bleeck", "publisher": "Morrow" },
+    { "title": "The Captors", "author": "John Farris", "publisher": "Trident" },
+    { "title": "A Complete State of Death", "author": "John Gardner", "publisher": "Viking" },
+    { "title": "The Allingham Case-Book", "author": "Margery Allingham", "publisher": "Morrow" }
+  ]
+}
