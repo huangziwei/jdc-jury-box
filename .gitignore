@@ -5,3 +5,7 @@
 /raw/
 
 .DS_Store
+
+# Python / uv build env
+.venv/
+__pycache__/

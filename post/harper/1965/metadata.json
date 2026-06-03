@@ -1,8 +1,11 @@
 {
-  "title": "Murder-fancier Recommends",
+  "title": "Murder-Fancier Recommends",
   "author": "John Dickson Carr",
   "source": "Harper's Magazine",
   "date": "1965",
+  "toc_label": "July 1965",
+  "pages": "104, 106–107",
+  "citation": "Harper's Magazine 231, no. 1382 (July 1, 1965): 104, 106–107.",
   "file": "article.md",
   "books_reviewed": [
     { "title": "Rim of the Pit", "author": "Hake Talbot" },

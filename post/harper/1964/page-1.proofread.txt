@@ -2,8 +2,6 @@
 
 by John Dickson Carr
 
-*Mr. Carr is the author of numberless detective novels and of "The Life of Sir Arthur Conan Doyle." He has been president both of the Mystery Writers of America and of the London Detection Club.*
-
 I come to praise mystery novels, not to bury them. Though this magazine has not hitherto reviewed tales of crime and sudden death, it has been suggested that I compile a half-yearly list of ten: not the ten "best," which were a pronouncement more suited to the Recording Angel, but of ten books which a hardened old murder-fancier can heartily recommend.
 
 And it has not been easy; I, who damn near died, salute you. If there have been several outstanding books, there have been others of such singular incompetence that they would have defeated anyone who was not wading through them professionally. The worst offenders here, as usual, were women. Women can write some of the very best mysteries—Mesdames Christie, Marsh, Allingham, for instance. They can also write the very worst; no names need be mentioned. Provided the heroine gets her man, these ladies seem unconcerned with the quality of the mystery, even when they trouble to provide a mystery at all.

@@ -1,0 +1,11 @@
+[project]
+name = "jdc-jury-box"
+version = "0.1.0"
+description = "Compile John Dickson Carr's mystery-review columns (Harper's 1964–67, EQMM 1969–76) into an EPUB."
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "ebooklib>=0.18",
+    "markdown>=3.5",
+    "pillow>=10.0",
+]

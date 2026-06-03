@@ -1,8 +1,11 @@
 {
-  "title": "Murder Fancier Recommends",
+  "title": "Murder-Fancier Recommends",
   "author": "John Dickson Carr",
   "source": "Harper's Magazine",
   "date": "1966",
+  "toc_label": "July 1966",
+  "pages": "84, 86, 88",
+  "citation": "Harper's Magazine 233, no. 1394 (July 1, 1966): 84, 86, 88.",
   "file": "article.md",
   "books_reviewed": [
     { "title": "The Fourth Side of the Triangle", "author": "Ellery Queen" },

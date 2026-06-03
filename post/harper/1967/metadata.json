@@ -1,8 +1,11 @@
 {
-  "title": "Murder Fancier Recommends",
+  "title": "Murder-Fancier Recommends",
   "author": "John Dickson Carr",
   "source": "Harper's Magazine",
   "date": "1967",
+  "toc_label": "July 1967",
+  "pages": "90–92",
+  "citation": "Harper's Magazine 235, no. 1406 (July 1, 1967): 90–92.",
   "file": "article.md",
   "books_reviewed": [
     { "title": "Face to Face", "author": "Ellery Queen" },

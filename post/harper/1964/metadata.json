@@ -1,8 +1,11 @@
 {
-  "title": "Murder-fancier Recommends",
+  "title": "Murder-Fancier Recommends",
   "author": "John Dickson Carr",
   "source": "Harper's Magazine",
   "date": "1964",
+  "toc_label": "July 1964",
+  "pages": "104–106",
+  "citation": "Harper's Magazine 229, no. 1370 (July 1, 1964): 104–106.",
   "file": "article.md",
   "books_reviewed": [
     { "title": "The Night of the Generals", "author": "Hans Hellmut Kirst" },

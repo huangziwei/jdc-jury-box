@@ -1,0 +1,25 @@
+{
+  "title": "The Jury Box",
+  "subtitle": "The Mystery Reviews of John Dickson Carr, 1964–1976",
+  "author": "John Dickson Carr",
+  "author_bio": "Mr. Carr is the author of numberless detective novels and of “The Life of Sir Arthur Conan Doyle.” He has been president both of the Mystery Writers of America and of the London Detection Club.",
+  "language": "en",
+  "toc": {
+    "depth": 2,
+    "structure": "magazine -> issue (by date)",
+    "issue_label_format": "{toc_label} — {title}"
+  },
+  "magazine_order": [
+    "Harper's Magazine",
+    "Ellery Queen's Mystery Magazine"
+  ],
+  "front_matter": [
+    "title page",
+    "source / provenance note",
+    "author bio (from the 1964 Harper's blurb)"
+  ],
+  "back_matter": [
+    "Index of Books Reviewed (generated from each issue's books_reviewed)"
+  ],
+  "build": "see BUILD.md"
+}
