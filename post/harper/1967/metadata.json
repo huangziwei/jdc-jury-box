@@ -8,15 +8,15 @@
   "citation": "Harper's Magazine 235, no. 1406 (July 1, 1967): 90–92.",
   "file": "article.md",
   "books_reviewed": [
-    { "title": "Face to Face", "author": "Ellery Queen" },
-    { "title": "Death Shall Overcome", "author": "Emma Lathen" },
-    { "title": "To Hell for Half-a-Crown", "author": "James Cross" },
-    { "title": "The Traces of Merrilee", "author": "Herbert Brean" },
-    { "title": "The King of the Rainy Country", "author": "Nicolas Freeling" },
-    { "title": "The Legacy Lenders", "author": "Harold Q. Masur" },
-    { "title": "A Thrill a Minute with Jack Albany", "author": "John Godey" },
-    { "title": "A Very Private Intrigue", "author": "Leo Rosten" },
-    { "title": "The Cold War Swap", "author": "Ross Thomas" },
-    { "title": "The 9th Directive", "author": "Adam Hall" }
+    { "title": "Face to Face", "author": "Ellery Queen", "publisher": "New American Library" },
+    { "title": "Death Shall Overcome", "author": "Emma Lathen", "publisher": "Macmillan" },
+    { "title": "To Hell for Half-a-Crown", "author": "James Cross", "publisher": "Random House" },
+    { "title": "The Traces of Merrilee", "author": "Herbert Brean", "publisher": "Morrow" },
+    { "title": "The King of the Rainy Country", "author": "Nicolas Freeling", "publisher": "Harper & Row" },
+    { "title": "The Legacy Lenders", "author": "Harold Q. Masur", "publisher": "Random House" },
+    { "title": "A Thrill a Minute with Jack Albany", "author": "John Godey", "publisher": "Simon & Schuster" },
+    { "title": "A Very Private Intrigue", "author": "Leo Rosten", "publisher": "Atheneum" },
+    { "title": "The Cold War Swap", "author": "Ross Thomas", "publisher": "Morrow" },
+    { "title": "The 9th Directive", "author": "Adam Hall", "publisher": "Simon & Schuster" }
   ]
 }

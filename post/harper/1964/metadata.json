@@ -8,15 +8,15 @@
   "citation": "Harper's Magazine 229, no. 1370 (July 1, 1964): 104–106.",
   "file": "article.md",
   "books_reviewed": [
-    { "title": "The Night of the Generals", "author": "Hans Hellmut Kirst" },
-    { "title": "And On the Eighth Day", "author": "Ellery Queen" },
-    { "title": "The Neon Haystack", "author": "James Michael Ullman" },
-    { "title": "The Mirror Crack'd", "author": "Agatha Christie" },
-    { "title": "Nerve", "author": "Dick Francis" },
-    { "title": "The Shrunken Head", "author": "Robert L. Fish" },
-    { "title": "Frame-Up", "author": "Andrew Garve" },
-    { "title": "Will Anyone Who Saw the Accident . . .", "author": "Jeffrey Ashford" },
-    { "title": "Death's Foot Forward", "author": "George B. Mair" },
-    { "title": "The Spy Who Came In from the Cold", "author": "John Le Carré" }
+    { "title": "The Night of the Generals", "author": "Hans Hellmut Kirst", "publisher": "Harper & Row" },
+    { "title": "And On the Eighth Day", "author": "Ellery Queen", "publisher": "Random House" },
+    { "title": "The Neon Haystack", "author": "James Michael Ullman", "publisher": "Simon and Schuster" },
+    { "title": "The Mirror Crack'd", "author": "Agatha Christie", "publisher": "Dodd, Mead" },
+    { "title": "Nerve", "author": "Dick Francis", "publisher": "Harper & Row" },
+    { "title": "The Shrunken Head", "author": "Robert L. Fish", "publisher": "Simon and Schuster" },
+    { "title": "Frame-Up", "author": "Andrew Garve", "publisher": "Harper & Row" },
+    { "title": "Will Anyone Who Saw the Accident . . .", "author": "Jeffrey Ashford", "publisher": "Harper & Row" },
+    { "title": "Death's Foot Forward", "author": "George B. Mair", "publisher": "Random House" },
+    { "title": "The Spy Who Came In from the Cold", "author": "John Le Carré", "publisher": "Coward-McCann" }
   ]
 }

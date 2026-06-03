@@ -38,7 +38,8 @@ uv run python src/build_epub.py     # build the EPUB
 5. Front matter: cover, title page, "About This Collection" (intro + author bio).
    Per-magazine half-title divider pages.
 6. Back matter: **Index of Books Reviewed** (auto-generated from every issue's
-   `books_reviewed`, alphabetized by title) and a "Note on the Texts" colophon.
+   `books_reviewed`; APA-style, author surname inverted, with publisher, sorted by
+   author) and a "Note on the Texts" colophon.
 7. Standard-Ebooks-style CSS is embedded in the script (`CORE_CSS` + `LOCAL_CSS`).
    `_fix_css_paths` rewrites ebooklib's `css/…` links to `../css/…`.
 
@@ -58,7 +59,7 @@ Produced by `/proofread` (canonical docs in `.claude/commands/proofread.md`):
 | `pages` | `"151–152"` |
 | `citation` | `"Ellery Queen's Mystery Magazine (January 1969): 151–152."` |
 | `file` | `"article.md"` |
-| `books_reviewed` | `[{title, author}]` |
+| `books_reviewed` | `[{title, author, publisher}]` |
 
 `article.md` is kept faithful to the printed page (`## <column title>` and byline
 retained); the build relabels the heading from the metadata.

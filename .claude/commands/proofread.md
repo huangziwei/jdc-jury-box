@@ -149,7 +149,8 @@ Write `$ARGUMENTS/metadata.json` with this schema:
   "books_reviewed": [
     {
       "title": "<Book Title>",
-      "author": "<Book Author>"
+      "author": "<Book Author>",
+      "publisher": "<Publisher>"
     }
   ]
 }
@@ -161,7 +162,7 @@ Write `$ARGUMENTS/metadata.json` with this schema:
 - `toc_label`: the issue label for the compiled book's table of contents — month + year for EQMM ("January 1969"); "July <year>" for Harper's (all Harper's issues are dated July 1)
 - `pages`: the printed page numbers the Carr column occupies, read from the running headers (e.g. "151–152"); use commas when the column skips ad pages (e.g. "104, 106–107")
 - `citation`: a full source citation built from the ProQuest/source header, e.g. "Ellery Queen's Mystery Magazine (January 1969): 151–152." or "Harper's Magazine 229, no. 1370 (July 1, 1964): 104–106."
-- `books_reviewed`: list of books mentioned in the review, in order of appearance. Omit if the article is not a standard review column (e.g. an essay or tribute).
+- `books_reviewed`: list of books reviewed, in order of appearance — each `{title, author, publisher}`. The `publisher` is the one Carr prints in the review's `(Publisher, $price)` parenthetical (e.g. `Harper & Row`; keep multi-word publishers like `Dodd, Mead` intact; book publication year is not recorded — it is rarely given). Omit `books_reviewed` entirely if the article is not a standard review column (e.g. an essay or tribute).
 
 These per-issue files compile into one EPUB — *The Jury Box: The Mystery Reviews of John Dickson Carr, 1964–1976* — with a two-level table of contents (magazine → issue, each issue labeled `{toc_label} — {title}`). The build keeps `article.md` faithful and derives the chapter headings from the metadata; see `post/book.json` and `post/BUILD.md`.
 

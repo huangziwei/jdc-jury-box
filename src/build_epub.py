@@ -17,6 +17,7 @@ import os
 import re
 import shutil
 import tempfile
+import unicodedata
 import zipfile
 
 import markdown
@@ -61,6 +62,7 @@ section[epub|type~="titlepage"], section[epub|type~="halftitlepage"] { text-alig
 section[epub|type~="titlepage"] h1 { font-size: 1.9em; margin-bottom: 0.3em; }
 section[epub|type~="titlepage"] .subtitle { font-variant: normal; font-style: italic; }
 section[epub|type~="titlepage"] .author { margin-top: 2em; }
+section[epub|type~="titlepage"] .version { font-size: 0.8em; font-style: italic; margin-top: 3em; }
 section[epub|type~="halftitlepage"] h2 { margin-top: 28%; }
 p.index-entry { text-indent: -1.5em; margin: 0 0 0 1.5em; }
 """
@@ -78,6 +80,25 @@ def slugify(s: str) -> str:
 
 def sort_key_title(title: str) -> str:
     return re.sub(r"^(the|a|an)\s+", "", title.strip(), flags=re.I).lower()
+
+
+# surname particles kept with the surname when inverting "First Last" -> "Last, First"
+PARTICLES = {"le", "la", "de", "du", "des", "del", "della", "van", "von", "der",
+             "den", "ten", "ter", "di", "da", "dos", "das", "mac", "mc", "st", "o'"}
+
+
+def invert_author(name: str) -> str:
+    toks = name.split()
+    if len(toks) < 2:
+        return name
+    j = len(toks) - 1
+    while j - 1 >= 1 and toks[j - 1].lower().rstrip(".") in PARTICLES:
+        j -= 1
+    return f'{" ".join(toks[j:])}, {" ".join(toks[:j])}'
+
+
+def _ascii_fold(s: str) -> str:
+    return unicodedata.normalize("NFKD", s).encode("ascii", "ignore").decode().lower()
 
 
 def wrap_xhtml(body: str, title: str) -> str:
@@ -135,12 +156,13 @@ def article_to_xhtml(md_path: str, chapter_title: str, citation: str, file_id: s
     return wrap_xhtml(inner, chapter_title)
 
 
-def make_titlepage(title: str, subtitle: str, author: str) -> str:
+def make_titlepage(title: str, subtitle: str, author: str, version: str) -> str:
     inner = (
         '<section epub:type="titlepage">\n'
         f"\t\t\t<h1>{esc(title)}</h1>\n"
         f'\t\t\t<p class="subtitle">{esc(subtitle)}</p>\n'
         f'\t\t\t<p class="author">{esc(author)}</p>\n'
+        f'\t\t\t<p class="version">Version {esc(version)}</p>\n'
         "\t\t</section>"
     )
     return wrap_xhtml(inner, title)
@@ -179,22 +201,29 @@ def make_index(issues_in_order: list[dict]) -> str:
     entries = []
     for it in issues_in_order:
         for b in it.get("books_reviewed", []):
-            entries.append((b["title"], b["author"], it["toc_label"]))
-    entries.sort(key=lambda e: (sort_key_title(e[0]), e[1].lower()))
-    rows = "\n".join(
-        f'\t\t\t<p class="index-entry"><i>{esc(t)}</i>, by {esc(a)} — {esc(lbl)}</p>'
-        for (t, a, lbl) in entries
-    )
+            entries.append((b["title"], b["author"], b.get("publisher", ""),
+                            it["source"], it["toc_label"]))
+    entries.sort(key=lambda e: (_ascii_fold(invert_author(e[1])), sort_key_title(e[0])))
+    rows = []
+    for (title, author, pub, source, label) in entries:
+        inv = invert_author(author)
+        dot = "" if inv.endswith(".") else "."   # avoid "Davies, L. P.." double period
+        pubpart = f" ({esc(pub)})" if pub else ""
+        rows.append(
+            f'\t\t\t<p class="index-entry">{esc(inv)}{dot} '
+            f"<i>{esc(title)}</i>{pubpart}. Reviewed in {esc(source)}, {esc(label)}.</p>"
+        )
     inner = (
         '<section epub:type="endnotes">\n'
         '\t\t\t<h2 epub:type="title">Index of Books Reviewed</h2>\n'
-        f"{rows}\n"
+        + "\n".join(rows) + "\n"
         "\t\t</section>"
     )
     return wrap_xhtml(inner, "Index of Books Reviewed")
 
 
-def make_colophon() -> str:
+def make_colophon(version: str, n_issues: int) -> str:
+    plural = "s" if n_issues != 1 else ""
     inner = (
         '<section epub:type="colophon">\n'
         '\t\t\t<h2 epub:type="title">A Note on the Texts</h2>\n'
@@ -202,6 +231,9 @@ def make_colophon() -> str:
         "original magazine issues (digitized via ProQuest), with OCR errors corrected "
         "and advertisements, running heads, and other critics’ columns removed. "
         "Each issue’s source is cited beneath its heading.</p>\n"
+        f"\t\t\t<p>This is <b>version {esc(version)}</b> of an ongoing transcription; "
+        f"it currently gathers {n_issues} issue{plural}. The version is raised as more "
+        "issues are proofread.</p>\n"
         "\t\t\t<p>The CSS styling is adapted from the open-source "
         "<a href=\"https://standardebooks.org/\">Standard Ebooks</a> framework.</p>\n"
         "\t\t</section>"
@@ -245,6 +277,8 @@ def build() -> None:
     book.add_author(meta["author"])
     book.add_metadata("DC", "description",
                       f"{meta['title']}: {meta.get('subtitle', '')}".strip(": "))
+    version = meta.get("version", "0.0.1")
+    book.add_metadata(None, "meta", version, {"property": "schema:version"})
 
     cover_path = os.path.join(ASSETS, "cover.jpg")
     if os.path.exists(cover_path):
@@ -274,7 +308,7 @@ def build() -> None:
                    "both of the Mystery Writers of America and of the London Detection Club.")
 
     titlepage = page("Title Page", "text/titlepage.xhtml",
-                     make_titlepage(meta["title"], subtitle, meta["author"]))
+                     make_titlepage(meta["title"], subtitle, meta["author"], version))
     intro = page("About This Collection", "text/about.xhtml", make_intro(bio))
 
     spine: list = [titlepage, "nav", intro]
@@ -296,7 +330,8 @@ def build() -> None:
         toc.append((epub.Section(mag, href=ht_name), tuple(chapters)))
 
     index = page("Index of Books Reviewed", "text/index.xhtml", make_index(flat_order))
-    colophon = page("A Note on the Texts", "text/colophon.xhtml", make_colophon())
+    colophon = page("A Note on the Texts", "text/colophon.xhtml",
+                    make_colophon(version, len(flat_order)))
     spine.extend([index, colophon])
     toc.extend([index, colophon])
 
