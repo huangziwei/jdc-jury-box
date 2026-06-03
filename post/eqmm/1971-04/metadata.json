@@ -1,0 +1,16 @@
+{
+  "title": "The Jury Box",
+  "author": "John Dickson Carr",
+  "source": "Ellery Queen's Mystery Magazine",
+  "date": "1971-04",
+  "toc_label": "April 1971",
+  "pages": "62–63",
+  "citation": "Ellery Queen's Mystery Magazine (April 1971): 62–63.",
+  "file": "article.md",
+  "books_reviewed": [
+    { "title": "A Guilty Thing Surprised", "author": "Ruth Rendell", "publisher": "Crime Club" },
+    { "title": "Pick Up Sticks", "author": "Emma Lathen", "publisher": "Simon and Schuster" },
+    { "title": "A Late Phoenix", "author": "Catherine Aird", "publisher": "Crime Club" },
+    { "title": "The Green Hell Treasure", "author": "Robert L. Fish", "publisher": "Putnam" }
+  ]
+}

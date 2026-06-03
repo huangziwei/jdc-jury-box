@@ -1,0 +1,16 @@
+{
+  "title": "The Jury Box",
+  "author": "John Dickson Carr",
+  "source": "Ellery Queen's Mystery Magazine",
+  "date": "1971-08",
+  "toc_label": "August 1971",
+  "pages": "75–76",
+  "citation": "Ellery Queen's Mystery Magazine (August 1971): 75–76.",
+  "file": "article.md",
+  "books_reviewed": [
+    { "title": "The Twisted Wire", "author": "Richard Falkirk", "publisher": "Doubleday" },
+    { "title": "Place of Mists", "author": "Robert MacLeod", "publisher": "McCall" },
+    { "title": "Viper Three", "author": "Walter Wager", "publisher": "Macmillan" },
+    { "title": "Capone", "author": "John Kobler", "publisher": "Putnam" }
+  ]
+}

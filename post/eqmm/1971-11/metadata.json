@@ -1,0 +1,16 @@
+{
+  "title": "The Jury Box",
+  "author": "John Dickson Carr",
+  "source": "Ellery Queen's Mystery Magazine",
+  "date": "1971-11",
+  "toc_label": "November 1971",
+  "pages": "93–94",
+  "citation": "Ellery Queen's Mystery Magazine (November 1971): 93–94.",
+  "file": "article.md",
+  "books_reviewed": [
+    { "title": "Jink", "author": "Thomas Patrick McMahon", "publisher": "Simon and Schuster" },
+    { "title": "Sleep Is for the Rich", "author": "Donald Mackenzie", "publisher": "Houghton Mifflin" },
+    { "title": "The Golden Ball and Other Stories", "author": "Agatha Christie", "publisher": "Dodd, Mead" },
+    { "title": "A Catalogue of Crime", "author": "Jacques Barzun and Wendell Hertig Taylor", "publisher": "Harper & Row" }
+  ]
+}

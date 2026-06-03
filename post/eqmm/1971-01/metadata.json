@@ -1,0 +1,15 @@
+{
+  "title": "The Jury Box",
+  "author": "John Dickson Carr",
+  "source": "Ellery Queen's Mystery Magazine",
+  "date": "1971-01",
+  "toc_label": "January 1971",
+  "pages": "80–82",
+  "citation": "Ellery Queen's Mystery Magazine (January 1971): 80–82.",
+  "file": "article.md",
+  "books_reviewed": [
+    { "title": "The Father Brown Omnibus", "author": "G. K. Chesterton", "publisher": "Dodd, Mead" },
+    { "title": "Victorian Studies in Scarlet", "author": "Richard D. Altick", "publisher": "W. W. Norton" },
+    { "title": "Ellery Queen's Grand Slam", "author": "Ellery Queen", "publisher": "World" }
+  ]
+}

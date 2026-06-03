@@ -1,0 +1,16 @@
+{
+  "title": "The Jury Box",
+  "author": "John Dickson Carr",
+  "source": "Ellery Queen's Mystery Magazine",
+  "date": "1971-10",
+  "toc_label": "October 1971",
+  "pages": "112–113",
+  "citation": "Ellery Queen's Mystery Magazine (October 1971): 112–113.",
+  "file": "article.md",
+  "books_reviewed": [
+    { "title": "A Fine and Private Place", "author": "Ellery Queen", "publisher": "World" },
+    { "title": "The Sorcerers", "author": "David St. John", "publisher": "Fawcett" },
+    { "title": "Assignation in Algeria", "author": "John Lee", "publisher": "Walker" },
+    { "title": "The Mystery Writer's Art", "author": "Francis M. Nevins, Jr.", "publisher": "Bowling Green University Press" }
+  ]
+}

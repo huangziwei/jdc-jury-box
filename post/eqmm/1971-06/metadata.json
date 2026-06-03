@@ -1,0 +1,16 @@
+{
+  "title": "The Jury Box",
+  "author": "John Dickson Carr",
+  "source": "Ellery Queen's Mystery Magazine",
+  "date": "1971-06",
+  "toc_label": "June 1971",
+  "pages": "72–73",
+  "citation": "Ellery Queen's Mystery Magazine (June 1971): 72–73.",
+  "file": "article.md",
+  "books_reviewed": [
+    { "title": "Rat Race", "author": "Dick Francis", "publisher": "Harper & Row" },
+    { "title": "Ashes to Ashes", "author": "Emma Lathen", "publisher": "Simon & Schuster" },
+    { "title": "The Padrone", "author": "Don Smith", "publisher": "Fawcett" },
+    { "title": "Kill the Dutchman!", "author": "Paul Sann", "publisher": "Arlington" }
+  ]
+}

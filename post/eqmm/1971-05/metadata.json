@@ -1,0 +1,16 @@
+{
+  "title": "The Jury Box",
+  "author": "John Dickson Carr",
+  "source": "Ellery Queen's Mystery Magazine",
+  "date": "1971-05",
+  "toc_label": "May 1971",
+  "pages": "76–77",
+  "citation": "Ellery Queen's Mystery Magazine (May 1971): 76–77.",
+  "file": "article.md",
+  "books_reviewed": [
+    { "title": "The Sound of Murder", "author": "John and Emery Bonett", "publisher": "Walker" },
+    { "title": "\"30\" Manhattan East", "author": "Hillary Waugh", "publisher": "Belmont" },
+    { "title": "The Great Affair", "author": "Victor Canning", "publisher": "Morrow" },
+    { "title": "Assignment—Tokyo", "author": "Edward S. Aarons", "publisher": "Fawcett" }
+  ]
+}

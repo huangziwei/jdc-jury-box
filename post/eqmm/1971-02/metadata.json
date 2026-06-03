@@ -1,0 +1,16 @@
+{
+  "title": "The Jury Box",
+  "author": "John Dickson Carr",
+  "source": "Ellery Queen's Mystery Magazine",
+  "date": "1971-02",
+  "toc_label": "February 1971",
+  "pages": "99–101",
+  "citation": "Ellery Queen's Mystery Magazine (February 1971): 99–101.",
+  "file": "article.md",
+  "books_reviewed": [
+    { "title": "Johnny Torrio, First of the Gang Lords", "author": "Jack McPhaul", "publisher": "Arlington House" },
+    { "title": "Let's Choose Executors", "author": "Sara Woods", "publisher": "Popular Library" },
+    { "title": "Murder Gone Mad", "author": "Philip MacDonald", "publisher": "Avon" },
+    { "title": "The 39 Steps", "author": "John Buchan", "publisher": "Popular Library" }
+  ]
+}

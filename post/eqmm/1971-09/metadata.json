@@ -1,0 +1,16 @@
+{
+  "title": "The Jury Box",
+  "author": "John Dickson Carr",
+  "source": "Ellery Queen's Mystery Magazine",
+  "date": "1971-09",
+  "toc_label": "September 1971",
+  "pages": "73–74",
+  "citation": "Ellery Queen's Mystery Magazine (September 1971): 73–74.",
+  "file": "article.md",
+  "books_reviewed": [
+    { "title": "Remote Control", "author": "Harry Carmichael", "publisher": "McCall" },
+    { "title": "The Deadly Joke", "author": "Hugh Pentecost", "publisher": "Dodd, Mead" },
+    { "title": "Frequent Hearses", "author": "Edmund Crispin", "publisher": "London House & Maxwell" },
+    { "title": "Best Mystery and Suspense Plays of the Modern Theatre", "author": "Stanley Richards", "publisher": "Dodd, Mead" }
+  ]
+}
