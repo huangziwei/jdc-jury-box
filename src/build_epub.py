@@ -88,6 +88,11 @@ PARTICLES = {"le", "la", "de", "du", "des", "del", "della", "van", "von", "der",
 
 
 def invert_author(name: str) -> str:
+    # Multiple authors ("A and B", "A & B"): invert only the first, keep the rest
+    # as printed, so the entry still sorts under the first author's surname.
+    parts = re.split(r"\s+(?:and|&)\s+", name)
+    if len(parts) > 1:
+        return f"{invert_author(parts[0])}, and {' and '.join(parts[1:])}"
     toks = name.split()
     if len(toks) < 2:
         return name

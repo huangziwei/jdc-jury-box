@@ -1,0 +1,16 @@
+{
+  "title": "Best Mysteries of the Month",
+  "author": "John Dickson Carr",
+  "source": "Ellery Queen's Mystery Magazine",
+  "date": "1969-02",
+  "toc_label": "February 1969",
+  "pages": "150–151",
+  "citation": "Ellery Queen's Mystery Magazine (February 1969): 150–151.",
+  "file": "article.md",
+  "books_reviewed": [
+    { "title": "The Danube Runs Red", "author": "Richard Meade", "publisher": "Random House" },
+    { "title": "A Spy for a Spy", "author": "Berkely Mather", "publisher": "Scribners" },
+    { "title": "Force 10 from Navarone", "author": "Alistair MacLean", "publisher": "Doubleday" },
+    { "title": "The Angry Millionaire", "author": "Selwyn Jepson", "publisher": "Harper & Row" }
+  ]
+}

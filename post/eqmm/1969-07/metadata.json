@@ -1,0 +1,16 @@
+{
+  "title": "Best Mysteries of the Month",
+  "author": "John Dickson Carr",
+  "source": "Ellery Queen's Mystery Magazine",
+  "date": "1969-07",
+  "toc_label": "July 1969",
+  "pages": "52–53",
+  "citation": "Ellery Queen's Mystery Magazine (July 1969): 52–53.",
+  "file": "article.md",
+  "books_reviewed": [
+    { "title": "The Xavier Affair", "author": "Robert L. Fish", "publisher": "Putnam" },
+    { "title": "The Dance of Death", "author": "Jeremy Potter", "publisher": "Walker" },
+    { "title": "A Kiss Before Dying", "author": "Ira Levin", "publisher": "Simon & Schuster" },
+    { "title": "Knave of Eagles", "author": "Robert Wade", "publisher": "Random House" }
+  ]
+}

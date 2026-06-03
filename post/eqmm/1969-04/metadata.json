@@ -1,0 +1,16 @@
+{
+  "title": "Best Mysteries of the Month",
+  "author": "John Dickson Carr",
+  "source": "Ellery Queen's Mystery Magazine",
+  "date": "1969-04",
+  "toc_label": "April 1969",
+  "pages": "65–66",
+  "citation": "Ellery Queen's Mystery Magazine (April 1969): 65–66.",
+  "file": "article.md",
+  "books_reviewed": [
+    { "title": "Before the Fact", "author": "Francis Iles", "publisher": "Random House" },
+    { "title": "Trent's Last Case", "author": "E. C. Bentley", "publisher": "Random House" },
+    { "title": "The House of the Arrow", "author": "A. E. W. Mason", "publisher": "Random House" },
+    { "title": "The Haunted Monastery", "author": "Robert van Gulik", "publisher": "Scribners" }
+  ]
+}

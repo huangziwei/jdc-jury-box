@@ -1,0 +1,16 @@
+{
+  "title": "Best Mysteries of the Month",
+  "author": "John Dickson Carr",
+  "source": "Ellery Queen's Mystery Magazine",
+  "date": "1969-08",
+  "toc_label": "August 1969",
+  "pages": "52–53",
+  "citation": "Ellery Queen's Mystery Magazine (August 1969): 52–53.",
+  "file": "article.md",
+  "books_reviewed": [
+    { "title": "Shotgun", "author": "Ed McBain", "publisher": "Doubleday" },
+    { "title": "The Wave Hangs Dark", "author": "Alan Dipper", "publisher": "Morrow" },
+    { "title": "The Interlopers", "author": "Donald Hamilton", "publisher": "Fawcett" },
+    { "title": "Passport for a Pilgrim", "author": "James Leasor", "publisher": "Doubleday" }
+  ]
+}

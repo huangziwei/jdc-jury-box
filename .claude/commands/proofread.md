@@ -60,8 +60,9 @@ Process **one page at a time**, sequentially. Do NOT use batch processing or sub
    - If a page contains no Carr review text at all, write `[BLANK PAGE]` as its content.
 
 3. **Markdown formatting**:
-   - `*italic*` for italic text
-   - `**bold**` for bold text (e.g. first mention of a reviewed book title)
+   - **Title-styling convention (book-wide — apply uniformly to every issue):** set the book(s) Carr is *actually reviewing / recommending this month* in `**bold**`, on **every** occurrence of the title; set everything he merely *alludes to* (other novels, classics already in print, ships, a detective's other cases) plus all foreign-language words/phrases and emphasized words in `*italic*`. This gives the reader one consistent cue across all ~94 columns even though EQMM's own typography drifted: early issues bold the lead title, but several issues from Oct 1969 on italicize even the reviewed title — we still normalize the reviewed title to **bold**. (Cosmetic only; the index is built from `metadata.json`, not from the article's markup.) A retrospective/essay column with no new title under review (e.g. an anniversary recap) has no bold titles — every title named is an allusion, so all italic.
+   - `*italic*` for italic text generally (foreign phrases, ship/vessel names, emphasis, and alluded-to titles)
+   - `**bold**` for the reviewed-book title(s) per the convention above
    - **Headings**: Use proper markdown heading syntax, not bold:
      - `##` for the column/article title (e.g. `## The Jury Box`)
      - `###` for subsection titles within the article
@@ -181,3 +182,6 @@ These per-issue files compile into one EPUB — *The Jury Box: The Mystery Revie
 - The OCR is generally high quality: treat the `.proofread.txt` copy as your base text and correct it against the PNG. Override the OCR only for clear non-word garbles, high-confidence visual reads, or logical necessity. When a word is ambiguous, **re-read the PNG to confirm** — never "correct" the OCR from your memory of an earlier glance, as first-pass recollections can be wrong (they have invented review endings and mis-assigned book authors before).
 - Multi-column scans often interleave **other critics' columns and advertisements** into the OCR text. Strip everything that is not Carr's column, verifying column membership against the PNG.
 - For a substantive footnote (e.g. an award note), fold its text inline near the book it annotates rather than dropping it; still remove the superscript anchor from the body.
+- **Heading variants:** the EQMM column heading appears as either two OCR lines (`BEST MYSTERIES` / `OF THE MONTH`) or one (`BEST MYSTERIES OF THE MONTH`), and the byline may or may not have a blank line before it. A `\s+`-based perl substitution handles all variants → `## Best Mysteries of the Month` + `recommended by John Dickson Carr`. (The column keeps this title through the 1969 run; watch for a rename to "The Jury Box" in later years and update the metadata `title` + heading accordingly.)
+- **Source-scan junk:** scans sourced from UNZ.org carry a two-line footer — `LICENSED TO UNZ.ORG` / `ELECTRONIC REPRODUCTION PROHIBITED` — on every page; strip it. These scans are also speckly: stray dots/dashes get OCR'd as colons, periods, em-dashes, or quotation marks mid-sentence — verify any "quotation" against the PNG before keeping it (Carr's own concluding sentences sometimes get spurious quotes wrapped around them).
+- **Multi-author books** (`{author}` like "Maj Sjowall and Per Wahloo") are recorded faithfully, but the index's author-inversion currently assumes a single name — invert only the first author for these. (Build-side TODO; does not affect the article.)

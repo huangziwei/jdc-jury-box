@@ -1,0 +1,16 @@
+{
+  "title": "Best Mysteries of the Month",
+  "author": "John Dickson Carr",
+  "source": "Ellery Queen's Mystery Magazine",
+  "date": "1969-10",
+  "toc_label": "October 1969",
+  "pages": "65–66",
+  "citation": "Ellery Queen's Mystery Magazine (October 1969): 65–66.",
+  "file": "article.md",
+  "books_reviewed": [
+    { "title": "The Man Who Went Up in Smoke", "author": "Maj Sjowall and Per Wahloo", "publisher": "Pantheon" },
+    { "title": "The Third Half", "author": "Mildred Davis", "publisher": "Crime Club" },
+    { "title": "A Mafia Kiss", "author": "Philip Loraine", "publisher": "Random House" },
+    { "title": "Catch Me A Spy", "author": "George Marten and Tiber Meray", "publisher": "Harper & Row" }
+  ]
+}

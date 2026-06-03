@@ -1,0 +1,25 @@
+## Best Mysteries of the Month
+
+recommended by John Dickson Carr
+
+A British correspondent writes from Sussex to bewail the dearth of first-rate detective novels fairly and classically displaying all the clues. "*Where are the new writers?*" demands my correspondent, and then goes on griping (*anglice* grousing) very much as I do.
+
+"*Where is the new Ellery Queen? The new Agatha Christie?*" He is even indulgent enough to mention my own name, linking it with that of another low hound called Carter Dickson. "*Is the theme played out? This I can't believe. And yet—I only wish you could reassure me.*"
+
+Well, I can reassure him. By the year's end I shall be able to cite at least four brilliant new detective writers of the true breed. Though each has had several books published prior to '69, all may be called newcomers in the sense that none is a limping graybeard like Dickson or Carr. And two of the four so characterized, *Dei gratia*, I am proud to present in this very issue.
+
+With Inspector Martin Beck, Stockholm Police, of **The Man Who Went Up in Smoke**, by Maj Sjowall and Per Wahloo (Pantheon, $4.50), we meet a Swedish sleuth as human as Maigret, as tenacious as Gideon, as astute as both put together. We know what will happen when some hard-working cop is looking forward to his vacation; he has less chance of getting it than any secret agent off duty. Hauled back to work by the Swedish Foreign Office, even more ponderous and stuffed-shirt than our own State Department, Beck is sent behind the Iron Curtain to trace a bibulous magazine writer who has taken off for Budapest and there vanished like a soap-bubble.
+
+With the police of several countries honestly seeking Alf Matsson, what has Matsson been up to and where is he? You may suspect espionage until you fetch up against a problem in dirty work as secret as spying and fully as dirty. Returning to Stockholm after more than one explosive encounter beside the Danube, amid toppling ruins Martin Beck solves the mystery with evidence he has known all along. This husband-and-wife collaboration, here, treated as one entity, explains everything except how to pronounce their names.
+
+Though **The Third Half**, by Mildred Davis (Crime Club, $4.50) purports to be a web of espionage and is in fact just that, the web's strongest strands stretch farther than international chicanery: they are woven of human meanness and greed. And its technique, clue after clue, casually mentioned amid rapid-fire action, is that of the expert detective story.
+
+But there is nothing casual about the story. We are at full stretch of tension as we watch three in the web: the elderly physicist whose young wife has been abducted on that Vermont ski-slope, the Michigan housewife bereft of an aeronautical-engineer husband during his visit to Japan, the American girl married to a British landowner whose castle dates back to the Norman Conquest. Let it be repeated that here is detective-story technique to the last gasp. A double-twist surprise finale may yank the rug from under you; don't believe *anything* until four pages before the end. And a hearty welcome for Miss Davis to the tribe of Honest Men.
+
+**A Mafia Kiss**, by Philip Loraine (Random House, $4.95) engulfs us at once in the mire of underworld crime. From New York to Sicily, home of his fathers, comes young Benedict Lister, born Benedette Secca for all his Americanization now. Still ruling lives by terror and violence, the Mafia has marked him out; he no sooner sets foot in Palermo than the bomb which should have blown him to pieces blows up somebody else instead.
+
+Then it's pull-devil, pull-murderer for a wild battle in which well-meaning Ben, alone but for Rosalie's help, matches himself against the whole organization and as vicious a Central Bastard as ever presided. Mystery (of a sort) may be found even here. At first unknown to himself, though honorably hinted at by the author, Ben has up his sleeve a secret ace of trumps with which, in a sudden reverse-tactics move at the end, he outfaces his enemy when all seems lost. Mr. Loraine, who really understands the meaning of the word suspense, can always be relied on.
+
+Its admirably light touch never quite hiding grim purpose underneath, George Marten's and Tiber Meray's **Catch Me A Spy** (Harper & Row, $4.95) conjures up every vivid image of the cloak and dagger. After a wedding in Westminster Abbey, after the beginning of a honeymoon inexplicably diverted from Italy to Bulgaria, British businessman John Fenton and Jessica, his bride, get only as far as Sofia when John is pounced on by Communist cops.
+
+Desperately trying to free her husband from clink, Jessica gets little aid either from the head of M.I.5 or from a double-faced Russian admirer in the background. Only Uncle Henry stands firm amid uproar. With John at last restored through very strange means, we realize that **Catch Me A Spy** is both strong thriller and sound mystery, qualities seldom found in the same book. Don't miss this one.

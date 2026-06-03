@@ -1,0 +1,16 @@
+{
+  "title": "Best Mysteries of the Month",
+  "author": "John Dickson Carr",
+  "source": "Ellery Queen's Mystery Magazine",
+  "date": "1969-09",
+  "toc_label": "September 1969",
+  "pages": "65–66",
+  "citation": "Ellery Queen's Mystery Magazine (September 1969): 65–66.",
+  "file": "article.md",
+  "books_reviewed": [
+    { "title": "The Melting Man", "author": "Victor Canning", "publisher": "Morrow" },
+    { "title": "The Cold Jungle", "author": "Gavin Black", "publisher": "Harper & Row" },
+    { "title": "The Sino-Variant", "author": "Allison Ind", "publisher": "McKay" },
+    { "title": "Houdini: The Untold Story", "author": "Milbourne Christopher", "publisher": "Crowell" }
+  ]
+}

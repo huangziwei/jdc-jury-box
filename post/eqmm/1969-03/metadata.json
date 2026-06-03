@@ -1,0 +1,15 @@
+{
+  "title": "Best Mysteries of the Month",
+  "author": "John Dickson Carr",
+  "source": "Ellery Queen's Mystery Magazine",
+  "date": "1969-03",
+  "toc_label": "March 1969",
+  "pages": "110–111",
+  "citation": "Ellery Queen's Mystery Magazine (March 1969): 110–111.",
+  "file": "article.md",
+  "books_reviewed": [
+    { "title": "The Benson Murder Case", "author": "S. S. Van Dine", "publisher": "Fawcett" },
+    { "title": "The Canary Murder Case", "author": "S. S. Van Dine", "publisher": "Fawcett" },
+    { "title": "The Pinkertons: The Detective Dynasty That Made History", "author": "James D. Horan", "publisher": "Crown" }
+  ]
+}

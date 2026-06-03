@@ -1,0 +1,25 @@
+## Best Mysteries of the Month
+
+recommended by John Dickson Carr
+
+There is a legend of the late Dorothy Parker that, substituting for Robert Benchley as dramatic critic during an unrewarding theatrical season, she once ended her column with the agonized cry, “Mr. Benchley, please come home! Baby taking awful beating!”
+
+Now nobody could characterize your correspondent as an infant, though some might call him infantile. And this month his already battered carcase has been so kicked around that not one new item can conscientiously be praised. But there is an honorable way out. Again the noble firm of Random House, which I must give the highest praise despite an instinctive wish to favor my own old firm of Harper & Row, has saved me from confessing failure in the search for good sensationalism. Another publisher has also come to the rescue. In one double volume, then, I give you a brace of classic mysteries readily available at your bookshop or at any well-stocked public library. The other two books, here presented for the same reason, constitute halves of the great detective saga which has been enthralling everybody since the year 1887.
+
+In assessing the double volume of **The Moonstone** and **The Woman in White**, by Wilkie Collins (Modern Library, $3.95), I shall beg leave to concentrate on the first. **The Woman in White** (1860) is the excellent story of an intrigue craftily spun by those two favorite monsters of nineteenth-century fantasy, the wicked British baronet and the sinister foreign count. But I don’t love it as I love **The Moonstone**. There are reasons for this affection.
+
+Edgar Allan Poe is usually and rightly credited with inventing the fair-play detective short story. Yet he himself played strictly fair only once: in a murder tale, *Thou Art the Man*, seldom even mentioned when his accomplishments are listed. Poe failed there because he wrote it with a kind of ferocious waggery that evokes the wrong mood.
+
+It was left for Wilkie Collins in **The Moonstone** (1868) to provide the first triumphant double-twist surprise finale, after carefully displaying all the clues throughout a gripping novel.
+
+If this story has no murder, except the retributive murder at the end, your true artist in mystery can achieve the *frisson* he wants without taking a hatchet to anybody. Sensationalism you will find at every turn, as well as living human beings in a greenhouse of Victorian charm. The hero, Franklin Blake, gives up smoking to please the heroine, long before any television blast at us sinful but unrepentant heavy smokers. The villain is a real s.o.b. And with one feature of his double-twist ending Wilkie Collins anticipated the whole shock effect in a famous mystery novel of the 1920's. You are hereby challenged to read (or reread) **The Moonstone**.
+
+Though it appeared nearly two years ago, **The Annotated Sherlock Holmes, the Four Novels and the Fifty-six Short Stories Complete**, by Sir Arthur Conan Doyle, Edited, with an Introduction, Notes, and Bibliography, by William S. Baring-Gould (Clarkson N. Potter, 2 vols., boxed, $25) remains at hand and will remain a landmark.
+
+It is no use arguing about Sherlock Holmes; there he stands. He seems as real as the pavement of Baker Street and as unmistakable a personality as Sir Winston Churchill. His few detractors must admit he is a great man even when they deny he is a good detective. There has been nobody quite like him in the whole realm of romance.
+
+To me any edition of the saga may be considered satisfactory if it includes my favorite Holmes short stories, *Silver Blaze* and *The Man with the Twisted Lip*, together with my favorite Holmes novel, *The Valley of Fear*. The present handsome, lavishly illustrated edition has been so well edited by the late William S. Baring-Gould that it enlightens us on several still-disputed points of biography or chronology, and in matters canonical comes as near being the final court of appeal as Holmes himself was the final court of appeal in detecting crime.
+
+Take warning, though. Canonical research, which Monsignor Knox inaugurated in jest, has almost ceased to be a game. Let's not, even in jest, make the flesh-and-blood existence of Sherlock Holmes and John H. Watson an obsession very near religious mania. Being Conan Doyle's biographer, I can't accept him as Dr. Watson's literary agent; he was too indifferent a man of business to have been anybody's agent, including his own. In a gesture of friendship, if you like, he may *perhaps* have served as the amanuensis to whom Watson dictated. After all, the stories are in his handwriting.
+
+But I don't really care how many wives presided at the breakfast table, or where Holmes spent some lost years when the world thought him dead. I am happy enough to hear the gaunt detective expound his methods in that timeless sitting-room, and to see opposite him 'good old Watson,' Watson the glorious, Watson the incomparable, with his stethoscope in his hat and his heart on his sleeve.

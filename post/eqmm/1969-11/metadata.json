@@ -1,0 +1,15 @@
+{
+  "title": "Best Mysteries of the Month",
+  "author": "John Dickson Carr",
+  "source": "Ellery Queen's Mystery Magazine",
+  "date": "1969-11",
+  "toc_label": "November 1969",
+  "pages": "103–104",
+  "citation": "Ellery Queen's Mystery Magazine (November 1969): 103–104.",
+  "file": "article.md",
+  "books_reviewed": [
+    { "title": "The Moonstone", "author": "Wilkie Collins", "publisher": "Modern Library" },
+    { "title": "The Woman in White", "author": "Wilkie Collins", "publisher": "Modern Library" },
+    { "title": "The Annotated Sherlock Holmes", "author": "Arthur Conan Doyle", "publisher": "Clarkson N. Potter" }
+  ]
+}

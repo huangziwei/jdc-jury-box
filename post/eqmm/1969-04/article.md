@@ -1,0 +1,25 @@
+## Best Mysteries of the Month
+
+recommended by John Dickson Carr
+
+Lest from month to month I should seem to do little but gripe about the scarcity of outstanding new novels, permit me to qualify the complaint. Your correspondent is not rash enough categorically to assert that only one first-class new mystery has appeared during the time under consideration. Let caution prevail; I say merely that the book mentioned at the end of this column is the only first-class new mystery any publisher has seen fit to send me.
+
+To provide additional reading which can be praised without reserve, then, for the second successive month we must delve into the past Fortunately three criminous classics, each a masterpiece—*Before the Fact*, *Trent's Last Case*, and *The House of the Arrow*—may be found in one Modern Library Giant, reasonably priced at $3.95.
+
+It is true that this collection, under the omnibus title **Three Famous Murder Novels**, has been available since Mr. Cerf of Random House compiled it well over two decades ago. No matter; there it is. Whether you are a young devotee or an old hand at the game, let not your lip curl with scorn or pass uncaring by. Get this book at once; be born again in innocence as you watch the great craftsmen spin their webs.
+
+“Some women give birth to murderers, some go to bed with them, and some marry them. Lina Ayrsgarth had lived with her husband for nearly eight years before she realized that she was married to a murderer.”
+
+So begins *Before the Fact*, which my old friend Anthony Berkeley Cox wrote under the pen name of Francis Iles. Through the enchanting world of pre-Socialist Britain moves Lina Ayrsgarth, born Lina McLaidlaw of old Scottish stock, intelligent and attractive though verging on spinsterhood; she is also an heiress. In the first chapter she falls hard for aristocratic but impoverished Johnnie Ayrsgarth, whose charm conceals his worthlessness and whose apparent generosity masks a callous heart. Once these two are safely married, can Lina ever again be safe?
+
+With an insight sometimes compassionate, more often cruel, the author piles incident on incident to show passions aboil below the surface. Though Lina's eyes we watch incessant trickery, and we have been warned to anticipate her discovery of a tiger behind the bedroom curtains. Will the tiger spring and rend her, or is it only an erratic house-cat with no real taste for blood? You will not know until the end, but you will very much want to know.
+
+*Trent's Last Case*, by E.C. Bentley, was originally published in 1913. Though not the first fair-play detective novel, an honor belonging to *The Moonstone*, it was the first detective novel to employ all those fair-play methods at which every worthy practitioner now aims.
+
+When American Millionaire Manderson is shot to death near his home in England, Philip Trent, our sympathetic special correspondent-detective, finds a situation so topsy-turvy that no feature of it seems to make sense. What of the dead man's two secretaries? What of his alluring widow, who disturbs Trent's judgment from the first? How far Trent's judgment has been disturbed he himself never realizes until that last shattering upset at the restaurant table, after an almost inescapable net has been drawn round the wrong man. Don't fail to read or re-read; ingenuity, charm, and good writing remain completely undimmed.
+
+About to call my third selection another straightforward murder mystery, I remembered that A.E.W. Mason's *The House of the Arrow*, praise be, is straightforward in nothing except its generosity with clues. After violence explodes amid 'proper' English residents in the French city of Dijon, few of them turn out to be so very proper after all. Jim Frobisher, the young lawyer arriving from London in response to a cry for help, lands between two beautiful girls with similar inclinations but strikingly different methods. He also encounters Inspector Hanaud of the *Surete*, the big French detective with the primitive sense of humor, who is always 'noticing' something beyond Jim's ken. We are not in Dijon alone; we are in the very heart of evil.
+
+This book strikes straight at the emotions, involving the reader despite himself, with a central plot-device as fiendishly ingenious as it is absurdly simple when you learn the secret. *The House of the Arrow* was highly prized by (of all people) the late Havelock Ellis, and it is my own choice for the best detective novel ever written.
+
+After a bevy of such dazzlers, how shall any current offering compare? **The Haunted Monastery**, by Robert van Gulik (Scribners, $3.95) will not match the skill or power of the preceding three. And yet Judge Dee, Chinese magistrate of the Tang Dynasty more than a thousand years ago, nevertheless can qualify as a sleuth of the true vintage. Storm-stayed with his three wives at a Taoist monastery where other women may have been done to death among the monks, he plucks a surprise solution out of chaos. Judge Dee deserves your attention; if he is not Trent or Hanaud, he is far from unworthy of their company.

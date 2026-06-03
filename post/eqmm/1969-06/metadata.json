@@ -1,0 +1,16 @@
+{
+  "title": "Best Mysteries of the Month",
+  "author": "John Dickson Carr",
+  "source": "Ellery Queen's Mystery Magazine",
+  "date": "1969-06",
+  "toc_label": "June 1969",
+  "pages": "57–58",
+  "citation": "Ellery Queen's Mystery Magazine (June 1969): 57–58.",
+  "file": "article.md",
+  "books_reviewed": [
+    { "title": "Cop Out", "author": "Ellery Queen", "publisher": "World" },
+    { "title": "Picture of Guilt", "author": "Michael Innes", "publisher": "Dodd, Mead" },
+    { "title": "Forfeit", "author": "Dick Francis", "publisher": "Harper & Row" },
+    { "title": "A Taste for Death", "author": "Peter O'Donnell", "publisher": "Doubleday" }
+  ]
+}
