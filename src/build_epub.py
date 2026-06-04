@@ -207,6 +207,8 @@ def make_index(issues_in_order: list[dict]) -> str:
     entries = []
     for it in issues_in_order:
         for b in it.get("books_reviewed", []):
+            if b.get("rereview_of"):
+                continue  # same work already listed at its first review
             entries.append((b["title"], b["author"], index_parenthetical(b),
                             it["source"], it["toc_label"]))
     entries.sort(key=lambda e: (_ascii_fold(invert_author(e[1])), sort_key_title(e[0])))
@@ -425,7 +427,8 @@ def build() -> None:
     epub.write_epub(OUT, book, {})
     _fix_css_paths(OUT)
 
-    n_books = sum(len(it.get("books_reviewed", [])) for it in flat_reviews)
+    n_books = sum(1 for it in flat_reviews
+                  for b in it.get("books_reviewed", []) if not b.get("rereview_of"))
     n_sections = sum(1 for _, members in review_sections if members)
     print(f"Wrote {OUT}")
     print(f"  {meta['title']} — {subtitle}")

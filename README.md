@@ -15,9 +15,7 @@ Possibly every book Carr reviewed, in chronological order within each column. (T
 
 <!-- BOOK-TABLES:START -->
 
-_361 book reviews across 4 columns; 57 were reissues of older titles._
-
-The **Published** column gives the work's first-publication year — or *first*/*reissue* when Carr was reviewing a reprint.
+_360 books by 239 authors across 98 issues._
 
 ### The New York Times Book Review — 3 reviews · 1948–1951
 
@@ -134,7 +132,7 @@ The **Published** column gives the work's first-publication year — or *first*/
 |  | *The Spoilers* | Desmond Bagley | Doubleday | 1969 |
 |  | *Incident at 125th Street* | J. E. Brown | Doubleday | 1970 |
 
-### The Jury Box — 261 reviews · 1970–1976
+### The Jury Box — 260 reviews · 1970–1976
 
 | Issue | Title | Author | Publisher | Published |
 |---|---|---|---|---|
@@ -341,7 +339,6 @@ The **Published** column gives the work's first-publication year — or *first*/
 | May 1975 | *The Prisoner in the Opal* | A. E. W. Mason |  | 1928 |
 |  | *Scorpio 5* | William Harrington | Coward, McCann & Geoghegan | 1975 |
 |  | *Death and Bright Water* | James Mitchell | Morrow | 1974 |
-|  | *Night Judgment at Sinos* | Jack Higgins | Fawcett | 1970/1975 |
 | June 1975 | *Ellery Queen’s Aces of Mystery* | Ellery Queen | Dial Press | 1975 |
 |  | *The Woodcutter Operation* | Kenneth Royce | Simon and Schuster | 1975 |
 |  | *Night of the Juggler* | William P. McGivern | Putnam | 1975 |
@@ -401,3 +398,23 @@ The **Published** column gives the work's first-publication year — or *first*/
 |  | *America in 1876: The Way We Were* | Lally Weymouth | McGraw-Hill | 1976 |
 
 <!-- BOOK-TABLES:END -->
+
+## Still not 100%
+
+According to Greene (1995), James E. Keirans also did some statistics works on The Jury Box and published it on *The Armchair Detective* 24.3, Summer 1991 issue, in which he claimed Carr produced **92 columns** reviewing **314 books** by **208 authors** across this span.
+
+Our numbers differed from what Keirans reported. We counted **91 columns**, **319 books** by **211 authors**.
+
+My own starting index is [Galatic Central](http://www.philsp.com/homeville/cfi/n00127.htm), which listed **89 issues** (15 *Best Mysteries of the Month* columns + 74 *Jury Box* columns), and we recovered the 1969-03 and the 1973-07 issues by checking every issue between 1969-01 and 1976-12. 1971-03 is a known gap as it is noted in Greene's biography as sick leave. 1976-06/07's missing are confirmed by double checking. The Jury Box was actually listed in the Table of Content of 1976-11 but not really printed.
+
+While missing 1 issue, we somehow counted more books and authors than Keirans... but these two numbers can be subjective, after all, is Ellery Queen one or two authors (I counted the two cousins as one)? How about Sjöwall and Wahlöö (I counted them as two but they feel more like one)? And books, are non-fiction counted or not? And out of print books?
+
+I can keep going but it leads to no where. The core issue is I can't find the scan of Keirans' article anywhere.
+
+There are 3 more known reviews according to Greene (1995) that I can't get my hand onto too:
+
+- "The New Mysteries" — Clue, May 1948. Multi-reviewer feature; Carr - reviewed The Murder of Maria Marten.
+- "Let Us Have Nightmares" — Kenyon Review, Summer 1960. Review of Colin Wilson's Ritual in the Dark.
+- "Sound Lad" — New Statesman, Apr 6, 1973. Review of Kingsley Amis's The Riverside Villa Murders.
+
+Until then, we can't call this project finished.

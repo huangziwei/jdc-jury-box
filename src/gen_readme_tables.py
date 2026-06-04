@@ -11,6 +11,7 @@ editing any metadata.json:
 
 import json
 import os
+import re
 
 from build_epub import POST, assign_sections, load_issues
 
@@ -43,6 +44,8 @@ def table(members: list[dict]) -> str:
     for it in members:
         label = it.get("toc_label", "")
         for b in it.get("books_reviewed", []):
+            if b.get("rereview_of"):
+                continue  # same work already listed at its first review
             shown = label if label != last_label else ""  # group rows by issue
             last_label = label
             rows.append(
@@ -60,19 +63,27 @@ def main() -> None:
 
     blocks, total = [], 0
     for name, members in sections:
-        nbooks = sum(len(it.get("books_reviewed", [])) for it in members)
+        nbooks = sum(1 for it in members
+                     for b in it.get("books_reviewed", []) if not b.get("rereview_of"))
         total += nbooks
         yrs = sorted(year(it["date"]) for it in members)
         rng = yrs[0] if yrs[0] == yrs[-1] else f"{yrs[0]}–{yrs[-1]}"
         s = "s" if nbooks != 1 else ""
         blocks.append(f"### {name} — {nbooks} review{s} · {rng}\n\n{table(members)}")
 
-    reissues = sum(1 for _, members in sections for it in members
-                   for b in it.get("books_reviewed", []) if b.get("edition_published_date"))
-    summary = (f"_{total} book reviews across {len(sections)} columns; "
-               f"{reissues} were reissues of older titles._\n\n"
-               f"The **Published** column gives the work's first-publication year — or "
-               f"*first*/*reissue* when Carr was reviewing a reprint.")
+    authors = set()
+    n_issues = 0
+    for _, members in sections:
+        n_issues += len(members)
+        for it in members:
+            for b in it.get("books_reviewed", []):
+                if b.get("rereview_of"):
+                    continue
+                for p in re.split(r"\s+(?:and|&)\s+", b.get("author", "")):
+                    p = p.strip().strip(",").strip()
+                    if p:
+                        authors.add(p)
+    summary = f"_{total} books by {len(authors)} authors across {n_issues} issues._"
     body = f"{START}\n\n{summary}\n\n" + "\n\n".join(blocks) + f"\n\n{END}"
 
     with open(README, encoding="utf-8") as f:
