@@ -1,0 +1,16 @@
+{
+  "title": "The Jury Box",
+  "author": "John Dickson Carr",
+  "source": "Ellery Queen's Mystery Magazine",
+  "date": "1973-02",
+  "toc_label": "February 1973",
+  "pages": "81–82",
+  "citation": "Ellery Queen's Mystery Magazine (February 1973): 81–82.",
+  "file": "article.md",
+  "books_reviewed": [
+    { "title": "Cornered at Six", "author": "Thomas Patrick McMahon and Brian Patrick McMahon", "publisher": "Simon and Schuster" },
+    { "title": "Bright Orange for the Shroud", "author": "John D. MacDonald", "publisher": "Lippincott" },
+    { "title": "Through the Dark and Hairy Wood", "author": "Shaun Herron", "publisher": "Random House" },
+    { "title": "Cheap Thrills", "author": "Ron Goulart", "publisher": "Arlington House" }
+  ]
+}

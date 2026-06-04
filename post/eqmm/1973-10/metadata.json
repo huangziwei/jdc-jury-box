@@ -1,0 +1,16 @@
+{
+  "title": "The Jury Box",
+  "author": "John Dickson Carr",
+  "source": "Ellery Queen's Mystery Magazine",
+  "date": "1973-10",
+  "toc_label": "October 1973",
+  "pages": "90–91",
+  "citation": "Ellery Queen's Mystery Magazine (October 1973): 90–91.",
+  "file": "article.md",
+  "books_reviewed": [
+    { "title": "The Third Truth", "author": "Michael Bar-Zohar", "publisher": "Houghton Mifflin" },
+    { "title": "The Tale of the Lazy Dog", "author": "Alan Williams", "publisher": "Pocket Books" },
+    { "title": "Serpent's Tooth", "author": "Sara Woods", "publisher": "Holt, Rinehart and Winston" },
+    { "title": "Hickory, Dickory, Death", "author": "Agatha Christie", "publisher": "Pocket Books" }
+  ]
+}

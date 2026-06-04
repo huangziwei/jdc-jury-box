@@ -1,0 +1,16 @@
+{
+  "title": "The Jury Box",
+  "author": "John Dickson Carr",
+  "source": "Ellery Queen's Mystery Magazine",
+  "date": "1973-01",
+  "toc_label": "January 1973",
+  "pages": "112–113",
+  "citation": "Ellery Queen's Mystery Magazine (January 1973): 112–113.",
+  "file": "article.md",
+  "books_reviewed": [
+    { "title": "Caprifoil", "author": "William P. McGivern", "publisher": "Dodd, Mead" },
+    { "title": "A Trout in the Milk", "author": "Michael Underwood", "publisher": "Walker" },
+    { "title": "Abracadaver", "author": "Peter Lovesey", "publisher": "Dodd, Mead" },
+    { "title": "Best Max Carrados Detective Stories", "author": "Ernest Bramah", "publisher": "Dover" }
+  ]
+}

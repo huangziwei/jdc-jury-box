@@ -1,0 +1,16 @@
+{
+  "title": "The Jury Box",
+  "author": "John Dickson Carr",
+  "source": "Ellery Queen's Mystery Magazine",
+  "date": "1973-03",
+  "toc_label": "March 1973",
+  "pages": "86–87",
+  "citation": "Ellery Queen's Mystery Magazine (March 1973): 86–87.",
+  "file": "article.md",
+  "books_reviewed": [
+    { "title": "Murder Without Icing", "author": "Emma Lathen", "publisher": "Simon and Schuster" },
+    { "title": "Elephants Can Remember", "author": "Agatha Christie", "publisher": "Dodd, Mead" },
+    { "title": "Grave Doubt", "author": "Ivon Baker", "publisher": "McKay-Washburn" },
+    { "title": "Assignment—Maltese Maiden", "author": "Edward S. Aarons", "publisher": "Fawcett" }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "title": "The Jury Box",
+  "author": "John Dickson Carr",
+  "source": "Ellery Queen's Mystery Magazine",
+  "date": "1973-06",
+  "toc_label": "June 1973",
+  "pages": "83–84",
+  "citation": "Ellery Queen's Mystery Magazine (June 1973): 83–84.",
+  "file": "article.md",
+  "books_reviewed": [
+    { "title": "The Red Thumb Mark", "author": "R. Austin Freeman", "publisher": "Norton" },
+    { "title": "The Bearer Plot", "author": "Owen Sela", "publisher": "Pantheon" },
+    { "title": "The Trevick Affair", "author": "Mauri Sariola", "publisher": "Walker" },
+    { "title": "The Thinking Machine", "author": "Jacques Futrelle", "publisher": "" }
+  ]
+}

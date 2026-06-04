@@ -1,0 +1,16 @@
+{
+  "title": "The Jury Box",
+  "author": "John Dickson Carr",
+  "source": "Ellery Queen's Mystery Magazine",
+  "date": "1973-11",
+  "toc_label": "November 1973",
+  "pages": "125–126",
+  "citation": "Ellery Queen's Mystery Magazine (November 1973): 125–126.",
+  "file": "article.md",
+  "books_reviewed": [
+    { "title": "Blackstone's Fancy", "author": "Richard Falkirk", "publisher": "Stein and Day" },
+    { "title": "Don't Wear Your Wedding Ring", "author": "Lillian O'Donnell", "publisher": "Putnam" },
+    { "title": "The 92nd Tiger", "author": "Michael Gilbert", "publisher": "Harper & Row" },
+    { "title": "In the Fog", "author": "Richard Harding Davis", "publisher": "R. H. Russell" }
+  ]
+}

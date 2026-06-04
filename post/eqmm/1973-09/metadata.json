@@ -1,0 +1,16 @@
+{
+  "title": "The Jury Box",
+  "author": "John Dickson Carr",
+  "source": "Ellery Queen's Mystery Magazine",
+  "date": "1973-09",
+  "toc_label": "September 1973",
+  "pages": "103–104",
+  "citation": "Ellery Queen's Mystery Magazine (September 1973): 103–104.",
+  "file": "article.md",
+  "books_reviewed": [
+    { "title": "Someone's Death", "author": "Charles Larson", "publisher": "Lippincott" },
+    { "title": "Blame the Dead", "author": "Gavin Lyall", "publisher": "Viking Press" },
+    { "title": "Snowline", "author": "Berkely Mather", "publisher": "Scribners" },
+    { "title": "Blackstone", "author": "Richard Falkirk", "publisher": "Stein and Day" }
+  ]
+}
