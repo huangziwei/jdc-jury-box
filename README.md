@@ -1,8 +1,8 @@
 # John Dickson Carr's Jury Box
 
-For more than a decade the locked-room grandmaster **John Dickson Carr** kept up a running verdict on other people's crime fiction. This repository gathers those review columns — transcribed from the original magazine and newspaper pages, proofread against the scans — and compiles them into a single EPUB (see [post/BUILD.md](post/BUILD.md)).
+The locked-room grandmaster **John Dickson Carr** kept up a running verdict on other people's crime fiction for more than a decades, plus some sporadic pieces here and there. I tried my best to gather those book reviews from various sources, transcribe them with [PaddleOCR-VL-1.5](https://github.com/PADDLEPADDLE/PADDLEOCR), proofread them with Claude Opus 4.8, and bundle them into one [EPUB](https://github.com/huangziwei/jdc-jury-box/blob/main/the-jury-box.epub).
 
-The reviews run under four banners across three publications, with Carr's 1963 essay *The Grandest Game in the World* standing as a prologue:
+The EPUB includes reviews from four banners across three publications, with Carr's 1963 essay *The Grandest Game in the World* standing as a prologue:
 
 - **The New York Times Book Review** — occasional early reviews
 - **Murder-Fancier Recommends** — the annual picks in *Harper's Magazine*
@@ -11,7 +11,7 @@ The reviews run under four banners across three publications, with Carr's 1963 e
 
 ## Book reviews
 
-Every book Carr reviewed, in chronological order within each column. (Tables are generated from the issue metadata by `src/gen_readme_tables.py`.)
+Possibly every book Carr reviewed, in chronological order within each column. (Tables are generated from the issue metadata by `src/gen_readme_tables.py`.)
 
 <!-- BOOK-TABLES:START -->
 
