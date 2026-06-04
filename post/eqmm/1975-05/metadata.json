@@ -1,0 +1,16 @@
+{
+  "title": "The Jury Box",
+  "author": "John Dickson Carr",
+  "source": "Ellery Queen's Mystery Magazine",
+  "date": "1975-05",
+  "toc_label": "May 1975",
+  "pages": "110–111",
+  "citation": "Ellery Queen's Mystery Magazine (May 1975): 110–111.",
+  "file": "article.md",
+  "books_reviewed": [
+    { "title": "The Prisoner in the Opal", "author": "A. E. W. Mason", "publisher": "" },
+    { "title": "Scorpio 5", "author": "William Harrington", "publisher": "Coward, McCann & Geoghegan" },
+    { "title": "Death and Bright Water", "author": "James Mitchell", "publisher": "Morrow" },
+    { "title": "Night Judgment at Sinos", "author": "Jack Higgins", "publisher": "Fawcett" }
+  ]
+}

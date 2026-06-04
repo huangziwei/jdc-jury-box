@@ -1,0 +1,16 @@
+{
+  "title": "The Jury Box",
+  "author": "John Dickson Carr",
+  "source": "Ellery Queen's Mystery Magazine",
+  "date": "1975-03",
+  "toc_label": "March 1975",
+  "pages": "89–90",
+  "citation": "Ellery Queen's Mystery Magazine (March 1975): 89–90.",
+  "file": "article.md",
+  "books_reviewed": [
+    { "title": "Reverend Randollph and the Wages of Sin", "author": "Charles Merrill Smith", "publisher": "Putnam" },
+    { "title": "The Avila Gold", "author": "David Westheimer", "publisher": "Putnam" },
+    { "title": "The Season of Danger", "author": "Rosemary Gatenby", "publisher": "Dodd, Mead" },
+    { "title": "The Bohème Combination", "author": "Robin Close", "publisher": "Walker" }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "title": "The Jury Box",
+  "author": "John Dickson Carr",
+  "source": "Ellery Queen's Mystery Magazine",
+  "date": "1974-10",
+  "toc_label": "October 1974",
+  "pages": "85–86",
+  "citation": "Ellery Queen's Mystery Magazine (October 1974): 85–86.",
+  "file": "article.md",
+  "books_reviewed": [
+    {
+      "title": "Butcher's Moon",
+      "author": "Richard Stark",
+      "publisher": "Random House"
+    },
+    {
+      "title": "Pandora's Box",
+      "author": "Thomas Chastain",
+      "publisher": "Mason & Lipscomb"
+    },
+    {
+      "title": "The El Greco Puzzle",
+      "author": "John Murphy",
+      "publisher": "Scribners"
+    },
+    {
+      "title": "Las Vegas",
+      "author": "Arthur Moore and Clayton Matthews",
+      "publisher": "Pocket Books"
+    }
+  ]
+}

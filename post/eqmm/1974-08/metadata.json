@@ -1,0 +1,32 @@
+{
+  "title": "The Jury Box",
+  "author": "John Dickson Carr",
+  "source": "Ellery Queen's Mystery Magazine",
+  "date": "1974-08",
+  "toc_label": "August 1974",
+  "pages": "71–72",
+  "citation": "Ellery Queen's Mystery Magazine (August 1974): 71–72.",
+  "file": "article.md",
+  "books_reviewed": [
+    {
+      "title": "Kill with Style",
+      "author": "Hal Gulliver",
+      "publisher": "Scribners"
+    },
+    {
+      "title": "Long Way Down",
+      "author": "Collin Wilcox",
+      "publisher": "Random House"
+    },
+    {
+      "title": "Assignment—Amazon Queen",
+      "author": "Edward S. Aarons",
+      "publisher": "Fawcett"
+    },
+    {
+      "title": "The Intimidators",
+      "author": "Donald Hamilton",
+      "publisher": "Fawcett"
+    }
+  ]
+}

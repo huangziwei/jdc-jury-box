@@ -1,0 +1,32 @@
+{
+    "title": "The Jury Box",
+    "author": "John Dickson Carr",
+    "source": "Ellery Queen's Mystery Magazine",
+    "date": "1975-10",
+    "toc_label": "October 1975",
+    "pages": "98–99",
+    "citation": "Ellery Queen's Mystery Magazine (October 1975): 98–99.",
+    "file": "article.md",
+    "books_reviewed": [
+        {
+            "title": "Bored to Death",
+            "author": "Michael Delving",
+            "publisher": "Scribners"
+        },
+        {
+            "title": "The Great Train Robbery",
+            "author": "Michael Crichton",
+            "publisher": "Knopf"
+        },
+        {
+            "title": "The Safe House",
+            "author": "Jon Cleary",
+            "publisher": "Morrow"
+        },
+        {
+            "title": "The Mysterious Commission",
+            "author": "Michael Innes",
+            "publisher": "Dodd, Mead"
+        }
+    ]
+}

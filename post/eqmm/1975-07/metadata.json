@@ -1,0 +1,16 @@
+{
+  "title": "The Jury Box",
+  "author": "John Dickson Carr",
+  "source": "Ellery Queen's Mystery Magazine",
+  "date": "1975-07",
+  "toc_label": "July 1975",
+  "pages": "74–75",
+  "citation": "Ellery Queen's Mystery Magazine (July 1975): 74–75.",
+  "file": "article.md",
+  "books_reviewed": [
+    { "title": "King James VI of Scotland and I of England", "author": "Antonia Fraser", "publisher": "Knopf" },
+    { "title": "A Prayer for the Dying", "author": "Jack Higgins", "publisher": "Fawcett" },
+    { "title": "Blood Sport", "author": "Dick Francis", "publisher": "Pocket Books" },
+    { "title": "American Gothic", "author": "Robert Bloch", "publisher": "Fawcett" }
+  ]
+}

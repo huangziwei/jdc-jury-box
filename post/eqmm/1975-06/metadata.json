@@ -1,0 +1,16 @@
+{
+  "title": "The Jury Box",
+  "author": "John Dickson Carr",
+  "source": "Ellery Queen's Mystery Magazine",
+  "date": "1975-06",
+  "toc_label": "June 1975",
+  "pages": "110–111",
+  "citation": "Ellery Queen's Mystery Magazine (June 1975): 110–111.",
+  "file": "article.md",
+  "books_reviewed": [
+    { "title": "Ellery Queen’s Aces of Mystery", "author": "Ellery Queen", "publisher": "Dial Press" },
+    { "title": "The Woodcutter Operation", "author": "Kenneth Royce", "publisher": "Simon and Schuster" },
+    { "title": "Night of the Juggler", "author": "William P. McGivern", "publisher": "Putnam" },
+    { "title": "The Threepersons Hunt", "author": "Brian Garfield", "publisher": "Fawcett" }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "title": "The Jury Box",
+  "author": "John Dickson Carr",
+  "source": "Ellery Queen's Mystery Magazine",
+  "date": "1974-03",
+  "toc_label": "March 1974",
+  "pages": "111–112",
+  "citation": "Ellery Queen's Mystery Magazine (March 1974): 111–112.",
+  "file": "article.md",
+  "books_reviewed": [
+    {
+      "title": "Best “Thinking Machine” Detective Stories",
+      "author": "Jacques Futrelle",
+      "publisher": "Dover"
+    },
+    {
+      "title": "The Gambler",
+      "author": "Olle Hogstrand",
+      "publisher": "Pantheon"
+    },
+    {
+      "title": "The Highbinders",
+      "author": "Oliver Bleeck",
+      "publisher": "Morrow"
+    },
+    {
+      "title": "A Wicked Way to Die",
+      "author": "R. G. Jeffreys",
+      "publisher": "Walker"
+    }
+  ]
+}

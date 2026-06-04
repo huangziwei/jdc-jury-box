@@ -1,0 +1,37 @@
+{
+    "title": "The Jury Box",
+    "author": "John Dickson Carr",
+    "source": "Ellery Queen's Mystery Magazine",
+    "date": "1975-09",
+    "toc_label": "September 1975",
+    "pages": "93–94",
+    "citation": "Ellery Queen's Mystery Magazine (September 1975): 93–94.",
+    "file": "article.md",
+    "books_reviewed": [
+        {
+            "title": "Keeper of the Keys",
+            "author": "Earl Derr Biggers",
+            "publisher": "Bantam"
+        },
+        {
+            "title": "Charlie Chan Carries On",
+            "author": "Earl Derr Biggers",
+            "publisher": "Bantam"
+        },
+        {
+            "title": "Murder Against the Grain",
+            "author": "Emma Lathen",
+            "publisher": "Pocket Books"
+        },
+        {
+            "title": "Snowbound",
+            "author": "Bill Pronzini",
+            "publisher": "Fawcett"
+        },
+        {
+            "title": "The Terminators",
+            "author": "Donald Hamilton",
+            "publisher": "Fawcett"
+        }
+    ]
+}

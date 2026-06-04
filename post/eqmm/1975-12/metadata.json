@@ -1,0 +1,16 @@
+{
+  "title": "The Jury Box",
+  "author": "John Dickson Carr",
+  "source": "Ellery Queen's Mystery Magazine",
+  "date": "1975-12",
+  "toc_label": "December 1975",
+  "pages": "120–121",
+  "citation": "Ellery Queen's Mystery Magazine (December 1975): 120–121.",
+  "file": "article.md",
+  "books_reviewed": [
+    { "title": "Dragons at the Gate", "author": "Robert L. Duncan", "publisher": "Morrow" },
+    { "title": "The Deadly Gold", "author": "John Rossiter", "publisher": "Walker" },
+    { "title": "Iceberg", "author": "Clive Cussler", "publisher": "Dodd, Mead" },
+    { "title": "The White Lie Assignment", "author": "Peter Driscoll", "publisher": "Lippincott" }
+  ]
+}

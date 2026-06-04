@@ -1,0 +1,32 @@
+{
+  "title": "The Jury Box",
+  "author": "John Dickson Carr",
+  "source": "Ellery Queen's Mystery Magazine",
+  "date": "1974-07",
+  "toc_label": "July 1974",
+  "pages": "93–94",
+  "citation": "Ellery Queen's Mystery Magazine (July 1974): 93–94.",
+  "file": "article.md",
+  "books_reviewed": [
+    {
+      "title": "The Inside Man",
+      "author": "George Harmon Coxe",
+      "publisher": "Knopf"
+    },
+    {
+      "title": "Appleby's Other Story",
+      "author": "Michael Innes",
+      "publisher": "Dodd, Mead"
+    },
+    {
+      "title": "Beau Blackstone",
+      "author": "Richard Falkirk",
+      "publisher": "Stein and Day"
+    },
+    {
+      "title": "Zaleski's Percentage",
+      "author": "Donald MacKenzie",
+      "publisher": "Houghton Mifflin"
+    }
+  ]
+}

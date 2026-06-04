@@ -1,0 +1,32 @@
+{
+  "title": "The Jury Box",
+  "author": "John Dickson Carr",
+  "source": "Ellery Queen's Mystery Magazine",
+  "date": "1974-02",
+  "toc_label": "February 1974",
+  "pages": "69–70",
+  "citation": "Ellery Queen's Mystery Magazine (February 1974): 69–70.",
+  "file": "article.md",
+  "books_reviewed": [
+    {
+      "title": "The Thirteenth Trick",
+      "author": "Russell Braddon",
+      "publisher": "Norton"
+    },
+    {
+      "title": "The Turquoise Lament",
+      "author": "John D. MacDonald",
+      "publisher": "Lippincott"
+    },
+    {
+      "title": "Swap",
+      "author": "Walter Wagner",
+      "publisher": "Pocket Books"
+    },
+    {
+      "title": "The Further Rivals of Sherlock Holmes",
+      "author": "Hugh Greene",
+      "publisher": "Pantheon"
+    }
+  ]
+}

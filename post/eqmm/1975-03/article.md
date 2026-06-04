@@ -1,0 +1,36 @@
+## The Jury Box
+by John Dickson Carr
+
+This time, to cheer your mentor as well as those who read, we begin with a new detective novel of such high quality that it may fairly be called memorable, and continue through mystery-adventure and mystery-conspiracy to espionage. If those three succeeding items seem less impressive than the first, it is not easy even for good work to bear comparison with the very best.
+
+And every story will entertain you; you can't go wrong here.
+
+With **Reverend Randollph and the Wages of Sin**, by Charles Merrill Smith (Putnam, $6.95), the clerical roster stands complete. Joining such famous sleuths as Father Brown and Rabbi Small comes Dr. C. P. Randollph, former professional football player as well as ordained Protestant minister, but scholar and theologian, too.
+
+Shrewd, tolerant, sympathetic, “C.P.” is called as interim pastor of a wealthy Chicago church, whose board of trustees has been manipulating the funds. Already he has challenged this when the murder of an absconding trustee’s beautiful wife, found nude and strangled in the choir room, threatens even worse scandal.
+
+Cooperating with Police Lieutenant Casey, assisted by attractive Samantha Stack and advised by his broad-minded bishop, C.P. turns to detection. After some false starts he proves as adept as the author, himself a clergyman, proves adept at vivid character-drawing and the construction of ingenious plots. With humor, insight, and emotional strength, every clue in sight, we are swept towards a double-surprise finish of which even connoisseurs will anticipate only half the solution.
+
+C. P. Randollph must not rest on his laurels. Apparently a first novel, this mystery is the most delightful for years.
+
+Even today, we find from David Westheimer’s **The Avila Gold** (Putnam, $7.95), a search for buried treasure can become sharp-fanged adventure when the treasure has been buried in some spot now so populous that each move must be made by stealth.
+
+Among old papers dating back to Spanish-ruled California, Arthur McDowell, middle-aged and happily married professor of history at UCLA, finds the clue. A chest presumed full of gold coins may still lie buried beneath the rear patio of the reconstructed Avila hacienda in downtown Los Angeles. McDowell, who would have reported the discovery to authority, is persuaded otherwise by his young friend Steve Sussman, professorial engineer.
+
+To meet all expenses of tunneling underground for the chest, these impecunious teachers must take as their partner wealthy Colonel Pike, tough military martinet.
+
+Most often a tale of treasure proves only hoax or illusion, but not this one. Despite McDowell's affair with shapely Gloria, despite thieves closing in, despite accidental death which may be called murder, our friends win through to heaping riches and a satisfactory end.
+
+**The Season of Danger**, by Rosemary Gatenby (Dodd, Mead, $5.95), provides many evil machinations in sophisticated mystery-conspiracy undiluted with too much romance.
+
+It seems incredible that James Everest, rich and famous novelist who has chosen to withdraw from the world behind companions and guards, can be held prisoner on one of his own estates. Yet to Jack Seavering of *Perspective*, alone among newsmen admitted for an interview, Everest appeals with the single desperate word, *help*.
+
+If the man's guards are in fact his jailers, he has only to tell the whole press. Or hasn't he? What's going on here?
+
+Determined to find out, Seavering meets obstruction or sheer disbelief until he joins forces with Linnet Emries, that alluring widow, and persuades Everest's canny editor as well. Fast action sweeps us from the Texas estate to surroundings more tropical, and to one more surprise twist before the final curtain.
+
+As for the cloak-and-dagger work of Robin Close's **The Bohème Combination** (Walker, $5.95), you may argue whether cloak dominates dagger or vice versa, since each is used freely by both sides.
+
+Here's triple-dealing espionage. In Rome for economic talks, Richard Brandon, H.M. Treasury Intelligence, must foil Kremlin-inspired designs against his country's economy.
+
+'Ware treachery everywhere, including the British Embassy. With Honey, that delectable girl, Brandon is caught and whirled from mayhem to murder or back again until the ironic climax. Rip Van Winkle himself would have stayed awake with this one.

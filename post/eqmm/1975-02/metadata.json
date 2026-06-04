@@ -1,0 +1,16 @@
+{
+  "title": "The Jury Box",
+  "author": "John Dickson Carr",
+  "source": "Ellery Queen's Mystery Magazine",
+  "date": "1975-02",
+  "toc_label": "February 1975",
+  "pages": "119–120",
+  "citation": "Ellery Queen's Mystery Magazine (February 1975): 119–120.",
+  "file": "article.md",
+  "books_reviewed": [
+    { "title": "Gently with the Ladies", "author": "Alan Hunter", "publisher": "Macmillan" },
+    { "title": "You’re Never Too Old To Die", "author": "Arthur D. Goldstein", "publisher": "Random House" },
+    { "title": "The Man with Two Clocks", "author": "Whit Masterson", "publisher": "Dodd, Mead" },
+    { "title": "The Yermakov Transfer", "author": "Derek Lambert", "publisher": "Dutton" }
+  ]
+}
