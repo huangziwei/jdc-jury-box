@@ -9,7 +9,7 @@
   "file": "article.md",
   "books_reviewed": [
     { "title": "Jink", "author": "Thomas Patrick McMahon", "publisher": "Simon and Schuster" },
-    { "title": "Sleep Is for the Rich", "author": "Donald Mackenzie", "publisher": "Houghton Mifflin" },
+    { "title": "Sleep Is for the Rich", "author": "Donald MacKenzie", "publisher": "Houghton Mifflin" },
     { "title": "The Golden Ball and Other Stories", "author": "Agatha Christie", "publisher": "Dodd, Mead" },
     { "title": "A Catalogue of Crime", "author": "Jacques Barzun and Wendell Hertig Taylor", "publisher": "Harper & Row" }
   ]
