@@ -8,9 +8,9 @@
   "citation": "Ellery Queen's Mystery Magazine (April 1972): 82–83.",
   "file": "article.md",
   "books_reviewed": [
-    { "title": "Lord Peter", "author": "Dorothy L. Sayers", "publisher": "Harper & Row" },
-    { "title": "Murder Most Foul", "author": "Harold Q. Masur", "publisher": "Walker" },
-    { "title": "The A.B.C. Murders", "author": "Agatha Christie", "publisher": "Pocket Books" },
-    { "title": "Diamonds Are Forever", "author": "Ian Fleming", "publisher": "Bantam" }
+    { "title": "Lord Peter", "author": "Dorothy L. Sayers", "publisher": "Harper & Row", "first_published_date": 1972 },
+    { "title": "Murder Most Foul", "author": "Harold Q. Masur", "publisher": "Walker", "first_published_date": 1971 },
+    { "title": "The A.B.C. Murders", "author": "Agatha Christie", "publisher": "Pocket Books", "first_published_date": 1936, "edition_published_date": 1972 },
+    { "title": "Diamonds Are Forever", "author": "Ian Fleming", "publisher": "Bantam", "first_published_date": 1956, "edition_published_date": 1972 }
   ]
 }

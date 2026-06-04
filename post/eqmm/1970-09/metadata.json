@@ -8,9 +8,9 @@
   "citation": "Ellery Queen's Mystery Magazine (September 1970): 98–100.",
   "file": "article.md",
   "books_reviewed": [
-    { "title": "The Best Man to Die", "author": "Ruth Rendell", "publisher": "Crime Club" },
-    { "title": "Finish Me Off", "author": "Hillary Waugh", "publisher": "Doubleday" },
-    { "title": "Enquiry", "author": "Dick Francis", "publisher": "Harper & Row" },
-    { "title": "The Bind", "author": "Stanley Ellin", "publisher": "Random House" }
+    { "title": "The Best Man to Die", "author": "Ruth Rendell", "publisher": "Crime Club", "first_published_date": 1969 },
+    { "title": "Finish Me Off", "author": "Hillary Waugh", "publisher": "Doubleday", "first_published_date": 1970 },
+    { "title": "Enquiry", "author": "Dick Francis", "publisher": "Harper & Row", "first_published_date": 1969 },
+    { "title": "The Bind", "author": "Stanley Ellin", "publisher": "Random House", "first_published_date": 1970 }
   ]
 }

@@ -8,9 +8,9 @@
   "citation": "Ellery Queen's Mystery Magazine (March 1975): 89–90.",
   "file": "article.md",
   "books_reviewed": [
-    { "title": "Reverend Randollph and the Wages of Sin", "author": "Charles Merrill Smith", "publisher": "Putnam" },
-    { "title": "The Avila Gold", "author": "David Westheimer", "publisher": "Putnam" },
-    { "title": "The Season of Danger", "author": "Rosemary Gatenby", "publisher": "Dodd, Mead" },
-    { "title": "The Bohème Combination", "author": "Robin Close", "publisher": "Walker" }
+    { "title": "Reverend Randollph and the Wages of Sin", "author": "Charles Merrill Smith", "publisher": "Putnam", "first_published_date": 1974 },
+    { "title": "The Avila Gold", "author": "David Westheimer", "publisher": "Putnam", "first_published_date": 1974 },
+    { "title": "The Season of Danger", "author": "Rosemary Gatenby", "publisher": "Dodd, Mead", "first_published_date": 1974 },
+    { "title": "The Bohème Combination", "author": "Robin Close", "publisher": "Walker", "first_published_date": 1973 }
   ]
 }

@@ -8,9 +8,9 @@
   "citation": "Ellery Queen's Mystery Magazine (November 1970): 126–128.",
   "file": "article.md",
   "books_reviewed": [
-    { "title": "Wobble to Death", "author": "Peter Lovesey", "publisher": "Dodd, Mead" },
-    { "title": "In the Death of a Man", "author": "Lesley Egan", "publisher": "Harper & Row" },
-    { "title": "Deadly Pattern", "author": "Douglas Clark", "publisher": "Stein & Day" },
-    { "title": "Accounting for Murder", "author": "Emma Lathen", "publisher": "Avon" }
+    { "title": "Wobble to Death", "author": "Peter Lovesey", "publisher": "Dodd, Mead", "first_published_date": 1970 },
+    { "title": "In the Death of a Man", "author": "Lesley Egan", "publisher": "Harper & Row", "first_published_date": 1970 },
+    { "title": "Deadly Pattern", "author": "Douglas Clark", "publisher": "Stein & Day", "first_published_date": 1970 },
+    { "title": "Accounting for Murder", "author": "Emma Lathen", "publisher": "Avon", "first_published_date": 1964, "edition_published_date": 1970 }
   ]
 }

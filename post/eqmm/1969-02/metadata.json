@@ -8,9 +8,9 @@
   "citation": "Ellery Queen's Mystery Magazine (February 1969): 150–151.",
   "file": "article.md",
   "books_reviewed": [
-    { "title": "The Danube Runs Red", "author": "Richard Meade", "publisher": "Random House" },
-    { "title": "A Spy for a Spy", "author": "Berkely Mather", "publisher": "Scribners" },
-    { "title": "Force 10 from Navarone", "author": "Alistair MacLean", "publisher": "Doubleday" },
-    { "title": "The Angry Millionaire", "author": "Selwyn Jepson", "publisher": "Harper & Row" }
+    { "title": "The Danube Runs Red", "author": "Richard Meade", "publisher": "Random House", "first_published_date": 1968 },
+    { "title": "A Spy for a Spy", "author": "Berkely Mather", "publisher": "Scribners", "first_published_date": 1968 },
+    { "title": "Force 10 from Navarone", "author": "Alistair MacLean", "publisher": "Doubleday", "first_published_date": 1968 },
+    { "title": "The Angry Millionaire", "author": "Selwyn Jepson", "publisher": "Harper & Row", "first_published_date": 1968 }
   ]
 }

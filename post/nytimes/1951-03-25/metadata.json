@@ -8,10 +8,6 @@
   "citation": "The New York Times Book Review (March 25, 1951): 5, 18.",
   "file": "article.md",
   "books_reviewed": [
-    {
-      "title": "The Drood Murder Case",
-      "author": "Richard M. Baker",
-      "publisher": "University of California Press"
-    }
+    { "title": "The Drood Murder Case", "author": "Richard M. Baker", "publisher": "University of California Press", "first_published_date": 1951 }
   ]
 }

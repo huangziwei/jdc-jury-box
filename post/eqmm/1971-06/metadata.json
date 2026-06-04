@@ -8,9 +8,9 @@
   "citation": "Ellery Queen's Mystery Magazine (June 1971): 72–73.",
   "file": "article.md",
   "books_reviewed": [
-    { "title": "Rat Race", "author": "Dick Francis", "publisher": "Harper & Row" },
-    { "title": "Ashes to Ashes", "author": "Emma Lathen", "publisher": "Simon & Schuster" },
-    { "title": "The Padrone", "author": "Don Smith", "publisher": "Fawcett" },
-    { "title": "Kill the Dutchman!", "author": "Paul Sann", "publisher": "Arlington" }
+    { "title": "Rat Race", "author": "Dick Francis", "publisher": "Harper & Row", "first_published_date": 1970 },
+    { "title": "Ashes to Ashes", "author": "Emma Lathen", "publisher": "Simon & Schuster", "first_published_date": 1971 },
+    { "title": "The Padrone", "author": "Don Smith", "publisher": "Fawcett", "first_published_date": 1971 },
+    { "title": "Kill the Dutchman!", "author": "Paul Sann", "publisher": "Arlington", "first_published_date": 1971 }
   ]
 }

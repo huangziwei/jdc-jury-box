@@ -8,15 +8,7 @@
   "citation": "Ellery Queen's Mystery Magazine (December 1974): 137–138.",
   "file": "article.md",
   "books_reviewed": [
-    {
-      "title": "Great Stories of Mystery and Suspense",
-      "author": "Editors of the Reader's Digest",
-      "publisher": "Reader's Digest Association"
-    },
-    {
-      "title": "Murder on Board",
-      "author": "Agatha Christie",
-      "publisher": "Dodd, Mead"
-    }
+    { "title": "Great Stories of Mystery and Suspense", "author": "Editors of the Reader's Digest", "publisher": "Reader's Digest Association", "first_published_date": 1974 },
+    { "title": "Murder on Board", "author": "Agatha Christie", "publisher": "Dodd, Mead", "first_published_date": 1974 }
   ]
 }

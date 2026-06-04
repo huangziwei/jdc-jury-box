@@ -8,25 +8,9 @@
   "citation": "Ellery Queen's Mystery Magazine (May 1976): 102–104.",
   "file": "article.md",
   "books_reviewed": [
-    {
-      "title": "The Left-handed Sleeper",
-      "author": "Ted Willis",
-      "publisher": "Putnam"
-    },
-    {
-      "title": "Revenge",
-      "author": "Noel Hynd",
-      "publisher": "Dial Press"
-    },
-    {
-      "title": "The Chinese Fire Drill",
-      "author": "Michael Wolfe",
-      "publisher": "Harper & Row"
-    },
-    {
-      "title": "The Strange Case of Deacon Brodie",
-      "author": "Forbes Bramble",
-      "publisher": "Coward, McCann, Geoghegan"
-    }
+    { "title": "The Left-handed Sleeper", "author": "Ted Willis", "publisher": "Putnam", "first_published_date": 1975 },
+    { "title": "Revenge", "author": "Noel Hynd", "publisher": "Dial Press", "first_published_date": 1976 },
+    { "title": "The Chinese Fire Drill", "author": "Michael Wolfe", "publisher": "Harper & Row", "first_published_date": 1976 },
+    { "title": "The Strange Case of Deacon Brodie", "author": "Forbes Bramble", "publisher": "Coward, McCann, Geoghegan", "first_published_date": 1975 }
   ]
 }

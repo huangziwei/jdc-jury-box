@@ -8,9 +8,9 @@
   "citation": "Ellery Queen's Mystery Magazine (May 1972): 70–71.",
   "file": "article.md",
   "books_reviewed": [
-    { "title": "And Shame the Devil", "author": "Sara Woods", "publisher": "Holt, Rinehart & Winston" },
-    { "title": "The Rynox Murder", "author": "Philip MacDonald", "publisher": "Avon" },
-    { "title": "The League of Frightened Men", "author": "Rex Stout", "publisher": "Pyramid" },
-    { "title": "The Man Who Was Thursday", "author": "G. K. Chesterton", "publisher": "Ballantine" }
+    { "title": "And Shame the Devil", "author": "Sara Woods", "publisher": "Holt, Rinehart & Winston", "first_published_date": 1967, "edition_published_date": 1972 },
+    { "title": "The Rynox Murder", "author": "Philip MacDonald", "publisher": "Avon", "first_published_date": 1930, "edition_published_date": 1972 },
+    { "title": "The League of Frightened Men", "author": "Rex Stout", "publisher": "Pyramid", "first_published_date": 1935, "edition_published_date": 1972 },
+    { "title": "The Man Who Was Thursday", "author": "G. K. Chesterton", "publisher": "Ballantine", "first_published_date": 1908, "edition_published_date": 1972 }
   ]
 }

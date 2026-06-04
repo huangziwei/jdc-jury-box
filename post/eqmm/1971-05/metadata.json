@@ -8,9 +8,9 @@
   "citation": "Ellery Queen's Mystery Magazine (May 1971): 76–77.",
   "file": "article.md",
   "books_reviewed": [
-    { "title": "The Sound of Murder", "author": "John and Emery Bonett", "publisher": "Walker" },
-    { "title": "\"30\" Manhattan East", "author": "Hillary Waugh", "publisher": "Belmont" },
-    { "title": "The Great Affair", "author": "Victor Canning", "publisher": "Morrow" },
-    { "title": "Assignment—Tokyo", "author": "Edward S. Aarons", "publisher": "Fawcett" }
+    { "title": "The Sound of Murder", "author": "John and Emery Bonett", "publisher": "Walker", "first_published_date": 1970 },
+    { "title": "\"30\" Manhattan East", "author": "Hillary Waugh", "publisher": "Belmont", "first_published_date": 1968, "edition_published_date": 1971 },
+    { "title": "The Great Affair", "author": "Victor Canning", "publisher": "Morrow", "first_published_date": 1970 },
+    { "title": "Assignment—Tokyo", "author": "Edward S. Aarons", "publisher": "Fawcett", "first_published_date": 1971 }
   ]
 }

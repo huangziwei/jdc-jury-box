@@ -8,25 +8,9 @@
   "citation": "Ellery Queen's Mystery Magazine (June 1974): 91–92.",
   "file": "article.md",
   "books_reviewed": [
-    {
-      "title": "Slayride",
-      "author": "Dick Francis",
-      "publisher": "Harper & Row"
-    },
-    {
-      "title": "In Connection with Kilshaw",
-      "author": "Peter Driscoll",
-      "publisher": "Lippincott"
-    },
-    {
-      "title": "The Life and Death of Peter Wade",
-      "author": "Lionel Black",
-      "publisher": "Stein and Day"
-    },
-    {
-      "title": "The Kiriov Tapes",
-      "author": "Owen Sela",
-      "publisher": "Pantheon"
-    }
+    { "title": "Slayride", "author": "Dick Francis", "publisher": "Harper & Row", "first_published_date": 1973 },
+    { "title": "In Connection with Kilshaw", "author": "Peter Driscoll", "publisher": "Lippincott", "first_published_date": 1974 },
+    { "title": "The Life and Death of Peter Wade", "author": "Lionel Black", "publisher": "Stein and Day", "first_published_date": 1973 },
+    { "title": "The Kiriov Tapes", "author": "Owen Sela", "publisher": "Pantheon", "first_published_date": 1973 }
   ]
 }

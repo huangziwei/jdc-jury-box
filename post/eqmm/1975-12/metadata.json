@@ -8,9 +8,9 @@
   "citation": "Ellery Queen's Mystery Magazine (December 1975): 120–121.",
   "file": "article.md",
   "books_reviewed": [
-    { "title": "Dragons at the Gate", "author": "Robert L. Duncan", "publisher": "Morrow" },
-    { "title": "The Deadly Gold", "author": "John Rossiter", "publisher": "Walker" },
-    { "title": "Iceberg", "author": "Clive Cussler", "publisher": "Dodd, Mead" },
-    { "title": "The White Lie Assignment", "author": "Peter Driscoll", "publisher": "Lippincott" }
+    { "title": "Dragons at the Gate", "author": "Robert L. Duncan", "publisher": "Morrow", "first_published_date": 1975 },
+    { "title": "The Deadly Gold", "author": "John Rossiter", "publisher": "Walker", "first_published_date": 1975 },
+    { "title": "Iceberg", "author": "Clive Cussler", "publisher": "Dodd, Mead", "first_published_date": 1975 },
+    { "title": "The White Lie Assignment", "author": "Peter Driscoll", "publisher": "Lippincott", "first_published_date": 1971, "edition_published_date": 1975 }
   ]
 }

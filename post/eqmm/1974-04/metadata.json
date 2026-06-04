@@ -8,25 +8,9 @@
   "citation": "Ellery Queen's Mystery Magazine (April 1974): 97–98.",
   "file": "article.md",
   "books_reviewed": [
-    {
-      "title": "James Bond, the Authorized Biography of 007",
-      "author": "John Pearson",
-      "publisher": "Morrow"
-    },
-    {
-      "title": "A Singular Conspiracy",
-      "author": "Barry Perowne",
-      "publisher": "Bobbs-Merrill"
-    },
-    {
-      "title": "The Worlds of Chippy Patterson",
-      "author": "Arthur H. Lewis",
-      "publisher": "Pocket Books"
-    },
-    {
-      "title": "The Life and Times of Lucrezia Borgia",
-      "author": "Maria Bellonci",
-      "publisher": "Pyramid"
-    }
+    { "title": "James Bond, the Authorized Biography of 007", "author": "John Pearson", "publisher": "Morrow", "first_published_date": 1973 },
+    { "title": "A Singular Conspiracy", "author": "Barry Perowne", "publisher": "Bobbs-Merrill", "first_published_date": 1974 },
+    { "title": "The Worlds of Chippy Patterson", "author": "Arthur H. Lewis", "publisher": "Pocket Books", "first_published_date": 1960, "edition_published_date": 1974 },
+    { "title": "The Life and Times of Lucrezia Borgia", "author": "Maria Bellonci", "publisher": "Pyramid", "first_published_date": 1939, "edition_published_date": 1974 }
   ]
 }

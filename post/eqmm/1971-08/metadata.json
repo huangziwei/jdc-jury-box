@@ -8,9 +8,9 @@
   "citation": "Ellery Queen's Mystery Magazine (August 1971): 75–76.",
   "file": "article.md",
   "books_reviewed": [
-    { "title": "The Twisted Wire", "author": "Richard Falkirk", "publisher": "Doubleday" },
-    { "title": "Place of Mists", "author": "Robert MacLeod", "publisher": "McCall" },
-    { "title": "Viper Three", "author": "Walter Wager", "publisher": "Macmillan" },
-    { "title": "Capone", "author": "John Kobler", "publisher": "Putnam" }
+    { "title": "The Twisted Wire", "author": "Richard Falkirk", "publisher": "Doubleday", "first_published_date": 1971 },
+    { "title": "Place of Mists", "author": "Robert MacLeod", "publisher": "McCall", "first_published_date": 1969 },
+    { "title": "Viper Three", "author": "Walter Wager", "publisher": "Macmillan", "first_published_date": 1971 },
+    { "title": "Capone", "author": "John Kobler", "publisher": "Putnam", "first_published_date": 1971 }
   ]
 }

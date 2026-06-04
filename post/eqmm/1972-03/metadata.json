@@ -8,9 +8,9 @@
   "citation": "Ellery Queen's Mystery Magazine (March 1972): 91–92.",
   "file": "article.md",
   "books_reviewed": [
-    { "title": "Season of Snows and Sins", "author": "Patricia Moyes", "publisher": "Holt, Rinehart & Winston" },
-    { "title": "The Procane Chronicle", "author": "Oliver Bleeck", "publisher": "Morrow" },
-    { "title": "Path of Ghosts", "author": "Robert MacLeod", "publisher": "McCall" },
-    { "title": "A Red File for Callan", "author": "James Mitchell", "publisher": "Simon & Schuster" }
+    { "title": "Season of Snows and Sins", "author": "Patricia Moyes", "publisher": "Holt, Rinehart & Winston", "first_published_date": 1971 },
+    { "title": "The Procane Chronicle", "author": "Oliver Bleeck", "publisher": "Morrow", "first_published_date": 1972 },
+    { "title": "Path of Ghosts", "author": "Robert MacLeod", "publisher": "McCall", "first_published_date": 1971 },
+    { "title": "A Red File for Callan", "author": "James Mitchell", "publisher": "Simon & Schuster", "first_published_date": 1969, "edition_published_date": 1971 }
   ]
 }

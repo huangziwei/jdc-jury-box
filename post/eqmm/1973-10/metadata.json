@@ -8,9 +8,9 @@
   "citation": "Ellery Queen's Mystery Magazine (October 1973): 90–91.",
   "file": "article.md",
   "books_reviewed": [
-    { "title": "The Third Truth", "author": "Michael Bar-Zohar", "publisher": "Houghton Mifflin" },
-    { "title": "The Tale of the Lazy Dog", "author": "Alan Williams", "publisher": "Pocket Books" },
-    { "title": "Serpent's Tooth", "author": "Sara Woods", "publisher": "Holt, Rinehart and Winston" },
-    { "title": "Hickory, Dickory, Death", "author": "Agatha Christie", "publisher": "Pocket Books" }
+    { "title": "The Third Truth", "author": "Michael Bar-Zohar", "publisher": "Houghton Mifflin", "first_published_date": 1972 },
+    { "title": "The Tale of the Lazy Dog", "author": "Alan Williams", "publisher": "Pocket Books", "first_published_date": 1970, "edition_published_date": 1973 },
+    { "title": "Serpent's Tooth", "author": "Sara Woods", "publisher": "Holt, Rinehart and Winston", "first_published_date": 1971 },
+    { "title": "Hickory, Dickory, Death", "author": "Agatha Christie", "publisher": "Pocket Books", "first_published_date": 1955, "edition_published_date": 1973 }
   ]
 }

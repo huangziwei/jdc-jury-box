@@ -8,9 +8,9 @@
   "citation": "Ellery Queen's Mystery Magazine (May 1970): 93–95.",
   "file": "article.md",
   "books_reviewed": [
-    { "title": "Death at the Chase", "author": "Michael Innes", "publisher": "Dodd, Mead" },
-    { "title": "The Pushbutton Butterfly", "author": "Kin Platt", "publisher": "Random House" },
-    { "title": "Assignment—White Rajah", "author": "Edward S. Aarons", "publisher": "Fawcett" },
-    { "title": "The Red House Mystery", "author": "A.A. Milne", "publisher": "Avon" }
+    { "title": "Death at the Chase", "author": "Michael Innes", "publisher": "Dodd, Mead", "first_published_date": 1970 },
+    { "title": "The Pushbutton Butterfly", "author": "Kin Platt", "publisher": "Random House", "first_published_date": 1970 },
+    { "title": "Assignment—White Rajah", "author": "Edward S. Aarons", "publisher": "Fawcett", "first_published_date": 1970 },
+    { "title": "The Red House Mystery", "author": "A.A. Milne", "publisher": "Avon", "first_published_date": 1922, "edition_published_date": 1970 }
   ]
 }

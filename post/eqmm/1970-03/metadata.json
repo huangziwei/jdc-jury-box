@@ -8,9 +8,9 @@
   "citation": "Ellery Queen's Mystery Magazine (March 1970): 114–115.",
   "file": "article.md",
   "books_reviewed": [
-    { "title": "Merchants of Menace", "author": "Hillary Waugh", "publisher": "Doubleday" },
-    { "title": "Somebody Owes Me Money", "author": "Donald E. Westlake", "publisher": "Random House" },
-    { "title": "Gideon's Power", "author": "J.J. Marric", "publisher": "Harper & Row" },
-    { "title": "Ashenden", "author": "W. Somerset Maugham", "publisher": "Avon" }
+    { "title": "Merchants of Menace", "author": "Hillary Waugh", "publisher": "Doubleday", "first_published_date": 1969 },
+    { "title": "Somebody Owes Me Money", "author": "Donald E. Westlake", "publisher": "Random House", "first_published_date": 1969 },
+    { "title": "Gideon's Power", "author": "J.J. Marric", "publisher": "Harper & Row", "first_published_date": 1969 },
+    { "title": "Ashenden", "author": "W. Somerset Maugham", "publisher": "Avon", "first_published_date": 1928, "edition_published_date": 1970 }
   ]
 }

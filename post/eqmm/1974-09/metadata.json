@@ -8,25 +8,9 @@
   "citation": "Ellery Queen's Mystery Magazine (September 1974): 64–65.",
   "file": "article.md",
   "books_reviewed": [
-    {
-      "title": "The Murders of Richard III",
-      "author": "Elizabeth Peters",
-      "publisher": "Dodd, Mead"
-    },
-    {
-      "title": "Goodbye Lizzie Borden",
-      "author": "Robert Sullivan",
-      "publisher": "Stephen Greene"
-    },
-    {
-      "title": "Craig and the Jaguar",
-      "author": "Kenneth Benton",
-      "publisher": "Walker"
-    },
-    {
-      "title": "The Savage Day",
-      "author": "Jack Higgins",
-      "publisher": "Fawcett"
-    }
+    { "title": "The Murders of Richard III", "author": "Elizabeth Peters", "publisher": "Dodd, Mead", "first_published_date": 1974 },
+    { "title": "Goodbye Lizzie Borden", "author": "Robert Sullivan", "publisher": "Stephen Greene", "first_published_date": 1974 },
+    { "title": "Craig and the Jaguar", "author": "Kenneth Benton", "publisher": "Walker", "first_published_date": 1973 },
+    { "title": "The Savage Day", "author": "Jack Higgins", "publisher": "Fawcett", "first_published_date": 1972 }
   ]
 }

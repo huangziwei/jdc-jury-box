@@ -8,9 +8,9 @@
   "citation": "Ellery Queen's Mystery Magazine (June 1973): 83–84.",
   "file": "article.md",
   "books_reviewed": [
-    { "title": "The Red Thumb Mark", "author": "R. Austin Freeman", "publisher": "Norton" },
-    { "title": "The Bearer Plot", "author": "Owen Sela", "publisher": "Pantheon" },
-    { "title": "The Trevick Affair", "author": "Mauri Sariola", "publisher": "Walker" },
-    { "title": "The Thinking Machine", "author": "Jacques Futrelle", "publisher": "" }
+    { "title": "The Red Thumb Mark", "author": "R. Austin Freeman", "publisher": "Norton", "first_published_date": 1907, "edition_published_date": 1973 },
+    { "title": "The Bearer Plot", "author": "Owen Sela", "publisher": "Pantheon", "first_published_date": 1972 },
+    { "title": "The Trevick Affair", "author": "Mauri Sariola", "publisher": "Walker", "first_published_date": 1963, "edition_published_date": 1973 },
+    { "title": "The Thinking Machine", "author": "Jacques Futrelle", "publisher": "", "first_published_date": 1907, "edition_published_date": 1973 }
   ]
 }

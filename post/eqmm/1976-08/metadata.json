@@ -8,25 +8,9 @@
   "citation": "Ellery Queen's Mystery Magazine (August 1976): 131–132.",
   "file": "article.md",
   "books_reviewed": [
-    {
-      "title": "Candles for the Dead",
-      "author": "Harry Carmichael",
-      "publisher": "Saturday Review Press"
-    },
-    {
-      "title": "Sergeant Verity and the Imperial Diamond",
-      "author": "Francis Selwyn",
-      "publisher": "Stein and Day"
-    },
-    {
-      "title": "Gently with the Painters",
-      "author": "Alan Hunter",
-      "publisher": "Macmillan"
-    },
-    {
-      "title": "High Stakes",
-      "author": "Dick Francis",
-      "publisher": "Harper & Row"
-    }
+    { "title": "Candles for the Dead", "author": "Harry Carmichael", "publisher": "Saturday Review Press", "first_published_date": 1973, "edition_published_date": 1976 },
+    { "title": "Sergeant Verity and the Imperial Diamond", "author": "Francis Selwyn", "publisher": "Stein and Day", "first_published_date": 1975 },
+    { "title": "Gently with the Painters", "author": "Alan Hunter", "publisher": "Macmillan", "first_published_date": 1960, "edition_published_date": 1976 },
+    { "title": "High Stakes", "author": "Dick Francis", "publisher": "Harper & Row", "first_published_date": 1975 }
   ]
 }

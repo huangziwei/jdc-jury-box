@@ -8,9 +8,9 @@
   "citation": "Ellery Queen's Mystery Magazine (August 1969): 52–53.",
   "file": "article.md",
   "books_reviewed": [
-    { "title": "Shotgun", "author": "Ed McBain", "publisher": "Doubleday" },
-    { "title": "The Wave Hangs Dark", "author": "Alan Dipper", "publisher": "Morrow" },
-    { "title": "The Interlopers", "author": "Donald Hamilton", "publisher": "Fawcett" },
-    { "title": "Passport for a Pilgrim", "author": "James Leasor", "publisher": "Doubleday" }
+    { "title": "Shotgun", "author": "Ed McBain", "publisher": "Doubleday", "first_published_date": 1969 },
+    { "title": "The Wave Hangs Dark", "author": "Alan Dipper", "publisher": "Morrow", "first_published_date": 1969 },
+    { "title": "The Interlopers", "author": "Donald Hamilton", "publisher": "Fawcett", "first_published_date": 1969 },
+    { "title": "Passport for a Pilgrim", "author": "James Leasor", "publisher": "Doubleday", "first_published_date": 1968 }
   ]
 }

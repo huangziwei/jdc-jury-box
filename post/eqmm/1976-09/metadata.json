@@ -8,25 +8,9 @@
   "citation": "Ellery Queen's Mystery Magazine (September 1976): 80–82.",
   "file": "article.md",
   "books_reviewed": [
-    {
-      "title": "Legend in Green Velvet",
-      "author": "Elizabeth Peters",
-      "publisher": "Dodd, Mead"
-    },
-    {
-      "title": "The Stone Leopard",
-      "author": "Colin Forbes",
-      "publisher": "Dutton"
-    },
-    {
-      "title": "Your Money and Your Wife",
-      "author": "Ritchie Perry",
-      "publisher": "Houghton Mifflin"
-    },
-    {
-      "title": "Encyclopedia of Mystery and Detection",
-      "author": "Chris Steinbrunner and Otto Penzler",
-      "publisher": "McGraw-Hill"
-    }
+    { "title": "Legend in Green Velvet", "author": "Elizabeth Peters", "publisher": "Dodd, Mead", "first_published_date": 1976 },
+    { "title": "The Stone Leopard", "author": "Colin Forbes", "publisher": "Dutton", "first_published_date": 1975 },
+    { "title": "Your Money and Your Wife", "author": "Ritchie Perry", "publisher": "Houghton Mifflin", "first_published_date": 1975 },
+    { "title": "Encyclopedia of Mystery and Detection", "author": "Chris Steinbrunner and Otto Penzler", "publisher": "McGraw-Hill", "first_published_date": 1976 }
   ]
 }

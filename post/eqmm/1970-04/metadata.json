@@ -8,9 +8,9 @@
   "citation": "Ellery Queen's Mystery Magazine (April 1970): 101–102.",
   "file": "article.md",
   "books_reviewed": [
-    { "title": "Murder to Go", "author": "Emma Lathen", "publisher": "Simon and Schuster" },
-    { "title": "The Stately Home Murder", "author": "Catherine Aird", "publisher": "Crime Club" },
-    { "title": "The Spoilers", "author": "Desmond Bagley", "publisher": "Doubleday" },
-    { "title": "Incident at 125th Street", "author": "J. E. Brown", "publisher": "Doubleday" }
+    { "title": "Murder to Go", "author": "Emma Lathen", "publisher": "Simon and Schuster", "first_published_date": 1969 },
+    { "title": "The Stately Home Murder", "author": "Catherine Aird", "publisher": "Crime Club", "first_published_date": 1969 },
+    { "title": "The Spoilers", "author": "Desmond Bagley", "publisher": "Doubleday", "first_published_date": 1969 },
+    { "title": "Incident at 125th Street", "author": "J. E. Brown", "publisher": "Doubleday", "first_published_date": 1970 }
   ]
 }

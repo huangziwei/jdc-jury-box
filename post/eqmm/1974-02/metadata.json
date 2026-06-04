@@ -8,25 +8,9 @@
   "citation": "Ellery Queen's Mystery Magazine (February 1974): 69–70.",
   "file": "article.md",
   "books_reviewed": [
-    {
-      "title": "The Thirteenth Trick",
-      "author": "Russell Braddon",
-      "publisher": "Norton"
-    },
-    {
-      "title": "The Turquoise Lament",
-      "author": "John D. MacDonald",
-      "publisher": "Lippincott"
-    },
-    {
-      "title": "Swap",
-      "author": "Walter Wagner",
-      "publisher": "Pocket Books"
-    },
-    {
-      "title": "The Further Rivals of Sherlock Holmes",
-      "author": "Hugh Greene",
-      "publisher": "Pantheon"
-    }
+    { "title": "The Thirteenth Trick", "author": "Russell Braddon", "publisher": "Norton", "first_published_date": 1973 },
+    { "title": "The Turquoise Lament", "author": "John D. MacDonald", "publisher": "Lippincott", "first_published_date": 1973 },
+    { "title": "Swap", "author": "Walter Wagner", "publisher": "Pocket Books", "first_published_date": 1972 },
+    { "title": "The Further Rivals of Sherlock Holmes", "author": "Hugh Greene", "publisher": "Pantheon", "first_published_date": 1973 }
   ]
 }

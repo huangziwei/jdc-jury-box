@@ -8,9 +8,9 @@
   "citation": "Ellery Queen's Mystery Magazine (July 1971): 95–96.",
   "file": "article.md",
   "books_reviewed": [
-    { "title": "The Gravy Train", "author": "Whit Masterson", "publisher": "Dodd, Mead" },
-    { "title": "Night Judgement at Sinos", "author": "Jack Higgins", "publisher": "Doubleday" },
-    { "title": "The Poisoners", "author": "Donald Hamilton", "publisher": "Fawcett" },
-    { "title": "Ellery Queen's The Golden 13", "author": "Ellery Queen", "publisher": "World" }
+    { "title": "The Gravy Train", "author": "Whit Masterson", "publisher": "Dodd, Mead", "first_published_date": 1971 },
+    { "title": "Night Judgement at Sinos", "author": "Jack Higgins", "publisher": "Doubleday", "first_published_date": 1970 },
+    { "title": "The Poisoners", "author": "Donald Hamilton", "publisher": "Fawcett", "first_published_date": 1971 },
+    { "title": "Ellery Queen's The Golden 13", "author": "Ellery Queen", "publisher": "World", "first_published_date": 1970 }
   ]
 }

@@ -8,10 +8,6 @@
   "citation": "The New York Times Book Review (August 1, 1948).",
   "file": "article.md",
   "books_reviewed": [
-    {
-      "title": "Tales of Horror and the Supernatural",
-      "author": "Arthur Machen",
-      "publisher": "Alfred A. Knopf"
-    }
+    { "title": "Tales of Horror and the Supernatural", "author": "Arthur Machen", "publisher": "Alfred A. Knopf", "first_published_date": 1948 }
   ]
 }

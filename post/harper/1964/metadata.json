@@ -8,15 +8,15 @@
   "citation": "Harper's Magazine 229, no. 1370 (July 1, 1964): 104–106.",
   "file": "article.md",
   "books_reviewed": [
-    { "title": "The Night of the Generals", "author": "Hans Hellmut Kirst", "publisher": "Harper & Row" },
-    { "title": "And On the Eighth Day", "author": "Ellery Queen", "publisher": "Random House" },
-    { "title": "The Neon Haystack", "author": "James Michael Ullman", "publisher": "Simon and Schuster" },
-    { "title": "The Mirror Crack'd", "author": "Agatha Christie", "publisher": "Dodd, Mead" },
-    { "title": "Nerve", "author": "Dick Francis", "publisher": "Harper & Row" },
-    { "title": "The Shrunken Head", "author": "Robert L. Fish", "publisher": "Simon and Schuster" },
-    { "title": "Frame-Up", "author": "Andrew Garve", "publisher": "Harper & Row" },
-    { "title": "Will Anyone Who Saw the Accident . . .", "author": "Jeffrey Ashford", "publisher": "Harper & Row" },
-    { "title": "Death's Foot Forward", "author": "George B. Mair", "publisher": "Random House" },
-    { "title": "The Spy Who Came In from the Cold", "author": "John Le Carré", "publisher": "Coward-McCann" }
+    { "title": "The Night of the Generals", "author": "Hans Hellmut Kirst", "publisher": "Harper & Row", "first_published_date": 1962 },
+    { "title": "And On the Eighth Day", "author": "Ellery Queen", "publisher": "Random House", "first_published_date": 1964 },
+    { "title": "The Neon Haystack", "author": "James Michael Ullman", "publisher": "Simon and Schuster", "first_published_date": 1963 },
+    { "title": "The Mirror Crack'd", "author": "Agatha Christie", "publisher": "Dodd, Mead", "first_published_date": 1962 },
+    { "title": "Nerve", "author": "Dick Francis", "publisher": "Harper & Row", "first_published_date": 1964 },
+    { "title": "The Shrunken Head", "author": "Robert L. Fish", "publisher": "Simon and Schuster", "first_published_date": 1963 },
+    { "title": "Frame-Up", "author": "Andrew Garve", "publisher": "Harper & Row", "first_published_date": 1964 },
+    { "title": "Will Anyone Who Saw the Accident . . .", "author": "Jeffrey Ashford", "publisher": "Harper & Row", "first_published_date": 1963 },
+    { "title": "Death's Foot Forward", "author": "George B. Mair", "publisher": "Random House", "first_published_date": 1963 },
+    { "title": "The Spy Who Came In from the Cold", "author": "John Le Carré", "publisher": "Coward-McCann", "first_published_date": 1962 }
   ]
 }

@@ -8,9 +8,9 @@
   "citation": "Ellery Queen's Mystery Magazine (February 1971): 99–101.",
   "file": "article.md",
   "books_reviewed": [
-    { "title": "Johnny Torrio, First of the Gang Lords", "author": "Jack McPhaul", "publisher": "Arlington House" },
-    { "title": "Let's Choose Executors", "author": "Sara Woods", "publisher": "Popular Library" },
-    { "title": "Murder Gone Mad", "author": "Philip MacDonald", "publisher": "Avon" },
-    { "title": "The 39 Steps", "author": "John Buchan", "publisher": "Popular Library" }
+    { "title": "Johnny Torrio, First of the Gang Lords", "author": "Jack McPhaul", "publisher": "Arlington House", "first_published_date": 1970 },
+    { "title": "Let's Choose Executors", "author": "Sara Woods", "publisher": "Popular Library", "first_published_date": 1966, "edition_published_date": 1971 },
+    { "title": "Murder Gone Mad", "author": "Philip MacDonald", "publisher": "Avon", "first_published_date": 1931, "edition_published_date": 1971 },
+    { "title": "The 39 Steps", "author": "John Buchan", "publisher": "Popular Library", "first_published_date": 1915, "edition_published_date": 1971 }
   ]
 }

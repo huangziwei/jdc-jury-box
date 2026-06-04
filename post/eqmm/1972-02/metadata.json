@@ -8,9 +8,9 @@
   "citation": "Ellery Queen's Mystery Magazine (February 1972): 107–108.",
   "file": "article.md",
   "books_reviewed": [
-    { "title": "The Snatch", "author": "Bill Pronzini", "publisher": "Random House" },
-    { "title": "The Detective Wore Silk Drawers", "author": "Peter Lovesey", "publisher": "Dodd, Mead" },
-    { "title": "The Murders on the Square", "author": "Theodore George", "publisher": "Dodd, Mead" },
-    { "title": "Great Mysteries of History", "author": "Kenneth B. Platnick", "publisher": "Stackpole" }
+    { "title": "The Snatch", "author": "Bill Pronzini", "publisher": "Random House", "first_published_date": 1971 },
+    { "title": "The Detective Wore Silk Drawers", "author": "Peter Lovesey", "publisher": "Dodd, Mead", "first_published_date": 1971 },
+    { "title": "The Murders on the Square", "author": "Theodore George", "publisher": "Dodd, Mead", "first_published_date": 1971 },
+    { "title": "Great Mysteries of History", "author": "Kenneth B. Platnick", "publisher": "Stackpole", "first_published_date": 1971 }
   ]
 }

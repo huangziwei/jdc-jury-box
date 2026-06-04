@@ -8,9 +8,9 @@
   "citation": "Ellery Queen's Mystery Magazine (June 1970): 114–116.",
   "file": "article.md",
   "books_reviewed": [
-    { "title": "The Smile on the Face of the Tiger", "author": "Douglas Hurd and Andrew Osmond", "publisher": "Macmillan" },
-    { "title": "The Innocent Bystanders", "author": "James Munro", "publisher": "Knopf" },
-    { "title": "The Amazing Mrs. Pollifax", "author": "Dorothy Gilman", "publisher": "Doubleday" },
-    { "title": "The Rasp", "author": "Philip MacDonald", "publisher": "Avon" }
+    { "title": "The Smile on the Face of the Tiger", "author": "Douglas Hurd and Andrew Osmond", "publisher": "Macmillan", "first_published_date": 1969 },
+    { "title": "The Innocent Bystanders", "author": "James Munro", "publisher": "Knopf", "first_published_date": 1969 },
+    { "title": "The Amazing Mrs. Pollifax", "author": "Dorothy Gilman", "publisher": "Doubleday", "first_published_date": 1970 },
+    { "title": "The Rasp", "author": "Philip MacDonald", "publisher": "Avon", "first_published_date": 1924, "edition_published_date": 1970 }
   ]
 }

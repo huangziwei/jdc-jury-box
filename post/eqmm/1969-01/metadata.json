@@ -8,9 +8,9 @@
   "citation": "Ellery Queen's Mystery Magazine (January 1969): 151–152.",
   "file": "article.md",
   "books_reviewed": [
-    { "title": "The Valentine Estate", "author": "Stanley Ellin", "publisher": "Random House" },
-    { "title": "Come to Dust", "author": "Emma Lathen", "publisher": "Simon and Schuster" },
-    { "title": "Death and the Dutch Uncle", "author": "Patricia Moyes", "publisher": "Holt, Rinehart and Winston" },
-    { "title": "The Photogenic Soprano", "author": "Dorothy Dunnett", "publisher": "Houghton Mifflin" }
+    { "title": "The Valentine Estate", "author": "Stanley Ellin", "publisher": "Random House", "first_published_date": 1968 },
+    { "title": "Come to Dust", "author": "Emma Lathen", "publisher": "Simon and Schuster", "first_published_date": 1968 },
+    { "title": "Death and the Dutch Uncle", "author": "Patricia Moyes", "publisher": "Holt, Rinehart and Winston", "first_published_date": 1968 },
+    { "title": "The Photogenic Soprano", "author": "Dorothy Dunnett", "publisher": "Houghton Mifflin", "first_published_date": 1968 }
   ]
 }

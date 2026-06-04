@@ -8,9 +8,9 @@
   "citation": "Ellery Queen's Mystery Magazine (February 1973): 81–82.",
   "file": "article.md",
   "books_reviewed": [
-    { "title": "Cornered at Six", "author": "Thomas Patrick McMahon and Brian Patrick McMahon", "publisher": "Simon and Schuster" },
-    { "title": "Bright Orange for the Shroud", "author": "John D. MacDonald", "publisher": "Lippincott" },
-    { "title": "Through the Dark and Hairy Wood", "author": "Shaun Herron", "publisher": "Random House" },
-    { "title": "Cheap Thrills", "author": "Ron Goulart", "publisher": "Arlington House" }
+    { "title": "Cornered at Six", "author": "Thomas Patrick McMahon and Brian Patrick McMahon", "publisher": "Simon and Schuster", "first_published_date": 1972 },
+    { "title": "Bright Orange for the Shroud", "author": "John D. MacDonald", "publisher": "Lippincott", "first_published_date": 1965, "edition_published_date": 1972 },
+    { "title": "Through the Dark and Hairy Wood", "author": "Shaun Herron", "publisher": "Random House", "first_published_date": 1972 },
+    { "title": "Cheap Thrills", "author": "Ron Goulart", "publisher": "Arlington House", "first_published_date": 1972 }
   ]
 }

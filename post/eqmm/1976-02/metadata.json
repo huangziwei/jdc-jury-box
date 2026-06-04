@@ -8,25 +8,9 @@
   "citation": "Ellery Queen's Mystery Magazine (February 1976): 120–121.",
   "file": "article.md",
   "books_reviewed": [
-    {
-      "title": "Gently Through the Woods",
-      "author": "Alan Hunter",
-      "publisher": "Macmillan"
-    },
-    {
-      "title": "The Alvarez Journal",
-      "author": "Rex Burns",
-      "publisher": "Harper & Row"
-    },
-    {
-      "title": "The Evidence You Will Hear",
-      "author": "Hamilton Jobson",
-      "publisher": "Scribners"
-    },
-    {
-      "title": "Prince of Thieves",
-      "author": "Brian David Boyer",
-      "publisher": "Dial Press"
-    }
+    { "title": "Gently Through the Woods", "author": "Alan Hunter", "publisher": "Macmillan", "first_published_date": 1975 },
+    { "title": "The Alvarez Journal", "author": "Rex Burns", "publisher": "Harper & Row", "first_published_date": 1975 },
+    { "title": "The Evidence You Will Hear", "author": "Hamilton Jobson", "publisher": "Scribners", "first_published_date": 1975 },
+    { "title": "Prince of Thieves", "author": "Brian David Boyer", "publisher": "Dial Press", "first_published_date": 1975 }
   ]
 }

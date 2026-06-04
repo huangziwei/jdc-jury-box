@@ -8,10 +8,6 @@
   "citation": "The New York Times Book Review (September 24, 1950): 19.",
   "file": "article.md",
   "books_reviewed": [
-    {
-      "title": "The Simple Art of Murder",
-      "author": "Raymond Chandler",
-      "publisher": "Houghton Mifflin"
-    }
+    { "title": "The Simple Art of Murder", "author": "Raymond Chandler", "publisher": "Houghton Mifflin", "first_published_date": 1950 }
   ]
 }

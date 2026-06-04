@@ -8,25 +8,9 @@
   "citation": "Ellery Queen's Mystery Magazine (March 1976): 119–120.",
   "file": "article.md",
   "books_reviewed": [
-    {
-      "title": "Publish and Perish",
-      "author": "Francis M. Nevins, Jr.",
-      "publisher": "Putnam"
-    },
-    {
-      "title": "The Butterfly Flood",
-      "author": "John Wyllie",
-      "publisher": "Doubleday"
-    },
-    {
-      "title": "The Wilful Lady",
-      "author": "R. G. Jeffreys",
-      "publisher": "Walker"
-    },
-    {
-      "title": "A Child's Garden of Death",
-      "author": "Richard Forrest",
-      "publisher": "Bobbs-Merrill"
-    }
+    { "title": "Publish and Perish", "author": "Francis M. Nevins, Jr.", "publisher": "Putnam", "first_published_date": 1975 },
+    { "title": "The Butterfly Flood", "author": "John Wyllie", "publisher": "Doubleday", "first_published_date": 1975 },
+    { "title": "The Wilful Lady", "author": "R. G. Jeffreys", "publisher": "Walker", "first_published_date": 1975 },
+    { "title": "A Child's Garden of Death", "author": "Richard Forrest", "publisher": "Bobbs-Merrill", "first_published_date": 1975 }
   ]
 }

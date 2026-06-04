@@ -8,9 +8,9 @@
   "citation": "Ellery Queen's Mystery Magazine (August 1972): 98–99.",
   "file": "article.md",
   "books_reviewed": [
-    { "title": "Murder-Go-Round", "author": "Agatha Christie", "publisher": "Dodd, Mead" },
-    { "title": "Tied Up in Tinsel", "author": "Ngaio Marsh", "publisher": "Little, Brown" },
-    { "title": "Birthday, Deathday", "author": "Hugh Pentecost", "publisher": "Dodd, Mead" },
-    { "title": "Firecrest", "author": "Victor Canning", "publisher": "Morrow" }
+    { "title": "Murder-Go-Round", "author": "Agatha Christie", "publisher": "Dodd, Mead", "first_published_date": 1972 },
+    { "title": "Tied Up in Tinsel", "author": "Ngaio Marsh", "publisher": "Little, Brown", "first_published_date": 1970 },
+    { "title": "Birthday, Deathday", "author": "Hugh Pentecost", "publisher": "Dodd, Mead", "first_published_date": 1972 },
+    { "title": "Firecrest", "author": "Victor Canning", "publisher": "Morrow", "first_published_date": 1971 }
   ]
 }

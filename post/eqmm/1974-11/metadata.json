@@ -8,25 +8,9 @@
   "citation": "Ellery Queen's Mystery Magazine (November 1974): 101–102.",
   "file": "article.md",
   "books_reviewed": [
-    {
-      "title": "The Algonquin Project",
-      "author": "Frederick Nolan",
-      "publisher": "Morrow"
-    },
-    {
-      "title": "The Tick of Death",
-      "author": "Peter Lovesey",
-      "publisher": "Dodd, Mead"
-    },
-    {
-      "title": "The Power Killers",
-      "author": "Judson Philips",
-      "publisher": "Dodd, Mead"
-    },
-    {
-      "title": "The Methods of Uncle Abner",
-      "author": "Melville Davisson Post",
-      "publisher": "Aspen Press"
-    }
+    { "title": "The Algonquin Project", "author": "Frederick Nolan", "publisher": "Morrow", "first_published_date": 1974 },
+    { "title": "The Tick of Death", "author": "Peter Lovesey", "publisher": "Dodd, Mead", "first_published_date": 1974 },
+    { "title": "The Power Killers", "author": "Judson Philips", "publisher": "Dodd, Mead", "first_published_date": 1974 },
+    { "title": "The Methods of Uncle Abner", "author": "Melville Davisson Post", "publisher": "Aspen Press", "first_published_date": 1974 }
   ]
 }

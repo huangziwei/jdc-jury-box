@@ -8,25 +8,9 @@
   "citation": "Ellery Queen's Mystery Magazine (October 1974): 85–86.",
   "file": "article.md",
   "books_reviewed": [
-    {
-      "title": "Butcher's Moon",
-      "author": "Richard Stark",
-      "publisher": "Random House"
-    },
-    {
-      "title": "Pandora's Box",
-      "author": "Thomas Chastain",
-      "publisher": "Mason & Lipscomb"
-    },
-    {
-      "title": "The El Greco Puzzle",
-      "author": "John Murphy",
-      "publisher": "Scribners"
-    },
-    {
-      "title": "Las Vegas",
-      "author": "Arthur Moore and Clayton Matthews",
-      "publisher": "Pocket Books"
-    }
+    { "title": "Butcher's Moon", "author": "Richard Stark", "publisher": "Random House", "first_published_date": 1974 },
+    { "title": "Pandora's Box", "author": "Thomas Chastain", "publisher": "Mason & Lipscomb", "first_published_date": 1974 },
+    { "title": "The El Greco Puzzle", "author": "John Murphy", "publisher": "Scribners", "first_published_date": 1974 },
+    { "title": "Las Vegas", "author": "Arthur Moore and Clayton Matthews", "publisher": "Pocket Books", "first_published_date": 1974 }
   ]
 }

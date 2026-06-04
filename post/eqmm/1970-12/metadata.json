@@ -8,7 +8,7 @@
   "citation": "Ellery Queen's Mystery Magazine (December 1970): 101–103.",
   "file": "article.md",
   "books_reviewed": [
-    { "title": "The Rivals of Sherlock Holmes", "author": "Hugh Greene", "publisher": "Pantheon" },
-    { "title": "The Death of Me Yet", "author": "Whit Masterson", "publisher": "Dodd, Mead" }
+    { "title": "The Rivals of Sherlock Holmes", "author": "Hugh Greene", "publisher": "Pantheon", "first_published_date": 1970 },
+    { "title": "The Death of Me Yet", "author": "Whit Masterson", "publisher": "Dodd, Mead", "first_published_date": 1970 }
   ]
 }

@@ -8,15 +8,15 @@
   "citation": "Harper's Magazine 233, no. 1394 (July 1, 1966): 84, 86, 88.",
   "file": "article.md",
   "books_reviewed": [
-    { "title": "The Fourth Side of the Triangle", "author": "Ellery Queen", "publisher": "Random House" },
-    { "title": "The Paper Dolls", "author": "L. P. Davies", "publisher": "Doubleday" },
-    { "title": "Weep for Willow Green", "author": "Paul Kruger", "publisher": "Simon & Schuster" },
-    { "title": "House on Greenapple Road", "author": "Harold R. Daniels", "publisher": "Random House" },
-    { "title": "Black Money", "author": "Ross Macdonald", "publisher": "Knopf" },
-    { "title": "Dover Three", "author": "Joyce Porter", "publisher": "Scribner" },
-    { "title": "The Busy Body", "author": "Donald E. Westlake", "publisher": "Random House" },
-    { "title": "The Windy Side of the Law", "author": "Sara Woods", "publisher": "Harper & Row" },
-    { "title": "Understrike", "author": "John Gardner", "publisher": "Viking" },
-    { "title": "The Billion Dollar Brain", "author": "Len Deighton", "publisher": "Putnam" }
+    { "title": "The Fourth Side of the Triangle", "author": "Ellery Queen", "publisher": "Random House", "first_published_date": 1965 },
+    { "title": "The Paper Dolls", "author": "L. P. Davies", "publisher": "Doubleday", "first_published_date": 1964 },
+    { "title": "Weep for Willow Green", "author": "Paul Kruger", "publisher": "Simon & Schuster", "first_published_date": 1966 },
+    { "title": "House on Greenapple Road", "author": "Harold R. Daniels", "publisher": "Random House", "first_published_date": 1966 },
+    { "title": "Black Money", "author": "Ross Macdonald", "publisher": "Knopf", "first_published_date": 1966 },
+    { "title": "Dover Three", "author": "Joyce Porter", "publisher": "Scribner", "first_published_date": 1965 },
+    { "title": "The Busy Body", "author": "Donald E. Westlake", "publisher": "Random House", "first_published_date": 1966 },
+    { "title": "The Windy Side of the Law", "author": "Sara Woods", "publisher": "Harper & Row", "first_published_date": 1965 },
+    { "title": "Understrike", "author": "John Gardner", "publisher": "Viking", "first_published_date": 1965 },
+    { "title": "The Billion Dollar Brain", "author": "Len Deighton", "publisher": "Putnam", "first_published_date": 1966 }
   ]
 }

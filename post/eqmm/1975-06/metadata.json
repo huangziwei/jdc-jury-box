@@ -8,9 +8,9 @@
   "citation": "Ellery Queen's Mystery Magazine (June 1975): 110–111.",
   "file": "article.md",
   "books_reviewed": [
-    { "title": "Ellery Queen’s Aces of Mystery", "author": "Ellery Queen", "publisher": "Dial Press" },
-    { "title": "The Woodcutter Operation", "author": "Kenneth Royce", "publisher": "Simon and Schuster" },
-    { "title": "Night of the Juggler", "author": "William P. McGivern", "publisher": "Putnam" },
-    { "title": "The Threepersons Hunt", "author": "Brian Garfield", "publisher": "Fawcett" }
+    { "title": "Ellery Queen’s Aces of Mystery", "author": "Ellery Queen", "publisher": "Dial Press", "first_published_date": 1975 },
+    { "title": "The Woodcutter Operation", "author": "Kenneth Royce", "publisher": "Simon and Schuster", "first_published_date": 1975 },
+    { "title": "Night of the Juggler", "author": "William P. McGivern", "publisher": "Putnam", "first_published_date": 1975 },
+    { "title": "The Threepersons Hunt", "author": "Brian Garfield", "publisher": "Fawcett", "first_published_date": 1974 }
   ]
 }

@@ -8,9 +8,9 @@
   "citation": "Ellery Queen's Mystery Magazine (April 1975): 123–124.",
   "file": "article.md",
   "books_reviewed": [
-    { "title": "The Confidential Agent", "author": "Graham Greene", "publisher": "Pocket Books" },
-    { "title": "The Tightrope Men", "author": "Desmond Bagley", "publisher": "Fawcett" },
-    { "title": "The Dark Side of the Street", "author": "Jack Higgins", "publisher": "Fawcett" },
-    { "title": "The Mexico Run", "author": "Lionel White", "publisher": "Fawcett" }
+    { "title": "The Confidential Agent", "author": "Graham Greene", "publisher": "Pocket Books", "first_published_date": 1939, "edition_published_date": 1975 },
+    { "title": "The Tightrope Men", "author": "Desmond Bagley", "publisher": "Fawcett", "first_published_date": 1973 },
+    { "title": "The Dark Side of the Street", "author": "Jack Higgins", "publisher": "Fawcett", "first_published_date": 1967, "edition_published_date": 1975 },
+    { "title": "The Mexico Run", "author": "Lionel White", "publisher": "Fawcett", "first_published_date": 1974 }
   ]
 }

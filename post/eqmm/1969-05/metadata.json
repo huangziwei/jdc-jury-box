@@ -8,9 +8,9 @@
   "citation": "Ellery Queen's Mystery Magazine (May 1969): 103–104.",
   "file": "article.md",
   "books_reviewed": [
-    { "title": "Hot Summer Killing", "author": "Judson Philips", "publisher": "Dodd, Mead" },
-    { "title": "Mongo's Back in Town", "author": "E. Richard Johnson", "publisher": "Harper & Row" },
-    { "title": "Dead Straight", "author": "Donald MacKenzie", "publisher": "Houghton Mifflin" },
-    { "title": "Sent to His Account", "author": "Eilis Dillon", "publisher": "Walker" }
+    { "title": "Hot Summer Killing", "author": "Judson Philips", "publisher": "Dodd, Mead", "first_published_date": 1968 },
+    { "title": "Mongo's Back in Town", "author": "E. Richard Johnson", "publisher": "Harper & Row", "first_published_date": 1969 },
+    { "title": "Dead Straight", "author": "Donald MacKenzie", "publisher": "Houghton Mifflin", "first_published_date": 1968 },
+    { "title": "Sent to His Account", "author": "Eilis Dillon", "publisher": "Walker", "first_published_date": 1969 }
   ]
 }

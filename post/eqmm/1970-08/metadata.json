@@ -8,9 +8,9 @@
   "citation": "Ellery Queen's Mystery Magazine (August 1970): 65–67.",
   "file": "article.md",
   "books_reviewed": [
-    { "title": "The Last Woman in His Life", "author": "Ellery Queen", "publisher": "World" },
-    { "title": "Many Deadly Returns", "author": "Patricia Moyes", "publisher": "Holt, Rinehart & Winston" },
-    { "title": "The Case of Mary Fielding", "author": "Margaret Erskine", "publisher": "Crime Club" },
-    { "title": "Sunday the Rabbi Stayed Home", "author": "Harry Kemelman", "publisher": "Fawcett" }
+    { "title": "The Last Woman in His Life", "author": "Ellery Queen", "publisher": "World", "first_published_date": 1969 },
+    { "title": "Many Deadly Returns", "author": "Patricia Moyes", "publisher": "Holt, Rinehart & Winston", "first_published_date": 1970 },
+    { "title": "The Case of Mary Fielding", "author": "Margaret Erskine", "publisher": "Crime Club", "first_published_date": 1970 },
+    { "title": "Sunday the Rabbi Stayed Home", "author": "Harry Kemelman", "publisher": "Fawcett", "first_published_date": 1969 }
   ]
 }

@@ -8,9 +8,9 @@
   "citation": "Ellery Queen's Mystery Magazine (October 1976): 124–126.",
   "file": "article.md",
   "books_reviewed": [
-    { "title": "The Blue Hammer", "author": "Ross Macdonald", "publisher": "Knopf" },
-    { "title": "Premedicated Murder", "author": "Douglas Clark", "publisher": "Scribners" },
-    { "title": "With Extreme Prejudice", "author": "Berkely Mather", "publisher": "Scribners" },
-    { "title": "America in 1876: The Way We Were", "author": "Lally Weymouth", "publisher": "McGraw-Hill" }
+    { "title": "The Blue Hammer", "author": "Ross Macdonald", "publisher": "Knopf", "first_published_date": 1976 },
+    { "title": "Premedicated Murder", "author": "Douglas Clark", "publisher": "Scribners", "first_published_date": 1975 },
+    { "title": "With Extreme Prejudice", "author": "Berkely Mather", "publisher": "Scribners", "first_published_date": 1975 },
+    { "title": "America in 1876: The Way We Were", "author": "Lally Weymouth", "publisher": "McGraw-Hill", "first_published_date": 1976 }
   ]
 }

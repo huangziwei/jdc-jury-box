@@ -8,9 +8,9 @@
   "citation": "Ellery Queen's Mystery Magazine (November 1971): 93–94.",
   "file": "article.md",
   "books_reviewed": [
-    { "title": "Jink", "author": "Thomas Patrick McMahon", "publisher": "Simon and Schuster" },
-    { "title": "Sleep Is for the Rich", "author": "Donald MacKenzie", "publisher": "Houghton Mifflin" },
-    { "title": "The Golden Ball and Other Stories", "author": "Agatha Christie", "publisher": "Dodd, Mead" },
-    { "title": "A Catalogue of Crime", "author": "Jacques Barzun and Wendell Hertig Taylor", "publisher": "Harper & Row" }
+    { "title": "Jink", "author": "Thomas Patrick McMahon", "publisher": "Simon and Schuster", "first_published_date": 1971 },
+    { "title": "Sleep Is for the Rich", "author": "Donald MacKenzie", "publisher": "Houghton Mifflin", "first_published_date": 1971 },
+    { "title": "The Golden Ball and Other Stories", "author": "Agatha Christie", "publisher": "Dodd, Mead", "first_published_date": 1971 },
+    { "title": "A Catalogue of Crime", "author": "Jacques Barzun and Wendell Hertig Taylor", "publisher": "Harper & Row", "first_published_date": 1971 }
   ]
 }

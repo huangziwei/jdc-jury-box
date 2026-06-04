@@ -8,9 +8,9 @@
   "citation": "Ellery Queen's Mystery Magazine (September 1973): 103–104.",
   "file": "article.md",
   "books_reviewed": [
-    { "title": "Someone's Death", "author": "Charles Larson", "publisher": "Lippincott" },
-    { "title": "Blame the Dead", "author": "Gavin Lyall", "publisher": "Viking Press" },
-    { "title": "Snowline", "author": "Berkely Mather", "publisher": "Scribners" },
-    { "title": "Blackstone", "author": "Richard Falkirk", "publisher": "Stein and Day" }
+    { "title": "Someone's Death", "author": "Charles Larson", "publisher": "Lippincott", "first_published_date": 1973 },
+    { "title": "Blame the Dead", "author": "Gavin Lyall", "publisher": "Viking Press", "first_published_date": 1972 },
+    { "title": "Snowline", "author": "Berkely Mather", "publisher": "Scribners", "first_published_date": 1973 },
+    { "title": "Blackstone", "author": "Richard Falkirk", "publisher": "Stein and Day", "first_published_date": 1972 }
   ]
 }

@@ -8,8 +8,8 @@
   "citation": "Ellery Queen's Mystery Magazine (January 1971): 80–82.",
   "file": "article.md",
   "books_reviewed": [
-    { "title": "The Father Brown Omnibus", "author": "G. K. Chesterton", "publisher": "Dodd, Mead" },
-    { "title": "Victorian Studies in Scarlet", "author": "Richard D. Altick", "publisher": "W. W. Norton" },
-    { "title": "Ellery Queen's Grand Slam", "author": "Ellery Queen", "publisher": "World" }
+    { "title": "The Father Brown Omnibus", "author": "G. K. Chesterton", "publisher": "Dodd, Mead", "first_published_date": 1929, "edition_published_date": 1951 },
+    { "title": "Victorian Studies in Scarlet", "author": "Richard D. Altick", "publisher": "W. W. Norton", "first_published_date": 1970 },
+    { "title": "Ellery Queen's Grand Slam", "author": "Ellery Queen", "publisher": "World", "first_published_date": 1970 }
   ]
 }

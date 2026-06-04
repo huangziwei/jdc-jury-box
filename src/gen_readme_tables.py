@@ -29,8 +29,16 @@ def year(d) -> str:
     return str(d)[:4]
 
 
+def pub_dates(b: dict) -> str:
+    """First-publication year, or "first/reissue" when Carr reviewed a reprint."""
+    fp, ed = b.get("first_published_date"), b.get("edition_published_date")
+    if fp and ed:
+        return f"{fp}/{ed}"
+    return str(fp) if fp else ""
+
+
 def table(members: list[dict]) -> str:
-    rows = ["| Issue | Title | Author | Publisher |", "|---|---|---|---|"]
+    rows = ["| Issue | Title | Author | Publisher | Published |", "|---|---|---|---|---|"]
     last_label = None
     for it in members:
         label = it.get("toc_label", "")
@@ -38,8 +46,8 @@ def table(members: list[dict]) -> str:
             shown = label if label != last_label else ""  # group rows by issue
             last_label = label
             rows.append(
-                f"| {shown} | *{cell(b.get('title', ''))}* | "
-                f"{cell(b.get('author', ''))} | {cell(b.get('publisher', ''))} |"
+                f"| {shown} | *{cell(b.get('title', ''))}* | {cell(b.get('author', ''))} | "
+                f"{cell(b.get('publisher', ''))} | {pub_dates(b)} |"
             )
     return "\n".join(rows)
 
@@ -59,7 +67,12 @@ def main() -> None:
         s = "s" if nbooks != 1 else ""
         blocks.append(f"### {name} — {nbooks} review{s} · {rng}\n\n{table(members)}")
 
-    summary = f"_{total} book reviews across {len(sections)} columns._"
+    reissues = sum(1 for _, members in sections for it in members
+                   for b in it.get("books_reviewed", []) if b.get("edition_published_date"))
+    summary = (f"_{total} book reviews across {len(sections)} columns; "
+               f"{reissues} were reissues of older titles._\n\n"
+               f"The **Published** column gives the work's first-publication year — or "
+               f"*first*/*reissue* when Carr was reviewing a reprint.")
     body = f"{START}\n\n{summary}\n\n" + "\n\n".join(blocks) + f"\n\n{END}"
 
     with open(README, encoding="utf-8") as f:

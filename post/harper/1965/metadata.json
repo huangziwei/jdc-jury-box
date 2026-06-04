@@ -8,13 +8,13 @@
   "citation": "Harper's Magazine 231, no. 1382 (July 1, 1965): 104, 106–107.",
   "file": "article.md",
   "books_reviewed": [
-    { "title": "Rim of the Pit", "author": "Hake Talbot", "publisher": "Bantam" },
-    { "title": "Midnight Plus One", "author": "Gavin Lyall", "publisher": "Scribners" },
-    { "title": "The Turret Room", "author": "Charlotte Armstrong", "publisher": "Coward-McCann" },
-    { "title": "The Diamond Bubble", "author": "Robert L. Fish", "publisher": "Simon and Schuster" },
-    { "title": "Homicide Blonde", "author": "Maurice Procter", "publisher": "Harper & Row" },
-    { "title": "Trusted Like the Fox", "author": "Sara Woods", "publisher": "Harper & Row" },
-    { "title": "For Kicks", "author": "Dick Francis", "publisher": "Harper & Row" },
-    { "title": "The Quiller Memorandum", "author": "Adam Hall", "publisher": "Simon and Schuster" }
+    { "title": "Rim of the Pit", "author": "Hake Talbot", "publisher": "Bantam", "first_published_date": 1944, "edition_published_date": 1965 },
+    { "title": "Midnight Plus One", "author": "Gavin Lyall", "publisher": "Scribners", "first_published_date": 1965 },
+    { "title": "The Turret Room", "author": "Charlotte Armstrong", "publisher": "Coward-McCann", "first_published_date": 1965 },
+    { "title": "The Diamond Bubble", "author": "Robert L. Fish", "publisher": "Simon and Schuster", "first_published_date": 1965 },
+    { "title": "Homicide Blonde", "author": "Maurice Procter", "publisher": "Harper & Row", "first_published_date": 1965 },
+    { "title": "Trusted Like the Fox", "author": "Sara Woods", "publisher": "Harper & Row", "first_published_date": 1964 },
+    { "title": "For Kicks", "author": "Dick Francis", "publisher": "Harper & Row", "first_published_date": 1965 },
+    { "title": "The Quiller Memorandum", "author": "Adam Hall", "publisher": "Simon and Schuster", "first_published_date": 1965 }
   ]
 }

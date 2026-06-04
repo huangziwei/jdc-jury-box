@@ -8,9 +8,9 @@
   "citation": "Ellery Queen's Mystery Magazine (October 1972): 113–114.",
   "file": "article.md",
   "books_reviewed": [
-    { "title": "The Japanese Mistress", "author": "Richard Neely", "publisher": "Saturday Review Press" },
-    { "title": "Some Buried Caesar", "author": "Rex Stout", "publisher": "Pyramid" },
-    { "title": "Wyatt's Hurricane", "author": "Desmond Bagley", "publisher": "Pyramid" },
-    { "title": "Murder Most Royal", "author": "Jean Plaidy", "publisher": "Putnam" }
+    { "title": "The Japanese Mistress", "author": "Richard Neely", "publisher": "Saturday Review Press", "first_published_date": 1972 },
+    { "title": "Some Buried Caesar", "author": "Rex Stout", "publisher": "Pyramid", "first_published_date": 1939, "edition_published_date": 1972 },
+    { "title": "Wyatt's Hurricane", "author": "Desmond Bagley", "publisher": "Pyramid", "first_published_date": 1966, "edition_published_date": 1972 },
+    { "title": "Murder Most Royal", "author": "Jean Plaidy", "publisher": "Putnam", "first_published_date": 1949, "edition_published_date": 1972 }
   ]
 }

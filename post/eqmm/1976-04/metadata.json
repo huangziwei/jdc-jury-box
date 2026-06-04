@@ -8,25 +8,9 @@
   "citation": "Ellery Queen's Mystery Magazine (April 1976): 129–130.",
   "file": "article.md",
   "books_reviewed": [
-    {
-      "title": "Living in Fear",
-      "author": "Les Daniels",
-      "publisher": "Scribners"
-    },
-    {
-      "title": "A Case of Spirits",
-      "author": "Peter Lovesey",
-      "publisher": "Dodd, Mead"
-    },
-    {
-      "title": "The Chameleon Course",
-      "author": "Donald Seaman",
-      "publisher": "Coward, McCann & Geoghegan"
-    },
-    {
-      "title": "Harmattan",
-      "author": "Thomas Klop",
-      "publisher": "Bobbs-Merrill"
-    }
+    { "title": "Living in Fear", "author": "Les Daniels", "publisher": "Scribners", "first_published_date": 1975 },
+    { "title": "A Case of Spirits", "author": "Peter Lovesey", "publisher": "Dodd, Mead", "first_published_date": 1975 },
+    { "title": "The Chameleon Course", "author": "Donald Seaman", "publisher": "Coward, McCann & Geoghegan", "first_published_date": 1976 },
+    { "title": "Harmattan", "author": "Thomas Klop", "publisher": "Bobbs-Merrill", "first_published_date": 1975 }
   ]
 }

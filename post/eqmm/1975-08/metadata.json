@@ -1,32 +1,16 @@
 {
-    "title": "The Jury Box",
-    "author": "John Dickson Carr",
-    "source": "Ellery Queen's Mystery Magazine",
-    "date": "1975-08",
-    "toc_label": "August 1975",
-    "pages": "107–108",
-    "citation": "Ellery Queen's Mystery Magazine (August 1975): 107–108.",
-    "file": "article.md",
-    "books_reviewed": [
-        {
-            "title": "By Hook or By Crook",
-            "author": "Emma Lathen",
-            "publisher": "Simon and Schuster"
-        },
-        {
-            "title": "Time of Terror",
-            "author": "Hugh Pentecost",
-            "publisher": "Dodd, Mead"
-        },
-        {
-            "title": "The Spy Who Died Twice",
-            "author": "Michael Bar-Zohar",
-            "publisher": "Houghton Mifflin"
-        },
-        {
-            "title": "The Judas Sheep",
-            "author": "Jan Roberts",
-            "publisher": "Dutton"
-        }
-    ]
+  "title": "The Jury Box",
+  "author": "John Dickson Carr",
+  "source": "Ellery Queen's Mystery Magazine",
+  "date": "1975-08",
+  "toc_label": "August 1975",
+  "pages": "107–108",
+  "citation": "Ellery Queen's Mystery Magazine (August 1975): 107–108.",
+  "file": "article.md",
+  "books_reviewed": [
+    { "title": "By Hook or By Crook", "author": "Emma Lathen", "publisher": "Simon and Schuster", "first_published_date": 1975 },
+    { "title": "Time of Terror", "author": "Hugh Pentecost", "publisher": "Dodd, Mead", "first_published_date": 1975 },
+    { "title": "The Spy Who Died Twice", "author": "Michael Bar-Zohar", "publisher": "Houghton Mifflin", "first_published_date": 1975 },
+    { "title": "The Judas Sheep", "author": "Jan Roberts", "publisher": "Dutton", "first_published_date": 1974 }
+  ]
 }

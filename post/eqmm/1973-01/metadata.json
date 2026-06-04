@@ -8,9 +8,9 @@
   "citation": "Ellery Queen's Mystery Magazine (January 1973): 112–113.",
   "file": "article.md",
   "books_reviewed": [
-    { "title": "Caprifoil", "author": "William P. McGivern", "publisher": "Dodd, Mead" },
-    { "title": "A Trout in the Milk", "author": "Michael Underwood", "publisher": "Walker" },
-    { "title": "Abracadaver", "author": "Peter Lovesey", "publisher": "Dodd, Mead" },
-    { "title": "Best Max Carrados Detective Stories", "author": "Ernest Bramah", "publisher": "Dover" }
+    { "title": "Caprifoil", "author": "William P. McGivern", "publisher": "Dodd, Mead", "first_published_date": 1972 },
+    { "title": "A Trout in the Milk", "author": "Michael Underwood", "publisher": "Walker", "first_published_date": 1971 },
+    { "title": "Abracadaver", "author": "Peter Lovesey", "publisher": "Dodd, Mead", "first_published_date": 1972 },
+    { "title": "Best Max Carrados Detective Stories", "author": "Ernest Bramah", "publisher": "Dover", "first_published_date": 1972 }
   ]
 }

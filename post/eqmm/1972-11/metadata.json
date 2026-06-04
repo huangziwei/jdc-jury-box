@@ -8,9 +8,9 @@
   "citation": "Ellery Queen's Mystery Magazine (November 1972): 83–84.",
   "file": "article.md",
   "books_reviewed": [
-    { "title": "Uncle Abner, Master of Mysteries", "author": "Melville Davisson Post", "publisher": "Appleton" },
-    { "title": "The Wilby Conspiracy", "author": "Peter Driscoll", "publisher": "Lippincott" },
-    { "title": "The Lingala Code", "author": "Warren Kiefer", "publisher": "Random House" },
-    { "title": "The Bee Sting Deal", "author": "George Beare", "publisher": "Houghton Mifflin" }
+    { "title": "Uncle Abner, Master of Mysteries", "author": "Melville Davisson Post", "publisher": "Appleton", "first_published_date": 1918, "edition_published_date": 1972 },
+    { "title": "The Wilby Conspiracy", "author": "Peter Driscoll", "publisher": "Lippincott", "first_published_date": 1972 },
+    { "title": "The Lingala Code", "author": "Warren Kiefer", "publisher": "Random House", "first_published_date": 1972 },
+    { "title": "The Bee Sting Deal", "author": "George Beare", "publisher": "Houghton Mifflin", "first_published_date": 1972 }
   ]
 }

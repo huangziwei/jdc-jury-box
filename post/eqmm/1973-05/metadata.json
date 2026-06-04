@@ -8,9 +8,9 @@
   "citation": "Ellery Queen's Mystery Magazine (May 1973): 116–117.",
   "file": "article.md",
   "books_reviewed": [
-    { "title": "Third Girl", "author": "Agatha Christie", "publisher": "Pocket Books" },
-    { "title": "The Serpent Under It", "author": "Edith Taylor", "publisher": "Norton" },
-    { "title": "The Spy Trap", "author": "Burton Graham", "publisher": "Weybright and Talley" },
-    { "title": "A Matter of Confidence", "author": "Brad Williams and J. W. Erlich", "publisher": "Holt, Rinehart & Winston" }
+    { "title": "Third Girl", "author": "Agatha Christie", "publisher": "Pocket Books", "first_published_date": 1966, "edition_published_date": 1973 },
+    { "title": "The Serpent Under It", "author": "Edith Taylor", "publisher": "Norton", "first_published_date": 1973 },
+    { "title": "The Spy Trap", "author": "Burton Graham", "publisher": "Weybright and Talley", "first_published_date": 1971 },
+    { "title": "A Matter of Confidence", "author": "Brad Williams and J. W. Erlich", "publisher": "Holt, Rinehart & Winston", "first_published_date": 1973 }
   ]
 }

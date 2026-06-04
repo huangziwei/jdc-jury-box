@@ -8,9 +8,9 @@
   "citation": "Ellery Queen's Mystery Magazine (July 1969): 52–53.",
   "file": "article.md",
   "books_reviewed": [
-    { "title": "The Xavier Affair", "author": "Robert L. Fish", "publisher": "Putnam" },
-    { "title": "The Dance of Death", "author": "Jeremy Potter", "publisher": "Walker" },
-    { "title": "A Kiss Before Dying", "author": "Ira Levin", "publisher": "Simon & Schuster" },
-    { "title": "Knave of Eagles", "author": "Robert Wade", "publisher": "Random House" }
+    { "title": "The Xavier Affair", "author": "Robert L. Fish", "publisher": "Putnam", "first_published_date": 1969 },
+    { "title": "The Dance of Death", "author": "Jeremy Potter", "publisher": "Walker", "first_published_date": 1968 },
+    { "title": "A Kiss Before Dying", "author": "Ira Levin", "publisher": "Simon & Schuster", "first_published_date": 1953, "edition_published_date": 1969 },
+    { "title": "Knave of Eagles", "author": "Robert Wade", "publisher": "Random House", "first_published_date": 1969 }
   ]
 }

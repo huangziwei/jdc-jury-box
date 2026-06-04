@@ -8,9 +8,9 @@
   "citation": "Ellery Queen's Mystery Magazine (August 1973): 116–117.",
   "file": "article.md",
   "books_reviewed": [
-    { "title": "Murder in Focus", "author": "Dorothy Dunnett", "publisher": "Houghton Mifflin" },
-    { "title": "The Theft of Magna Carta", "author": "John Creasey", "publisher": "Scribners" },
-    { "title": "The Matlock Paper", "author": "Robert Ludlum", "publisher": "Dial Press" },
-    { "title": "Tales of Terror and the Supernatural", "author": "Wilkie Collins", "publisher": "Dover" }
+    { "title": "Murder in Focus", "author": "Dorothy Dunnett", "publisher": "Houghton Mifflin", "first_published_date": 1973 },
+    { "title": "The Theft of Magna Carta", "author": "John Creasey", "publisher": "Scribners", "first_published_date": 1973 },
+    { "title": "The Matlock Paper", "author": "Robert Ludlum", "publisher": "Dial Press", "first_published_date": 1973 },
+    { "title": "Tales of Terror and the Supernatural", "author": "Wilkie Collins", "publisher": "Dover", "first_published_date": 1972 }
   ]
 }

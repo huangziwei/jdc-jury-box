@@ -8,9 +8,9 @@
   "citation": "Ellery Queen's Mystery Magazine (July 1975): 74–75.",
   "file": "article.md",
   "books_reviewed": [
-    { "title": "King James VI of Scotland and I of England", "author": "Antonia Fraser", "publisher": "Knopf" },
-    { "title": "A Prayer for the Dying", "author": "Jack Higgins", "publisher": "Fawcett" },
-    { "title": "Blood Sport", "author": "Dick Francis", "publisher": "Pocket Books" },
-    { "title": "American Gothic", "author": "Robert Bloch", "publisher": "Fawcett" }
+    { "title": "King James VI of Scotland and I of England", "author": "Antonia Fraser", "publisher": "Knopf", "first_published_date": 1974 },
+    { "title": "A Prayer for the Dying", "author": "Jack Higgins", "publisher": "Fawcett", "first_published_date": 1973 },
+    { "title": "Blood Sport", "author": "Dick Francis", "publisher": "Pocket Books", "first_published_date": 1967, "edition_published_date": 1975 },
+    { "title": "American Gothic", "author": "Robert Bloch", "publisher": "Fawcett", "first_published_date": 1974 }
   ]
 }

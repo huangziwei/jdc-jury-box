@@ -8,25 +8,9 @@
   "citation": "Ellery Queen's Mystery Magazine (August 1974): 71–72.",
   "file": "article.md",
   "books_reviewed": [
-    {
-      "title": "Kill with Style",
-      "author": "Hal Gulliver",
-      "publisher": "Scribners"
-    },
-    {
-      "title": "Long Way Down",
-      "author": "Collin Wilcox",
-      "publisher": "Random House"
-    },
-    {
-      "title": "Assignment—Amazon Queen",
-      "author": "Edward S. Aarons",
-      "publisher": "Fawcett"
-    },
-    {
-      "title": "The Intimidators",
-      "author": "Donald Hamilton",
-      "publisher": "Fawcett"
-    }
+    { "title": "Kill with Style", "author": "Hal Gulliver", "publisher": "Scribners", "first_published_date": 1974 },
+    { "title": "Long Way Down", "author": "Collin Wilcox", "publisher": "Random House", "first_published_date": 1974 },
+    { "title": "Assignment—Amazon Queen", "author": "Edward S. Aarons", "publisher": "Fawcett", "first_published_date": 1974 },
+    { "title": "The Intimidators", "author": "Donald Hamilton", "publisher": "Fawcett", "first_published_date": 1974 }
   ]
 }

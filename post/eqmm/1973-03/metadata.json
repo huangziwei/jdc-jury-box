@@ -8,9 +8,9 @@
   "citation": "Ellery Queen's Mystery Magazine (March 1973): 86–87.",
   "file": "article.md",
   "books_reviewed": [
-    { "title": "Murder Without Icing", "author": "Emma Lathen", "publisher": "Simon and Schuster" },
-    { "title": "Elephants Can Remember", "author": "Agatha Christie", "publisher": "Dodd, Mead" },
-    { "title": "Grave Doubt", "author": "Ivon Baker", "publisher": "McKay-Washburn" },
-    { "title": "Assignment—Maltese Maiden", "author": "Edward S. Aarons", "publisher": "Fawcett" }
+    { "title": "Murder Without Icing", "author": "Emma Lathen", "publisher": "Simon and Schuster", "first_published_date": 1972 },
+    { "title": "Elephants Can Remember", "author": "Agatha Christie", "publisher": "Dodd, Mead", "first_published_date": 1972 },
+    { "title": "Grave Doubt", "author": "Ivon Baker", "publisher": "McKay-Washburn", "first_published_date": 1972 },
+    { "title": "Assignment—Maltese Maiden", "author": "Edward S. Aarons", "publisher": "Fawcett", "first_published_date": 1972 }
   ]
 }

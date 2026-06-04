@@ -8,9 +8,9 @@
   "citation": "Ellery Queen's Mystery Magazine (April 1971): 62–63.",
   "file": "article.md",
   "books_reviewed": [
-    { "title": "A Guilty Thing Surprised", "author": "Ruth Rendell", "publisher": "Crime Club" },
-    { "title": "Pick Up Sticks", "author": "Emma Lathen", "publisher": "Simon and Schuster" },
-    { "title": "A Late Phoenix", "author": "Catherine Aird", "publisher": "Crime Club" },
-    { "title": "The Green Hell Treasure", "author": "Robert L. Fish", "publisher": "Putnam" }
+    { "title": "A Guilty Thing Surprised", "author": "Ruth Rendell", "publisher": "Crime Club", "first_published_date": 1970 },
+    { "title": "Pick Up Sticks", "author": "Emma Lathen", "publisher": "Simon and Schuster", "first_published_date": 1970 },
+    { "title": "A Late Phoenix", "author": "Catherine Aird", "publisher": "Crime Club", "first_published_date": 1970 },
+    { "title": "The Green Hell Treasure", "author": "Robert L. Fish", "publisher": "Putnam", "first_published_date": 1971 }
   ]
 }

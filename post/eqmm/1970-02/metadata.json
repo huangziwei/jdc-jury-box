@@ -8,9 +8,9 @@
   "citation": "Ellery Queen's Mystery Magazine (February 1970): 129–130.",
   "file": "article.md",
   "books_reviewed": [
-    { "title": "Puppet on a Chain", "author": "Alistair MacLean", "publisher": "Doubleday" },
-    { "title": "The Dragon's Eye", "author": "Scott C. S. Stone", "publisher": "Fawcett" },
-    { "title": "Lament for the Molly Maguires", "author": "Arthur H. Lewis", "publisher": "Pocket Books" },
-    { "title": "The Spies", "author": "Robert G. Deisdorfer", "publisher": "Fawcett" }
+    { "title": "Puppet on a Chain", "author": "Alistair MacLean", "publisher": "Doubleday", "first_published_date": 1969 },
+    { "title": "The Dragon's Eye", "author": "Scott C. S. Stone", "publisher": "Fawcett", "first_published_date": 1969 },
+    { "title": "Lament for the Molly Maguires", "author": "Arthur H. Lewis", "publisher": "Pocket Books", "first_published_date": 1964, "edition_published_date": 1970 },
+    { "title": "The Spies", "author": "Robert G. Deisdorfer", "publisher": "Fawcett", "first_published_date": 1969 }
   ]
 }

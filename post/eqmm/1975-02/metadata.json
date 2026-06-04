@@ -8,9 +8,9 @@
   "citation": "Ellery Queen's Mystery Magazine (February 1975): 119–120.",
   "file": "article.md",
   "books_reviewed": [
-    { "title": "Gently with the Ladies", "author": "Alan Hunter", "publisher": "Macmillan" },
-    { "title": "You’re Never Too Old To Die", "author": "Arthur D. Goldstein", "publisher": "Random House" },
-    { "title": "The Man with Two Clocks", "author": "Whit Masterson", "publisher": "Dodd, Mead" },
-    { "title": "The Yermakov Transfer", "author": "Derek Lambert", "publisher": "Dutton" }
+    { "title": "Gently with the Ladies", "author": "Alan Hunter", "publisher": "Macmillan", "first_published_date": 1965, "edition_published_date": 1975 },
+    { "title": "You’re Never Too Old To Die", "author": "Arthur D. Goldstein", "publisher": "Random House", "first_published_date": 1974 },
+    { "title": "The Man with Two Clocks", "author": "Whit Masterson", "publisher": "Dodd, Mead", "first_published_date": 1974 },
+    { "title": "The Yermakov Transfer", "author": "Derek Lambert", "publisher": "Dutton", "first_published_date": 1975 }
   ]
 }

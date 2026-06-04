@@ -8,9 +8,9 @@
   "citation": "Ellery Queen's Mystery Magazine (July 1970): 111–113.",
   "file": "article.md",
   "books_reviewed": [
-    { "title": "Death on the Nile", "author": "Agatha Christie", "publisher": "Dodd, Mead & Co." },
-    { "title": "The Women of Peasenhall", "author": "R. J. White", "publisher": "Harper & Row" },
-    { "title": "Queen's Pawn", "author": "Victor Canning", "publisher": "Morrow" },
-    { "title": "The Lost Fraulein", "author": "Richard Meade", "publisher": "Random House" }
+    { "title": "Death on the Nile", "author": "Agatha Christie", "publisher": "Dodd, Mead & Co.", "first_published_date": 1937, "edition_published_date": 1970 },
+    { "title": "The Women of Peasenhall", "author": "R. J. White", "publisher": "Harper & Row", "first_published_date": 1969 },
+    { "title": "Queen's Pawn", "author": "Victor Canning", "publisher": "Morrow", "first_published_date": 1969 },
+    { "title": "The Lost Fraulein", "author": "Richard Meade", "publisher": "Random House", "first_published_date": 1970 }
   ]
 }

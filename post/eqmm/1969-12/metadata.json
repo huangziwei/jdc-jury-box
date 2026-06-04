@@ -8,6 +8,6 @@
   "citation": "Ellery Queen's Mystery Magazine (December 1969): 111–112.",
   "file": "article.md",
   "books_reviewed": [
-    { "title": "If the Shroud Fits", "author": "Paul Kruger", "publisher": "Simon & Schuster" }
+    { "title": "If the Shroud Fits", "author": "Paul Kruger", "publisher": "Simon & Schuster", "first_published_date": 1969 }
   ]
 }

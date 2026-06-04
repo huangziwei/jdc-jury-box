@@ -8,25 +8,9 @@
   "citation": "Ellery Queen's Mystery Magazine (July 1974): 93–94.",
   "file": "article.md",
   "books_reviewed": [
-    {
-      "title": "The Inside Man",
-      "author": "George Harmon Coxe",
-      "publisher": "Knopf"
-    },
-    {
-      "title": "Appleby's Other Story",
-      "author": "Michael Innes",
-      "publisher": "Dodd, Mead"
-    },
-    {
-      "title": "Beau Blackstone",
-      "author": "Richard Falkirk",
-      "publisher": "Stein and Day"
-    },
-    {
-      "title": "Zaleski's Percentage",
-      "author": "Donald MacKenzie",
-      "publisher": "Houghton Mifflin"
-    }
+    { "title": "The Inside Man", "author": "George Harmon Coxe", "publisher": "Knopf", "first_published_date": 1974 },
+    { "title": "Appleby's Other Story", "author": "Michael Innes", "publisher": "Dodd, Mead", "first_published_date": 1974 },
+    { "title": "Beau Blackstone", "author": "Richard Falkirk", "publisher": "Stein and Day", "first_published_date": 1973 },
+    { "title": "Zaleski's Percentage", "author": "Donald MacKenzie", "publisher": "Houghton Mifflin", "first_published_date": 1974 }
   ]
 }

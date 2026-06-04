@@ -8,9 +8,9 @@
   "citation": "Ellery Queen's Mystery Magazine (April 1973): 111–112.",
   "file": "article.md",
   "books_reviewed": [
-    { "title": "Judge Dee at Work", "author": "Robert van Gulik", "publisher": "Scribners" },
-    { "title": "Wild Pitch", "author": "A. B. Guthrie, Jr.", "publisher": "Houghton Mifflin" },
-    { "title": "Arson and Old Lace", "author": "Sylvia Angus", "publisher": "World" },
-    { "title": "The Mystery of the Yellow Room", "author": "Gaston Leroux", "publisher": "" }
+    { "title": "Judge Dee at Work", "author": "Robert van Gulik", "publisher": "Scribners", "first_published_date": 1967, "edition_published_date": 1973 },
+    { "title": "Wild Pitch", "author": "A. B. Guthrie, Jr.", "publisher": "Houghton Mifflin", "first_published_date": 1973 },
+    { "title": "Arson and Old Lace", "author": "Sylvia Angus", "publisher": "World", "first_published_date": 1972 },
+    { "title": "The Mystery of the Yellow Room", "author": "Gaston Leroux", "publisher": "", "first_published_date": 1907, "edition_published_date": 1973 }
   ]
 }
