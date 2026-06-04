@@ -1,0 +1,16 @@
+{
+  "title": "The Jury Box",
+  "author": "John Dickson Carr",
+  "source": "Ellery Queen's Mystery Magazine",
+  "date": "1972-05",
+  "toc_label": "May 1972",
+  "pages": "70–71",
+  "citation": "Ellery Queen's Mystery Magazine (May 1972): 70–71.",
+  "file": "article.md",
+  "books_reviewed": [
+    { "title": "And Shame the Devil", "author": "Sara Woods", "publisher": "Holt, Rinehart & Winston" },
+    { "title": "The Rynox Murder", "author": "Philip MacDonald", "publisher": "Avon" },
+    { "title": "The League of Frightened Men", "author": "Rex Stout", "publisher": "Pyramid" },
+    { "title": "The Man Who Was Thursday", "author": "G. K. Chesterton", "publisher": "Ballantine" }
+  ]
+}

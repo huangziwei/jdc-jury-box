@@ -1,0 +1,16 @@
+{
+  "title": "The Jury Box",
+  "author": "John Dickson Carr",
+  "source": "Ellery Queen's Mystery Magazine",
+  "date": "1972-06",
+  "toc_label": "June 1972",
+  "pages": "79–80",
+  "citation": "Ellery Queen's Mystery Magazine (June 1972): 79–80.",
+  "file": "article.md",
+  "books_reviewed": [
+    { "title": "The Longer the Thread", "author": "Emma Lathen", "publisher": "Simon & Schuster" },
+    { "title": "The Bronze Claws", "author": "Paul Kruger", "publisher": "Simon & Schuster" },
+    { "title": "The Terminators", "author": "Berkely Mather", "publisher": "Scribners" },
+    { "title": "The Histrionic Holmes", "author": "Marvin Kaye", "publisher": "Luther Norris" }
+  ]
+}

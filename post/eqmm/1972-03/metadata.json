@@ -1,0 +1,16 @@
+{
+  "title": "The Jury Box",
+  "author": "John Dickson Carr",
+  "source": "Ellery Queen's Mystery Magazine",
+  "date": "1972-03",
+  "toc_label": "March 1972",
+  "pages": "91–92",
+  "citation": "Ellery Queen's Mystery Magazine (March 1972): 91–92.",
+  "file": "article.md",
+  "books_reviewed": [
+    { "title": "Season of Snows and Sins", "author": "Patricia Moyes", "publisher": "Holt, Rinehart & Winston" },
+    { "title": "The Procane Chronicle", "author": "Oliver Bleeck", "publisher": "Morrow" },
+    { "title": "Path of Ghosts", "author": "Robert MacLeod", "publisher": "McCall" },
+    { "title": "A Red File for Callan", "author": "James Mitchell", "publisher": "Simon & Schuster" }
+  ]
+}

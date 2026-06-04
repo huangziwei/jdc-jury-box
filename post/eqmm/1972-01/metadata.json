@@ -1,0 +1,16 @@
+{
+  "title": "The Jury Box",
+  "author": "John Dickson Carr",
+  "source": "Ellery Queen's Mystery Magazine",
+  "date": "1972-01",
+  "toc_label": "January 1972",
+  "pages": "109–110",
+  "citation": "Ellery Queen's Mystery Magazine (January 1972): 109–110.",
+  "file": "article.md",
+  "books_reviewed": [
+    { "title": "The Curtained Sleep", "author": "Archie Roy", "publisher": "World" },
+    { "title": "Walk a Black Wind", "author": "Michael Collins", "publisher": "Dodd, Mead" },
+    { "title": "The Case of Kitty Ogilvie", "author": "Jean Stubbs", "publisher": "Walker" },
+    { "title": "More Rivals of Sherlock Holmes", "author": "Hugh Greene", "publisher": "Bodley Head" }
+  ]
+}

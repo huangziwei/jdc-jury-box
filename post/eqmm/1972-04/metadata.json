@@ -1,0 +1,16 @@
+{
+  "title": "The Jury Box",
+  "author": "John Dickson Carr",
+  "source": "Ellery Queen's Mystery Magazine",
+  "date": "1972-04",
+  "toc_label": "April 1972",
+  "pages": "82–83",
+  "citation": "Ellery Queen's Mystery Magazine (April 1972): 82–83.",
+  "file": "article.md",
+  "books_reviewed": [
+    { "title": "Lord Peter", "author": "Dorothy L. Sayers", "publisher": "Harper & Row" },
+    { "title": "Murder Most Foul", "author": "Harold Q. Masur", "publisher": "Walker" },
+    { "title": "The A.B.C. Murders", "author": "Agatha Christie", "publisher": "Pocket Books" },
+    { "title": "Diamonds Are Forever", "author": "Ian Fleming", "publisher": "Bantam" }
+  ]
+}
