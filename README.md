@@ -15,7 +15,7 @@ Possibly every book Carr reviewed, in chronological order within each column. (T
 
 <!-- BOOK-TABLES:START -->
 
-_357 book reviews across 4 columns; 56 were reissues of older titles._
+_361 book reviews across 4 columns; 57 were reissues of older titles._
 
 The **Published** column gives the work's first-publication year — or *first*/*reissue* when Carr was reviewing a reprint.
 
@@ -134,7 +134,7 @@ The **Published** column gives the work's first-publication year — or *first*/
 |  | *The Spoilers* | Desmond Bagley | Doubleday | 1969 |
 |  | *Incident at 125th Street* | J. E. Brown | Doubleday | 1970 |
 
-### The Jury Box — 257 reviews · 1970–1976
+### The Jury Box — 261 reviews · 1970–1976
 
 | Issue | Title | Author | Publisher | Published |
 |---|---|---|---|---|
@@ -267,6 +267,10 @@ The **Published** column gives the work's first-publication year — or *first*/
 |  | *The Bearer Plot* | Owen Sela | Pantheon | 1972 |
 |  | *The Trevick Affair* | Mauri Sariola | Walker | 1963/1973 |
 |  | *The Thinking Machine* | Jacques Futrelle |  | 1907 |
+| July 1973 | *A Dying Fall* | Hildegarde Dolson | Lippincott | 1973 |
+|  | *Naked to the Grave* | Harry Carmichael | Saturday Review Press | 1972/1973 |
+|  | *Postscript to a Dead Letter* | Donald MacKenzie | Houghton Mifflin | 1973 |
+|  | *Dear Laura* | Jean Stubbs | Stein and Day | 1973 |
 | August 1973 | *Murder in Focus* | Dorothy Dunnett | Houghton Mifflin | 1973 |
 |  | *The Theft of Magna Carta* | John Creasey | Scribners | 1973 |
 |  | *The Matlock Paper* | Robert Ludlum | Dial Press | 1973 |

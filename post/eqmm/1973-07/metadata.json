@@ -1,0 +1,16 @@
+{
+  "title": "The Jury Box",
+  "author": "John Dickson Carr",
+  "source": "Ellery Queen's Mystery Magazine",
+  "date": "1973-07",
+  "toc_label": "July 1973",
+  "pages": "122–123",
+  "citation": "Ellery Queen's Mystery Magazine (July 1973): 122–123.",
+  "file": "article.md",
+  "books_reviewed": [
+    { "title": "A Dying Fall", "author": "Hildegarde Dolson", "publisher": "Lippincott", "first_published_date": 1973 },
+    { "title": "Naked to the Grave", "author": "Harry Carmichael", "publisher": "Saturday Review Press", "first_published_date": 1972, "edition_published_date": 1973 },
+    { "title": "Postscript to a Dead Letter", "author": "Donald MacKenzie", "publisher": "Houghton Mifflin", "first_published_date": 1973 },
+    { "title": "Dear Laura", "author": "Jean Stubbs", "publisher": "Stein and Day", "first_published_date": 1973 }
+  ]
+}
