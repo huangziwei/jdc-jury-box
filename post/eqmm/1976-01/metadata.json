@@ -1,0 +1,32 @@
+{
+  "title": "The Jury Box",
+  "author": "John Dickson Carr",
+  "source": "Ellery Queen's Mystery Magazine",
+  "date": "1976-01",
+  "toc_label": "January 1976",
+  "pages": "138–139",
+  "citation": "Ellery Queen's Mystery Magazine (January 1976): 138–139.",
+  "file": "article.md",
+  "books_reviewed": [
+    {
+      "title": "The Charlotte Armstrong Festival",
+      "author": "Charlotte Armstrong",
+      "publisher": "Coward, McCann & Geoghegan"
+    },
+    {
+      "title": "No Place for Murder",
+      "author": "George Harmon Coxe",
+      "publisher": "Knopf"
+    },
+    {
+      "title": "Pay on the Way Out",
+      "author": "John Murphy",
+      "publisher": "Scribners"
+    },
+    {
+      "title": "Open at Your Own Risk",
+      "author": "Joan Kahn",
+      "publisher": "Houghton Mifflin"
+    }
+  ]
+}

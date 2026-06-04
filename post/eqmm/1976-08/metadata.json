@@ -1,0 +1,32 @@
+{
+  "title": "The Jury Box",
+  "author": "John Dickson Carr",
+  "source": "Ellery Queen's Mystery Magazine",
+  "date": "1976-08",
+  "toc_label": "August 1976",
+  "pages": "131–132",
+  "citation": "Ellery Queen's Mystery Magazine (August 1976): 131–132.",
+  "file": "article.md",
+  "books_reviewed": [
+    {
+      "title": "Candles for the Dead",
+      "author": "Harry Carmichael",
+      "publisher": "Saturday Review Press"
+    },
+    {
+      "title": "Sergeant Verity and the Imperial Diamond",
+      "author": "Francis Selwyn",
+      "publisher": "Stein and Day"
+    },
+    {
+      "title": "Gently with the Painters",
+      "author": "Alan Hunter",
+      "publisher": "Macmillan"
+    },
+    {
+      "title": "High Stakes",
+      "author": "Dick Francis",
+      "publisher": "Harper & Row"
+    }
+  ]
+}

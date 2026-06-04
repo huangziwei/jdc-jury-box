@@ -1,0 +1,32 @@
+{
+  "title": "The Jury Box",
+  "author": "John Dickson Carr",
+  "source": "Ellery Queen's Mystery Magazine",
+  "date": "1976-04",
+  "toc_label": "April 1976",
+  "pages": "129–130",
+  "citation": "Ellery Queen's Mystery Magazine (April 1976): 129–130.",
+  "file": "article.md",
+  "books_reviewed": [
+    {
+      "title": "Living in Fear",
+      "author": "Les Daniels",
+      "publisher": "Scribners"
+    },
+    {
+      "title": "A Case of Spirits",
+      "author": "Peter Lovesey",
+      "publisher": "Dodd, Mead"
+    },
+    {
+      "title": "The Chameleon Course",
+      "author": "Donald Seaman",
+      "publisher": "Coward, McCann & Geoghegan"
+    },
+    {
+      "title": "Harmattan",
+      "author": "Thomas Klop",
+      "publisher": "Bobbs-Merrill"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "title": "The Jury Box",
+  "author": "John Dickson Carr",
+  "source": "Ellery Queen's Mystery Magazine",
+  "date": "1976-09",
+  "toc_label": "September 1976",
+  "pages": "80–82",
+  "citation": "Ellery Queen's Mystery Magazine (September 1976): 80–82.",
+  "file": "article.md",
+  "books_reviewed": [
+    {
+      "title": "Legend in Green Velvet",
+      "author": "Elizabeth Peters",
+      "publisher": "Dodd, Mead"
+    },
+    {
+      "title": "The Stone Leopard",
+      "author": "Colin Forbes",
+      "publisher": "Dutton"
+    },
+    {
+      "title": "Your Money and Your Wife",
+      "author": "Ritchie Perry",
+      "publisher": "Houghton Mifflin"
+    },
+    {
+      "title": "Encyclopedia of Mystery and Detection",
+      "author": "Chris Steinbrunner and Otto Penzler",
+      "publisher": "McGraw-Hill"
+    }
+  ]
+}

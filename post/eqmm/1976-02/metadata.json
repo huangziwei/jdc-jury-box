@@ -1,0 +1,32 @@
+{
+  "title": "The Jury Box",
+  "author": "John Dickson Carr",
+  "source": "Ellery Queen's Mystery Magazine",
+  "date": "1976-02",
+  "toc_label": "February 1976",
+  "pages": "120–121",
+  "citation": "Ellery Queen's Mystery Magazine (February 1976): 120–121.",
+  "file": "article.md",
+  "books_reviewed": [
+    {
+      "title": "Gently Through the Woods",
+      "author": "Alan Hunter",
+      "publisher": "Macmillan"
+    },
+    {
+      "title": "The Alvarez Journal",
+      "author": "Rex Burns",
+      "publisher": "Harper & Row"
+    },
+    {
+      "title": "The Evidence You Will Hear",
+      "author": "Hamilton Jobson",
+      "publisher": "Scribners"
+    },
+    {
+      "title": "Prince of Thieves",
+      "author": "Brian David Boyer",
+      "publisher": "Dial Press"
+    }
+  ]
+}

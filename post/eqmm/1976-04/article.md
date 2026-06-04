@@ -1,0 +1,33 @@
+## The Jury Box
+
+by John Dickson Carr
+
+Whatever may be the weather outside your window when you read this, let’s salute non-gentle spring. We can’t do better than begin with a lively, stimulating historical survey of recorded sensationalism in all its forms, from the earliest times to the present day.
+
+In support of it, friends, I give you one witty detective novel featuring Victorian Scotland Yard, one novel of darkest espionage, Britain vs. Russia, and one mystery thriller which indicates that even in the new Africa an American may not escape hocus-pocus as well as mayhem or murder.
+
+The author of **Living in Fear**, “A History of Horror in the Mass Media,” by Les Daniels (Scribners, $12.95) is a young scholar of immense reading, sound taste, and sympathetic insight, whose narrative glitters with entertainment.
+
+From the eighteenth-century “Gothic” romance, always mystery either supernatural or down-to-earth, he traces horrific elements through novel, short story, and play. When we leave such Victorian giants as Dickens or Le Fanu for modern masters like M. R. James, he also traces the horrific in films, in magazines worthwhile or otherwise, even (believe it or not) in comic books.
+
+Oldsters of my generation will remember the film *Frankenstein* and the film *Dracula*, to say nothing of *Dr. Jekyll and Mr. Hyde*. But the charm is not only for oldsters; it’s for everybody. Whatever your taste in sensationalism, this lavishly illustrated volume will captivate you to the end.
+
+In Peter Lovesey’s **A Case of Spirits** (Dodd, Mead, $5.95) we are whisked back through time to the gaslit England of 1885, when society’s urge for contact with its dear departed profited so many spiritist mediums, real or fraudulent.
+
+One controversial medium, young Peter Brand, we meet in company with stern, scientific Dr. Probert, whose collection of paintings glorifying nude ladies has been robbed of a choice Etty. There are seances for Dr. Probert, his wife, their daughter, the girl’s *fiancé*, and assorted family friends. At a seance the medium is mysteriously slain by some force little known to Victorian life—or death.
+
+Again we investigate with Sergeant Cribb and P. C. Thackeray from the original detective force at Great Scotland Yard. Beneath the eye of his unhelpful superior, Inspector Jowett, Cribb sifts the clues, discovers the method, and unmasks the culprit in this soundly plotted mystery whose humorous touch provides constant delight.
+
+The blurb of **The Chameleon Course**, by Donald Seaman (Coward, McCann & Geoghegan, $8.95), tells us that the English-seeming couple in their suburban retreat are actually Alexandrei Geria, defecting Soviet scientist, and the wife who has accompanied him from Russia.
+
+Though Geria’s skill is still needed in his own country, he suspects deadly reprisal against his wife, who has smuggled out the manuscript she could not publish there. In this fear he kills a burglar, and by British law must stand trial for manslaughter. Then, despite hostility from a grim old judge, counsel on both sides unite and win Geria’s acquittal: grounds, self-defense.
+
+The KGB hasn’t finished. Slaughtering guards, its cutthroats carry away the defector. But don’t worry. Those cutthroats get their deserts in a slam-bang finish at sea, and even Mrs. Geria can breathe freely at last.
+
+In Thomas Klop’s **Harmattan** (Bobbs-Merrill, $7.95), we accompany Nick Blane, American businessman, on his mission of rescue to independent Nigeria.
+
+Nick’s nephew, young Jim Austin, has gone there for the Peace Corps; and then, after some unnamed trouble, has vanished as though by magic. In a country still semi-barbaric, torn by tribal strife and seething with rumors of revolt, Nick Blane must find that nephew or at least learn his fate.
+
+Everybody warns him off, including his own embassy. He can get help only from a mysterious lame beggar and, later, from the red-haired American wife of a Nigerian Army major.
+
+Amid progress mingling with squalor, amid fanged dangers under the dry wind from the desert, Nick won’t swerve or turn back. How he does find Jim Austin, how our most sympathetic characters make their escape through every explosion of violence, finally round out another brilliant story for your list.

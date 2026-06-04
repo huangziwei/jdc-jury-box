@@ -1,0 +1,16 @@
+{
+  "title": "The Jury Box",
+  "author": "John Dickson Carr",
+  "source": "Ellery Queen's Mystery Magazine",
+  "date": "1976-10",
+  "toc_label": "October 1976",
+  "pages": "124–126",
+  "citation": "Ellery Queen's Mystery Magazine (October 1976): 124–126.",
+  "file": "article.md",
+  "books_reviewed": [
+    { "title": "The Blue Hammer", "author": "Ross Macdonald", "publisher": "Knopf" },
+    { "title": "Premedicated Murder", "author": "Douglas Clark", "publisher": "Scribners" },
+    { "title": "With Extreme Prejudice", "author": "Berkely Mather", "publisher": "Scribners" },
+    { "title": "America in 1876: The Way We Were", "author": "Lally Weymouth", "publisher": "McGraw-Hill" }
+  ]
+}

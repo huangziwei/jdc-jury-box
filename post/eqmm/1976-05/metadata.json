@@ -1,0 +1,32 @@
+{
+  "title": "The Jury Box",
+  "author": "John Dickson Carr",
+  "source": "Ellery Queen's Mystery Magazine",
+  "date": "1976-05",
+  "toc_label": "May 1976",
+  "pages": "102–104",
+  "citation": "Ellery Queen's Mystery Magazine (May 1976): 102–104.",
+  "file": "article.md",
+  "books_reviewed": [
+    {
+      "title": "The Left-handed Sleeper",
+      "author": "Ted Willis",
+      "publisher": "Putnam"
+    },
+    {
+      "title": "Revenge",
+      "author": "Noel Hynd",
+      "publisher": "Dial Press"
+    },
+    {
+      "title": "The Chinese Fire Drill",
+      "author": "Michael Wolfe",
+      "publisher": "Harper & Row"
+    },
+    {
+      "title": "The Strange Case of Deacon Brodie",
+      "author": "Forbes Bramble",
+      "publisher": "Coward, McCann, Geoghegan"
+    }
+  ]
+}
