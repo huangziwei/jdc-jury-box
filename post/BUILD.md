@@ -42,8 +42,9 @@ uv run python src/build_epub.py     # build the EPUB
    placed before or after the sections per `essay_placement` (`"front"` / `"back"`).
 5. Front matter: cover, title page. Per-section half-title divider pages.
 6. Back matter: **Index of Books Reviewed** (auto-generated from every review's
-   `books_reviewed`; APA-style, author surname inverted, with publisher, sorted by
-   author) and a "Note on the Texts" colophon that names each source archive.
+   `books_reviewed`; APA-style, author surname inverted, with publisher and
+   publication year — reissues note the original year too — sorted by author) and a
+   "Note on the Texts" colophon that names each source archive.
 7. Standard-Ebooks-style CSS is embedded in the script (`CORE_CSS` + `LOCAL_CSS`).
    `_fix_css_paths` rewrites ebooklib's `css/…` links to `../css/…`.
 
@@ -64,7 +65,7 @@ Produced by `/proofread` (canonical docs in `.claude/commands/proofread.md`):
 | `citation` | `"Ellery Queen's Mystery Magazine (January 1969): 151–152."` |
 | `file` | `"article.md"` |
 | `type` | `"essay"` — optional; marks a standalone non-review piece (placed via `essay_placement`) |
-| `books_reviewed` | `[{title, author, publisher}]` (omit for essays) |
+| `books_reviewed` | `[{title, author, publisher, first_published_date, edition_published_date?}]` (omit for essays); `edition_published_date` only when Carr reviewed a reprint |
 
 `article.md` is kept faithful to the printed page (`## <title>` and byline retained);
 the build relabels the heading from the metadata.

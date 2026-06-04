@@ -15,7 +15,7 @@ Possibly every book Carr reviewed, in chronological order within each column. (T
 
 <!-- BOOK-TABLES:START -->
 
-_357 book reviews across 4 columns; 59 were reissues of older titles._
+_357 book reviews across 4 columns; 56 were reissues of older titles._
 
 The **Published** column gives the work's first-publication year — or *first*/*reissue* when Carr was reviewing a reprint.
 
@@ -258,7 +258,7 @@ The **Published** column gives the work's first-publication year — or *first*/
 | April 1973 | *Judge Dee at Work* | Robert van Gulik | Scribners | 1967/1973 |
 |  | *Wild Pitch* | A. B. Guthrie, Jr. | Houghton Mifflin | 1973 |
 |  | *Arson and Old Lace* | Sylvia Angus | World | 1972 |
-|  | *The Mystery of the Yellow Room* | Gaston Leroux |  | 1907/1973 |
+|  | *The Mystery of the Yellow Room* | Gaston Leroux |  | 1907 |
 | May 1973 | *Third Girl* | Agatha Christie | Pocket Books | 1966/1973 |
 |  | *The Serpent Under It* | Edith Taylor | Norton | 1973 |
 |  | *The Spy Trap* | Burton Graham | Weybright and Talley | 1971 |
@@ -266,7 +266,7 @@ The **Published** column gives the work's first-publication year — or *first*/
 | June 1973 | *The Red Thumb Mark* | R. Austin Freeman | Norton | 1907/1973 |
 |  | *The Bearer Plot* | Owen Sela | Pantheon | 1972 |
 |  | *The Trevick Affair* | Mauri Sariola | Walker | 1963/1973 |
-|  | *The Thinking Machine* | Jacques Futrelle |  | 1907/1973 |
+|  | *The Thinking Machine* | Jacques Futrelle |  | 1907 |
 | August 1973 | *Murder in Focus* | Dorothy Dunnett | Houghton Mifflin | 1973 |
 |  | *The Theft of Magna Carta* | John Creasey | Scribners | 1973 |
 |  | *The Matlock Paper* | Robert Ludlum | Dial Press | 1973 |
@@ -334,7 +334,7 @@ The **Published** column gives the work's first-publication year — or *first*/
 |  | *The Tightrope Men* | Desmond Bagley | Fawcett | 1973 |
 |  | *The Dark Side of the Street* | Jack Higgins | Fawcett | 1967/1975 |
 |  | *The Mexico Run* | Lionel White | Fawcett | 1974 |
-| May 1975 | *The Prisoner in the Opal* | A. E. W. Mason |  | 1928/1975 |
+| May 1975 | *The Prisoner in the Opal* | A. E. W. Mason |  | 1928 |
 |  | *Scorpio 5* | William Harrington | Coward, McCann & Geoghegan | 1975 |
 |  | *Death and Bright Water* | James Mitchell | Morrow | 1974 |
 |  | *Night Judgment at Sinos* | Jack Higgins | Fawcett | 1970/1975 |

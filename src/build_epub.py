@@ -185,21 +185,38 @@ def make_halftitle(name: str) -> str:
     return wrap_xhtml(inner, name)
 
 
+def index_parenthetical(b: dict) -> str:
+    """`(Publisher, Year)` for an index entry; any part may be absent.
+
+    The publisher and year are the edition Carr reviewed. When that was a reprint
+    (`edition_published_date` set), the original year is noted too, e.g.
+    "(Fawcett, 1969; first published 1926)". Mirrors the README's first/reissue split.
+    """
+    pub = b.get("publisher", "")
+    fp = b.get("first_published_date")
+    ed = b.get("edition_published_date")
+    bits = [esc(str(pub))] if pub else []
+    if fp and ed:
+        bits.append(f"{esc(str(ed))}; first published {esc(str(fp))}")
+    elif fp or ed:
+        bits.append(esc(str(fp or ed)))
+    return f" ({', '.join(bits)})" if bits else ""
+
+
 def make_index(issues_in_order: list[dict]) -> str:
     entries = []
     for it in issues_in_order:
         for b in it.get("books_reviewed", []):
-            entries.append((b["title"], b["author"], b.get("publisher", ""),
+            entries.append((b["title"], b["author"], index_parenthetical(b),
                             it["source"], it["toc_label"]))
     entries.sort(key=lambda e: (_ascii_fold(invert_author(e[1])), sort_key_title(e[0])))
     rows = []
-    for (title, author, pub, source, label) in entries:
+    for (title, author, paren, source, label) in entries:
         inv = invert_author(author)
         dot = "" if inv.endswith(".") else "."   # avoid "Davies, L. P.." double period
-        pubpart = f" ({esc(pub)})" if pub else ""
         rows.append(
             f'\t\t\t<p class="index-entry">{esc(inv)}{dot} '
-            f"<i>{esc(title)}</i>{pubpart}. Reviewed in {esc(source)}, {esc(label)}.</p>"
+            f"<i>{esc(title)}</i>{paren}. Reviewed in {esc(source)}, {esc(label)}.</p>"
         )
     inner = (
         '<section epub:type="endnotes">\n'
