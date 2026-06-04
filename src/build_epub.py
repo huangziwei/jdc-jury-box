@@ -1,13 +1,16 @@
 #!/usr/bin/env python3
-"""Compile the proofread John Dickson Carr review issues into one EPUB.
+"""Compile the proofread John Dickson Carr pieces into one EPUB.
 
 No pandoc. Mirrors ~/Projects/selectedpoe: ebooklib + Standard-Ebooks-style CSS,
 a Pillow-generated cover, managed with uv.
 
-Reads post/book.json plus every post/<magazine>/<issue>/{article.md, metadata.json},
-groups issues by magazine (order from book.json), sorts by date, and emits a
-two-level TOC (magazine -> issue). Each issue is titled "<toc_label> — <title>"
-and carries its source citation. Back matter holds an Index of Books Reviewed.
+Reads post/book.json plus every post/<group>/<issue>/{article.md, metadata.json}.
+Review columns are grouped into ordered sections (order + match rules from
+book.json's "sections"), sorted by date, and emitted as a two-level TOC
+(column -> issue); each review is titled by its date (<toc_label>) and carries its
+source citation. A standalone essay (metadata "type": "essay") is placed as its own
+chapter at the front or back of the reviews ("essay_placement"). Back matter holds
+an Index of Books Reviewed and a colophon.
 """
 
 import glob
@@ -173,26 +176,6 @@ def make_titlepage(title: str, subtitle: str, author: str, version: str) -> str:
     return wrap_xhtml(inner, title)
 
 
-def make_intro(bio: str) -> str:
-    inner = (
-        '<section epub:type="preamble">\n'
-        '\t\t\t<h2 epub:type="title">About This Collection</h2>\n'
-        "\t\t\t<p>For thirteen years John Dickson Carr — a grand master of the "
-        "locked-room mystery — kept up a running verdict on other people’s crime "
-        "fiction, in two homes and under three running titles.</p>\n"
-        "\t\t\t<p>In <i>Harper’s Magazine</i> (1964–1967) his annual column "
-        "“Murder-Fancier Recommends” singled out ten novels a year. In "
-        "<i>Ellery Queen’s Mystery Magazine</i> (January 1969 – November 1976) "
-        "he wrote a monthly column — first “Best Mysteries of the Month,” "
-        "later “The Jury Box.”</p>\n"
-        "\t\t\t<p>The reviews are gathered here in two sections, each issue presented "
-        "as Carr wrote it, with its original source noted.</p>\n"
-        f"\t\t\t<p><i>{esc(bio)}</i></p>\n"
-        "\t\t</section>"
-    )
-    return wrap_xhtml(inner, "About This Collection")
-
-
 def make_halftitle(name: str) -> str:
     inner = (
         '<section epub:type="halftitlepage">\n'
@@ -227,18 +210,35 @@ def make_index(issues_in_order: list[dict]) -> str:
     return wrap_xhtml(inner, "Index of Books Reviewed")
 
 
-def make_colophon(version: str, n_issues: int) -> str:
-    plural = "s" if n_issues != 1 else ""
+def make_colophon(version: str, n_reviews: int, n_essays: int) -> str:
+    plural = "s" if n_reviews != 1 else ""
+    essay_note = ""
+    if n_essays:
+        e_pl = "s" if n_essays != 1 else ""
+        essay_note = f", plus {n_essays} essay{e_pl}"
+    provenance = (
+        "\t\t\t<p>The scans were drawn from several archives: the <i>Harper’s "
+        "Magazine</i> columns from ProQuest; the <i>Ellery Queen’s Mystery Magazine</i> "
+        "columns from the Internet Archive; and the <i>New York Times</i> reviews from "
+        "the Times’ TimesMachine."
+    )
+    if n_essays:
+        provenance += (
+            " “The Grandest Game in the World” is taken from <i>The Door to Doom and "
+            "Other Detections</i>, edited by Douglas G. Greene (New York: Harper &amp; "
+            "Row, 1980)."
+        )
+    provenance += "</p>\n"
     inner = (
         '<section epub:type="colophon">\n'
         '\t\t\t<h2 epub:type="title">A Note on the Texts</h2>\n'
-        "\t\t\t<p>The text of each column was proofread against page scans of the "
-        "original magazine issues (digitized via ProQuest), with OCR errors corrected "
-        "and advertisements, running heads, and other critics’ columns removed. "
-        "Each issue’s source is cited beneath its heading.</p>\n"
+        "\t\t\t<p>Each piece was transcribed from its original appearance and proofread "
+        "against page scans, with OCR errors corrected and advertisements, running heads, "
+        "and adjacent matter removed. Each piece’s source is cited beneath its heading.</p>\n"
+        + provenance +
         f"\t\t\t<p>This is <b>version {esc(version)}</b> of an ongoing transcription; "
-        f"it currently gathers {n_issues} issue{plural}. The version is raised as more "
-        "issues are proofread.</p>\n"
+        f"it currently gathers {n_reviews} review issue{plural}{essay_note}. The version "
+        "is raised as more pieces are proofread.</p>\n"
         "\t\t\t<p>The CSS styling is adapted from the open-source "
         "<a href=\"https://standardebooks.org/\">Standard Ebooks</a> framework.</p>\n"
         "\t\t</section>"
@@ -261,19 +261,67 @@ def load_issues() -> list[dict]:
     return issues
 
 
+def assign_sections(reviews: list[dict], meta: dict) -> list[tuple[str, list[dict]]]:
+    """Group review issues into ordered, named sections (the TOC's top level).
+
+    Driven by book.json "sections": an ordered list of {name?, match: {field: value}}.
+    A piece joins the first section whose every match field equals the piece's
+    metadata — so EQMM splits into "Best Mysteries of the Month" / "The Jury Box" by
+    `title`, while the New York Times pieces (per-book titles) group by `source`.
+    Falls back to grouping by source (order from "magazine_order") when no sections
+    are configured. Anything unmatched is appended under its source, with a warning,
+    so nothing is silently dropped.
+    """
+    out: list[tuple[str, list[dict]]] = []
+    sections_cfg = meta.get("sections")
+    if sections_cfg:
+        used = [False] * len(reviews)
+        for sec in sections_cfg:
+            crit = sec.get("match", {})
+            name = sec.get("name") or crit.get("title") or crit.get("source") or "Reviews"
+            members = []
+            for i, it in enumerate(reviews):
+                if not used[i] and all(it.get(k) == v for k, v in crit.items()):
+                    members.append(it)
+                    used[i] = True
+            members.sort(key=lambda m: str(m["date"]))
+            out.append((name, members))
+        leftovers = [it for i, it in enumerate(reviews) if not used[i]]
+    else:
+        by: dict[str, list[dict]] = {}
+        for it in reviews:
+            by.setdefault(it["source"], []).append(it)
+        order = [m for m in meta.get("magazine_order", []) if m in by]
+        order += [m for m in sorted(by) if m not in order]
+        out = [(m, sorted(by[m], key=lambda x: str(x["date"]))) for m in order]
+        leftovers = []
+
+    if leftovers:
+        by = {}
+        for it in leftovers:
+            by.setdefault(it.get("source", "(unsorted)"), []).append(it)
+        for src in sorted(by):
+            out.append((src, sorted(by[src], key=lambda x: str(x["date"]))))
+        print(f"  WARNING: {len(leftovers)} piece(s) matched no section in book.json "
+              f'"sections"; appended under: {", ".join(sorted(by))}')
+    return out
+
+
 def build() -> None:
     with open(os.path.join(POST, "book.json"), encoding="utf-8") as f:
         meta = json.load(f)
 
     issues = load_issues()
-    by_mag: dict[str, list[dict]] = {}
-    for it in issues:
-        by_mag.setdefault(it["source"], []).append(it)
-    for mag in by_mag:
-        by_mag[mag].sort(key=lambda m: str(m["date"]))
+    essays = sorted((it for it in issues if it.get("type") == "essay"),
+                    key=lambda m: str(m["date"]))
+    reviews = [it for it in issues if it.get("type") != "essay"]
+    review_sections = assign_sections(reviews, meta)
 
-    order = [m for m in meta["magazine_order"] if m in by_mag]
-    order += [m for m in sorted(by_mag) if m not in order]  # any stragglers
+    # Subtitle date range spans the earliest to the latest piece (fills "{years}").
+    years = sorted(int(str(it["date"])[:4]) for it in issues if it.get("date"))
+    year_range = (f"{years[0]}–{years[-1]}" if years and years[0] != years[-1]
+                  else str(years[0]) if years else "")
+    subtitle = meta.get("subtitle", "").replace("{years}", year_range)
 
     book = epub.EpubBook()
     book.set_identifier("jdc-jury-box-reviews")
@@ -281,7 +329,7 @@ def build() -> None:
     book.set_language(meta.get("language", "en"))
     book.add_author(meta["author"])
     book.add_metadata("DC", "description",
-                      f"{meta['title']}: {meta.get('subtitle', '')}".strip(": "))
+                      f"{meta['title']}: {subtitle}".strip(": "))
     version = meta.get("version", "0.0.1")
     book.add_metadata(None, "meta", version, {"property": "schema:version"})
 
@@ -306,37 +354,47 @@ def build() -> None:
         book.add_item(ch)
         return ch
 
-    subtitle = meta.get("subtitle", "")
-    bio = meta.get("author_bio",
-                   "Mr. Carr is the author of numberless detective novels and of "
-                   "“The Life of Sir Arthur Conan Doyle.” He has been president "
-                   "both of the Mystery Writers of America and of the London Detection Club.")
+    def chapter(it: dict, display_title: str) -> epub.EpubHtml:
+        xhtml = article_to_xhtml(it["_article"], display_title,
+                                 it.get("citation", ""), it["_id"])
+        return page(display_title, f'text/{it["_id"]}.xhtml', xhtml)
 
     titlepage = page("Title Page", "text/titlepage.xhtml",
                      make_titlepage(meta["title"], subtitle, meta["author"], version))
-    intro = page("About This Collection", "text/about.xhtml", make_intro(bio))
 
-    spine: list = [titlepage, "nav", intro]
-    toc: list = [intro]
-    flat_order: list[dict] = []
+    spine: list = [titlepage, "nav"]
+    toc: list = []
+    flat_reviews: list[dict] = []
 
-    for mag in order:
-        ht_name = f"text/{slugify(mag)}-halftitle.xhtml"
-        ht = page(mag, ht_name, make_halftitle(mag))
+    # Standalone essay(s) — their own top-level chapter, titled by their real title.
+    essay_pages = [chapter(it, it["title"]) for it in essays]
+    placement = meta.get("essay_placement", "front")
+    if essay_pages and placement == "front":
+        spine += essay_pages
+        toc += essay_pages
+
+    # Review columns — one section (half-title + nested TOC) each, titled by date.
+    for name, members in review_sections:
+        if not members:
+            continue
+        ht_name = f"text/{slugify(name)}-halftitle.xhtml"
+        ht = page(name, ht_name, make_halftitle(name))
         spine.append(ht)
         chapters = []
-        for it in by_mag[mag]:
-            label = f'{it["toc_label"]} — {it["title"]}'
-            xhtml = article_to_xhtml(it["_article"], label, it.get("citation", ""), it["_id"])
-            ch = page(label, f'text/{it["_id"]}.xhtml', xhtml)
+        for it in members:
+            ch = chapter(it, it["toc_label"])
             spine.append(ch)
             chapters.append(ch)
-            flat_order.append(it)
-        toc.append((epub.Section(mag, href=ht_name), tuple(chapters)))
+            flat_reviews.append(it)
+        toc.append((epub.Section(name, href=ht_name), tuple(chapters)))
 
-    index = page("Index of Books Reviewed", "text/index.xhtml", make_index(flat_order))
+    if essay_pages and placement == "back":
+        spine += essay_pages
+        toc += essay_pages
+
+    index = page("Index of Books Reviewed", "text/index.xhtml", make_index(flat_reviews))
     colophon = page("A Note on the Texts", "text/colophon.xhtml",
-                    make_colophon(version, len(flat_order)))
+                    make_colophon(version, len(flat_reviews), len(essay_pages)))
     spine.extend([index, colophon])
     toc.extend([index, colophon])
 
@@ -348,11 +406,17 @@ def build() -> None:
     epub.write_epub(OUT, book, {})
     _fix_css_paths(OUT)
 
-    n_books = sum(len(it.get("books_reviewed", [])) for it in flat_order)
+    n_books = sum(len(it.get("books_reviewed", [])) for it in flat_reviews)
+    n_sections = sum(1 for _, members in review_sections if members)
     print(f"Wrote {OUT}")
-    print(f"  magazines: {len(order)}  issues: {len(flat_order)}  books indexed: {n_books}")
-    for mag in order:
-        print(f"    - {mag}: {len(by_mag[mag])} issues")
+    print(f"  {meta['title']} — {subtitle}")
+    print(f"  sections: {n_sections}  review issues: {len(flat_reviews)}  "
+          f"essays: {len(essay_pages)}  books indexed: {n_books}")
+    for name, members in review_sections:
+        if members:
+            print(f"    - {name}: {len(members)}")
+    for it in essays:
+        print(f"    - essay ({placement}): {it['title']}")
 
 
 def _fix_css_paths(epub_path: str) -> None:

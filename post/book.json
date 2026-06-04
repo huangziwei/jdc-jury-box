@@ -1,26 +1,28 @@
 {
   "title": "The Jury Box",
-  "subtitle": "The Mystery Reviews of John Dickson Carr, 1964–1976",
-  "version": "0.7.0",
+  "subtitle": "The Mystery Reviews of John Dickson Carr, {years}",
+  "version": "0.8.0",
   "author": "John Dickson Carr",
   "author_bio": "Mr. Carr is the author of numberless detective novels and of “The Life of Sir Arthur Conan Doyle.” He has been president both of the Mystery Writers of America and of the London Detection Club.",
   "language": "en",
   "toc": {
     "depth": 2,
-    "structure": "magazine -> issue (by date)",
-    "issue_label_format": "{toc_label} — {title}"
+    "structure": "column (section) -> issue (by date)",
+    "issue_label_format": "{toc_label}"
   },
-  "magazine_order": [
-    "Harper's Magazine",
-    "Ellery Queen's Mystery Magazine"
+  "sections": [
+    { "name": "The New York Times Book Review", "match": { "source": "The New York Times" } },
+    { "name": "Murder-Fancier Recommends",      "match": { "title": "Murder-Fancier Recommends" } },
+    { "name": "Best Mysteries of the Month",    "match": { "title": "Best Mysteries of the Month" } },
+    { "name": "The Jury Box",                   "match": { "title": "The Jury Box" } }
   ],
+  "essay_placement": "front",
   "front_matter": [
-    "title page",
-    "source / provenance note",
-    "author bio (from the 1964 Harper's blurb)"
+    "title page"
   ],
   "back_matter": [
-    "Index of Books Reviewed (generated from each issue's books_reviewed)"
+    "Index of Books Reviewed (generated from each issue's books_reviewed)",
+    "A Note on the Texts (provenance + colophon)"
   ],
   "build": "see BUILD.md"
 }
