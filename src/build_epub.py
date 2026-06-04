@@ -334,9 +334,11 @@ def build() -> None:
     book.add_metadata(None, "meta", version, {"property": "schema:version"})
 
     cover_path = os.path.join(ASSETS, "cover.jpg")
+    cover_page = None
     if os.path.exists(cover_path):
         with open(cover_path, "rb") as f:
             book.set_cover("images/cover.jpg", f.read(), create_page=True)
+        cover_page = book.get_item_with_id("cover")  # the auto-made cover.xhtml
 
     core = epub.EpubItem(uid="core_css", file_name="css/core.css",
                          media_type="text/css", content=CORE_CSS.encode("utf-8"))
@@ -362,8 +364,8 @@ def build() -> None:
     titlepage = page("Title Page", "text/titlepage.xhtml",
                      make_titlepage(meta["title"], subtitle, meta["author"], version))
 
-    spine: list = [titlepage, "nav"]
-    toc: list = []
+    spine: list = ([cover_page] if cover_page else []) + [titlepage, "nav"]
+    toc: list = [cover_page] if cover_page else []
     flat_reviews: list[dict] = []
 
     # Standalone essay(s) — their own top-level chapter, titled by their real title.
