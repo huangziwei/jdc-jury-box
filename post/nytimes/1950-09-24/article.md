@@ -1,0 +1,31 @@
+## With Colt and Luger
+
+by John Dickson Carr
+
+In 1946 Mr. Chandler revised and reprinted an essay called **The Simple Art of Murder**. It appeared also in Avon Books. It now turns up for the fourth time in his new book of twelve old novelettes. Since he likes the essay so well, it may be best to consider this piece of naïveté on its own.
+
+His thesis is that murder must become realistic. It must be taken out of the Venetian vase and dropped into the alley. It must be handled by men who understand it, who use the Luger and the Colt for real reasons, undismayed by violence, all raw-head and bloody-bones. Besides, he says, this makes the writing of a detective story good fun.
+
+Now we must not become entangled in the dreary old argument about realism. Anything is real if it seems real. Mr. Chandler sometimes writes fluently and well. He falls into a fit of screaming hysterics only when he considers the formal English detective story and the Detection Club of London. These, he confesses, get him down. In his excitement he pulverizes two English novels, one published in 1913 and the other in 1922. Yet he swears it’s no different today and attempts to pulverize everybody else in sight, including a number of Americans who are low-minded enough not to write as he does. Their plots, he says, are artificial, stilted, impossible and dull. The dastards *will* write about curare and hand-wrought dueling pistols. They know nothing about police work, nothing about violence, nothing about real life.
+
+He is pitiless, this austere fellow. He will not even allow English writers the negative virtues of background or culture. They speak in what Mr. Chandler calls the “conversational accent”—as opposed, perhaps, to the nonconversational accent?—of Surbiton or Bognor Regis. They write about dukes and Venetian vases, but they don’t know a thing about dukes or Venetian vases either.
+
+Now this, I confess, somewhat puzzles me. There is nothing wrong with Surbiton or Bognor Regis, unless Mr. Chandler’s soul hides much snobbery. Still, since I have been a member of the Detection Club for fifteen years, I would soothe and comfort him.
+
+He is quite right. The club contains only one peer of the realm, one baronet, one O. B. E., and two lowly knights. There isn’t a duke in it. Mr. Chandler, who modestly claims affinity with Aeschylus and Shakespeare, will have to debate only with Miss Sayers (it would brighten my declining years to hear this) and perhaps a dozen others: including Sir Norman Kendal, formerly Assistant Commissioner of the Criminal Investigation Department, Metropolitan Police. And, of course, these people know nothing of violence, especially those who lived in London and were on duty from 1940 to 1945.
+
+Yet we must return to Mr. Chandler’s essay. “The cool-headed constructionist,” he says, “does not also come across with lively characters, sharp dialogue, a sense of pace and an acute sense of observed detail.” Well, that is a matter for debate on both sides of the Atlantic. Such writers as Edgar Allan Poe, Nathaniel Hawthorne, Mark Twain, Charles Dickens, Wilkie Collins, Robert Louis Stevenson, Thomas Hardy, Joseph Conrad, John Galsworthy, Hugh Walpole, G. K. Chesterton—all of whom joyously wrote bloods as well as detective stories—were cool-headed constructionists. Can we allow them none of the other virtues as well?
+
+“The fellow who can write you a vivid and colorful prose,” says Mr. Chandler, “simply can’t be bothered with the coolie labor of breaking down unbreakable alibis.” In plain words, this hypothetical fellow won’t work. He can’t be bothered to learn craftsmanship, as Poe did and Stevenson did. Aside from the hypothetical, Mr. Chandler has emphasized his own dislike for plot-construction. The realistic method, he says, has freed him from “an exhausting concatenation of insignificant clues,”—raised eyebrows department—and he can now let the characters work out the story for themselves.
+
+Here we see the main weakness in Mr. Chandler’s novels. From the first page he goes whooping along at high speed, magnificently if somewhat confusedly, until he reaches the last chapter. There he takes one sweet spill into a net. He thrashes wildly, but he can’t get out; he can’t explain why his characters acted as they did, and he can’t even talk intelligibly. This, presumably, is realism.
+
+Mr. Chandler is a serious-minded man, and it would be unjust not to take him seriously. Few writers have been more mannered (I do not say ill-mannered) or more uneven. His similes either succeed brilliantly or fall flat. He can write a scene with an almost suffocating vividness and sense of danger—if he does not add three words too many and make it funny. His virtues are all there. If, to some restraint, he could add the fatigue of construction and clues (the writer he most admires, Mr. Hammett, has never disdained clues and has always given them fairly)—then one day he may write a good novel.
+
+I say nothing of new ideas or plot-twists, because Mr. Chandler does not have them. He will never disturb the laurels of Mr. Queen or Mr. Gardner or Mr. Stout. Perhaps it is best to let him alone, and offer no suggestions. In his new book, **The Simple Art of Murder**, few of the novelettes are new. Yet many are good and two are first-class. When he forgets he cannot write a true detective story, when he forgets to torture words, the muddle resolves and the action whips along like a numbered racing-car.
+
+*Pickup on Noon Street* is a fine study in terror, moving from reality to a hideous unreality and back again. I put it second only to the story beginning as a burlesque with two noble characters—Walter Gage and Henry Eichelberger—and ending in an admirably sardonic surprise-twist.
+
+In *Goldfish* he tried a plot device, with sad results; but the characters are so well done that we could wish all but two were not knocked off in gunplay before the end. If the stories burst and foam with blood, where is the criticism in that? Philip Marlow is not the only detective—the sleuths range from hotel dick to amateurs.
+
+Yet, it is an admirable collection. Mr. Chandler will do even better when he discovers that you cannot create an American language merely by butchering the English language.

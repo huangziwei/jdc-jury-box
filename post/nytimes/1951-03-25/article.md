@@ -1,0 +1,35 @@
+## Did Dickens Murder Drood?
+
+by John Dickson Carr
+
+On June 8, 1870, amid the mirrors of the Swiss chalet opposite Gad’s Hill, Charles Dickens was working hard at his new novel, *The Mystery of Edwin Drood*. Despite the ill-health which made him look much older than his 58 years, Dickens seemed in excellent spirits when he returned to the house for dinner. However, at dinner he fell down in a fit. The following morning he died.
+
+The death of Dickens was not only an international calamity; it left behind an international mystery. His last novel—only half completed—was a detective story. With this book Dickens had set himself a very particular kind of challenge.
+
+In recent years his plots and plot-constructions had been criticized. Perhaps he was too sensitive: all open nerves, hounded toward death by his own imagination. Yet he bitterly resented criticism of the plots, because he prided himself on his craftsmanship. In 1868 his close friend, William Wilkie Collins, had dazzled readers with the yellow-diamond glitter of *The Moonstone*, so fine in sheer ingenuity. Dickens was determined to show that the Old Master could beat Wilkie Collins at the pupil’s own game.
+
+The secret of Edwin Drood died with Dickens, and there has been immense argument and controversy to this day. J. Cuming Walters’ monumental work, *The Complete Mystery of Edwin Drood* (London: Chapman and Hall, 1912), summarizes most, though far from all, of the solutions yet presented. Now we have a new and brilliant critic, Richard M. Baker, with a new and brilliant book.
+
+Mr. Baker, in **The Drood Murder Case**, does not try to finish the story. Several novelists have attempted this, with sad results because nobody could or can write as well as Charles Dickens. Mr. Baker is a critical analyst, deeply read in source-materials, firing details like arrows, and supplying an answer for every problem. **The Drood Murder Case** is so absorbing, so well written, above all so closely reasoned, that nearly all his arguments—with one notable exception—seem unanswerable.
+
+Yet even to praise the analysis is to suppose that those who read this are still familiar with the details of Dickens’ tightly woven plot in *The Mystery of Edwin Drood*. Possibly only a hazy memory of its background remains: the drowsy old cathedral town of Cloisterham (Rochester), under a gloom of autumn in the air and autumn in Dickens’ heart.
+
+In Cloisterham lives John Jasper, lay precentor and choirmaster at the cathedral: Jasper, with his heavy side-whiskers and deep voice; secretly an opium-smoker, carving devils out of his own heart. He is tormented with love—a better word, as Mr. Baker says, would be lust—for the attractive though unfortunately named heroine, Rosa Bud. Rosa, a pupil at Miss Twinkleton’s Academy, has been pledged since childhood by her now-dead parents to marry young Edwin Drood. And Edwin—boyish, empty-headed, with his cool airs and his sneering laugh—is the “beloved” nephew and ward of John Jasper.
+
+Against the gray cathedral, with rooks cawing about its square tower, we also see the beaming, athletic clergyman, Minor Canon Crisparkle. To Septimus Crisparkle, as strangers from Ceylon, come the swarthy young Neville Landless, hot-tempered but straightforward, and his equally fiery twin-sister, Helena Landless. Trouble begins to boil almost as soon as Rosa and Edwin meet Neville and Helena Landless. Neville is studying with Canon Crisparkle; Helena is a pupil at Miss Twinkleton’s, like a grown woman amid the twitter of canaries. Edwin Drood, in his lazy way, is rather smitten with Helena Landless. Neville has fallen strongly in love with Rosa, and can scarcely conceal it. There is nearly a fight between Edwin and Neville, which is first urged on and then hypocritically soothed by the close-watching John Jasper.
+
+Under the ominous chapter-title, *When Shall These Three Meet Again?*, Edwin Drood, Neville Landless and John Jasper gather to dine in Jasper’s snug rooms above the gatehouse. That night a great storm of wind whirls over Cloisterham, smashing the street lamps, ripping off roof tiles amid clods of flying dirt. At dawn, a haggard Jasper appears at Canon Crisparkle’s house.
+
+“Where is my nephew?”
+
+“He has not been here. Is he not with you?”
+
+“No. He went down to the river last night, with Mr. Neville, to look at the storm, and has not been back. Call Mr. Neville!”
+
+Has Edwin Drood been murdered? Mr. Baker, as always with excellent reasons, replies, “Yes.” Other Droodians, including myself, will thunder out: “Of course he was!” A reader must be blind or insensitive who cannot feel death in the very texture of the story: aside even from the notes, intended for Dickens’ own eye alone, which describe the theme as murder.
+
+With only one point in **The Drood Murder Case** does it seem possible to disagree with Mr. Baker. This is his contention that John Jasper, the obvious suspect, is in fact the murderer. We may agree that Jasper wanted to murder Edwin and did dispose of the body. Yet I maintain that Jasper did not commit the murder; that the identity of the murderer is fully indicated by clues in the book; and that this was the thunderbolt-surprise with which Dickens meant to beat Wilkie Collins in the game of ingenuity.
+
+The reviewer’s job, however, is not to parade his own theories, but to assess the book. Perhaps Mr. Baker’s most fascinating theory is that the aging Dickens, at heart embittered and a social rebel, poured much of himself into the character of Jasper. Everyone now knows how Dickens’ already tottering marriage was upset by his love-affair with the 18-year-old actress, Ellen Ternan. In the most intimate account of this, told by Kate (Dickens) Perugini to Miss Gladys Storey in *Dickens and Daughter* (London: Frederick Muller, 1939), we learn how the nerve-torn Dickens insisted that his wife should pay a formal call on his mistress; and thereby like many a man before him, he wrecked everything.
+
+Though Mr. Baker’s theory appears sound and is possibly true, it must be weighed and weighed again, without moralizing or false sentiment. It must be discussed round what G. K. Chesterton called “the gigantic firelight of Dickens.” In any event, Mr. Baker’s book is the best study of *Edwin Drood* I have ever read.
